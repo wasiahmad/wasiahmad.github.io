@@ -19,7 +19,7 @@ I have received my Bachelor's in Computer Science and Engineering from the <a hr
 
 News and Announcements
 ======
-1. <span style="color:blue">[08.2019] </span>  One paper got accepted at CoNLL, 2019..
+1. <span style="color:blue">[08.2019] </span>  One paper got accepted at CoNLL, 2019.
 1. <span style="color:blue">[06.2019] </span>  I joined Yahoo Research (Verizon Media) for Summer, 2019.
 1. <span style="color:blue">[04.2019] </span>  One paper got accepted at SIGIR, 2019.
 1. <span style="color:blue">[02.2019] </span>  One paper got accepted at NAACL, 2019.
