@@ -85,7 +85,7 @@ author:
   bio              : "Ph.D. Student, CS@UCLA"
   location         : "Los Angeles, CA, US"
   employer         :
-  pubmed           : ""
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=YCHJZOMAAAAJ&hl=en"
   email            : wasiahmad@ucla.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "ahmadwasi"
-  orcid            : ""
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : https://stackoverflow.com/users/5352399/wasi-ahmad
