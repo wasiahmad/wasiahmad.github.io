@@ -1,11 +1,11 @@
 ---
 title: "Cross-lingual Dependency Parsing with Unlabeled Auxiliary Languages."
 collection: publications
-Authors: 'Wasi Ahmad, Zhisong Zhang, Xuezhe Ma, Kai-Wei Chang, and Nanyun Peng'
-date: 11/4/2019
-venue: 'CoNLL'
+Authors: 'Wasi Ahmad, Zhisong Zhang, Xuezhe Ma, Kai-Wei Chang, Nanyun Peng'
+date: 9/1/2019
+venue: 'ACL SIGNLL CoNLL [To appear]'
 paperurl: 'https://arxiv.org/pdf/1909.09265.pdf'
-presentationurl: ''
+presentationurl: 'Coming soon'
 excerpt: ''
 ---
 ---
