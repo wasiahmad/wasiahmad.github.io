@@ -1,11 +1,8 @@
 ---
-permalink: /
-title: "Welcome to my personal homepage"
-excerpt: "About me"
+layout: archive
+title: "Professional Experience"
+permalink: /experience/
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 <table class="table__tablenospace">
