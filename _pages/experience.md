@@ -1,3 +1,11 @@
+permalink: /
+title: "Welcome to my personal homepage"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+
 <table class="table__tablenospace">
 	<tr>
 		<td class="table__tablenospace"><img src='/images/UCLA.png' style='height:100px;width:100px'></td>
