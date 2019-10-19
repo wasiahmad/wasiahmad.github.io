@@ -5,7 +5,7 @@ Authors: '<b>Wasi Ahmad</b>, Kai-Wei Chang, and Hongning Wang.'
 date: 06/2018
 venue: 'ACM SIGIR'
 paperurl: 'https://wasiahmad.github.io/files/publications/2018/iqp_personalized_web_search.pdf'
-presentationurl: ''
+presentationurl: 'https://wasiahmad.github.io/files/publications/2018/iqp_presentation.pdf'
 codeurl: 'https://github.com/wasiahmad/intent_aware_privacy_protection_in_pws'
 excerpt: ''
 ---
