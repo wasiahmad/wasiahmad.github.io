@@ -50,7 +50,7 @@ collection: portfolio
 		<td class="table__tablenospace"><img src='/images/Walmart.png' style='height:100px;;width:100px'></td>
 		<td class="table__tablenospace" width="600px">
 			<span style="color:black; font-size:17px"> 
-			<font color="brown" size="5"><b>@WalmartLabs</b></font><br/>
+			<font color="brown" size="5"><b>WalmartLabs</b></font><br/>
 			Research Intern [Summer 2016]<br/>
 			Manager: <a href="https://www.linkedin.com/in/gregfavinger/">Greg Favinger</a><br/>
 			Mentor: <a href="https://www.linkedin.com/in/colin-morse-13549b3/">Colin Morse</a><br/>
@@ -64,6 +64,16 @@ collection: portfolio
 			<span style="color:black; font-size:17px"> 
 			<font color="brown" size="5"><b>Ahsanullah University of Science and Technology (AUST)</b></font><br/>
 			Lecturer [November, 2013 - August, 2015]<br/>
+			Department: <a href="http://aust.edu/cse/index.htm">Computer Science and Engineering</a>
+			</span>
+		</td>
+ 	</tr>
+	<tr>
+		<td class="table__tablenospace"><img src='' style='height:100px;;width:100px'></td>
+		<td class="table__tablenospace" width="600px">
+			<span style="color:black; font-size:17px"> 
+			<font color="brown" size="5"><b>REVE Systems</b></font><br/>
+			Software Engineer [February, 2013 - October, 2013]<br/>
 			Department: <a href="http://aust.edu/cse/index.htm">Computer Science and Engineering</a>
 			</span>
 		</td>
