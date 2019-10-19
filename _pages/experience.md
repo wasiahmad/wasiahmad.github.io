@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <br/>
-    <span style="color:black; font-size:17px"><font color="brown" size="5"><b><a href="http://www.ucla.edu/">University of California, Los Angeles</a></b></font></span><br/>
+    <span style="color:black; font-size:17px"><b><a href="http://www.ucla.edu/"><font color="brown" size="5">University of California, Los Angeles</font></a></b></span><br/>
     Graduate Research Assistant [August, 2017 - Present]<br/>
     Advisor: <a href="http://web.cs.ucla.edu/~kwchang/">Dr. Kai-Wei Chang</a><br/>
     Lab: <a href="http://web.cs.ucla.edu/~kwchang/members/">UCLA NLP</a>
