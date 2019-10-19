@@ -60,7 +60,7 @@ redirect_from:
     
     
 <br/>
-  <span style="color:black; font-size:17px"><b><a href="http://www.revesoft.com/" target="_blank"><font color="brown" size="5">E Systems</font></a></b></span><br/>
-    Software Development Engineer [February, 2013 - October, 2013]<br/>
+  <span style="color:black; font-size:17px"><b><a href="http://www.revesoft.com/" target="_blank"><font color="brown" size="5">REVE Systems</font></a></b></span><br/>
+    Software Development Engineer, Android [February, 2013 - October, 2013]<br/>
     
     
