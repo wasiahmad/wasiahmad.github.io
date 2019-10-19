@@ -10,7 +10,7 @@ codeurl: 'https://github.com/wasiahmad/mining_wikipedia/tree/master/WikiMiner'
 excerpt: ''
 ---
 ---
-<a href='https://www.aclweb.org/anthology/L18-1062.pdf'>[Download Paper]</a>
+<a href='https://www.aclweb.org/anthology/L18-1062.pdf' target="_blank">[Download Paper]</a>
 
 <div style='display: flex; justify-content: center;'><img src='https://wasiahmad.github.io/files/publications/2018/LREC-1.png' 
 alt='Image not Loading' style='height:350px;' align='middle'></div><br>
