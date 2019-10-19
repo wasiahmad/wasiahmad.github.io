@@ -10,8 +10,8 @@ redirect_from:
 <br/>
     <span style="color:black; font-size:17px"><b><a href="http://www.ucla.edu/" target="_blank"><font color="brown" size="5">University of California, Los Angeles</font></a></b></span><br/>
     Graduate Research Assistant [August, 2017 - Present]<br/>
-    Advisor: <a href="http://web.cs.ucla.edu/~kwchang/" target="_blank">Dr. Kai-Wei Chang</a><br/>
-    Lab: <a href="http://web.cs.ucla.edu/~kwchang/members/" target="_blank">UCLA NLP</a>
+    Graduate Teaching Assistant [January, 2019 - June, 2019]<br/>
+    Advisor: <a href="http://web.cs.ucla.edu/~kwchang/" target="_blank">Dr. Kai-Wei Chang</a>, Lab: <a href="http://web.cs.ucla.edu/~kwchang/members/" target="_blank">UCLA NLP</a>
  
  
 <br/>
@@ -19,12 +19,6 @@ redirect_from:
     Sunnyvale, California<br/>
     Research Intern [June, 2019 - September, 2019]<br/>
     Manager: <a href="https://sites.google.com/site/xiaobaihomepage/" target="_blank">Xiao Bai</a>, Mentor: <a href="https://www.linkedin.com/in/soomin-lee-86163a29/" target="_blank">Soomn Lee</a>
-    
-
-<br/>
-    <span style="color:black; font-size:17px"><b><a href="http://www.ucla.edu/" target="_blank"><font color="brown" size="5">University of California, Los Angeles</font></a></b></span><br/>
-    Graduate Teaching Assistant [January, 2019 - June, 2019]<br/>
-    Department: <a href="https://www.cs.ucla.edu/" target="_blank">Computer Science</a>
     
 
 <br/>
@@ -37,6 +31,7 @@ redirect_from:
 <br/>
     <span style="color:black; font-size:17px"><b><a href="https://www.virginia.edu/" target="_blank"><font color="brown" size="5">University of Virginia</font></a></b></span><br/>
     Graduate Research Assistant [August, 2016 - May, 2017]<br/>
+    Graduate Teaching Assistant [August, 2015 - May, 2016]<br/>
     Advisor: <a href="http://web.cs.ucla.edu/~kwchang/" target="_blank">Dr. Kai-Wei Chang</a>
 
 
@@ -45,12 +40,6 @@ redirect_from:
     Reston, Virginia<br/>
     Research Intern [June, 2019 - September, 2019]<br/>
     Manager: <a href="https://www.linkedin.com/in/gregfavinger/" target="_blank">Greg Favinger</a>, Mentor: <a href="https://www.linkedin.com/in/colin-morse-13549b3/" target="_blank">Colin Morse</a>
-    
-
-<br/>
-    <span style="color:black; font-size:17px"><b><a href="https://www.virginia.edu/" target="_blank"><font color="brown" size="5">University of Virginia</font></a></b></span><br/>
-    Graduate Teaching Assistant [August, 2015 - May, 2016]<br/>
-    Department: <a href="http://www.cs.virginia.edu" target="_blank">Computer Science</a>
 
 
 <br/>
