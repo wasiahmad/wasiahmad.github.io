@@ -55,7 +55,12 @@ redirect_from:
 
 <br/>
   <span style="color:black; font-size:17px"><b><a href="http://aust.edu/" target="_blank"><font color="brown" size="5">Ahsanullah University of Science and Technology</font></a></b></span><br/>
-    Lecturer [August, 2015 - May, 2016]<br/>
+    Lecturer [November, 2013 - August, 2015]<br/>
     Department: <a href="http://aust.edu/cse/index.htm" target="_blank">Computer Science and Engineering</a>
+    
+    
+<br/>
+  <span style="color:black; font-size:17px"><b><a href="http://www.revesoft.com/" target="_blank"><font color="brown" size="5">E Systems</font></a></b></span><br/>
+    Software Development Engineer [February, 2013 - October, 2013]<br/>
     
     
