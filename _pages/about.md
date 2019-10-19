@@ -22,7 +22,7 @@ News and Announcements
 1. <span style="color:blue">[08.2019] </span>  One <a href="https://arxiv.org/abs/1909.09265">paper</a> got accepted at CoNLL, 2019..
 1. <span style="color:blue">[06.2019] </span>  I joined Yahoo Research (Verizon Media) for Summer, 2019.
 1. <span style="color:blue">[04.2019] </span>  One <a href="https://dl.acm.org/citation.cfm?doid=3331184.3331246">paper</a> got accepted at SIGIR, 2019.
-1. <span style="color:blue">[02.2019] </span>  One <a href=""https://arxiv.org/pdf/1811.00570.pdf>paper</a> got accepted at NAACL, 2019.
+1. <span style="color:blue">[02.2019] </span>  One <a href="https://arxiv.org/pdf/1811.00570.pdf">paper</a> got accepted at NAACL, 2019.
 1. <span style="color:blue">[06.2018] </span>  I joined Microsoft Research, Redmond for Summer, 2018.
 1. <span style="color:blue">[04.2018] </span>  Two papers got accepted at SIGIR, 2018.
 1. <span style="color:blue">[01.2018] </span>  One <a href="https://openreview.net/pdf?id=SJ1nzBeA-">paper</a> got accepted at ICLR, 2018.
