@@ -7,13 +7,12 @@ redirect_from:
   - /resume
 ---
 
-<ul style="color:rgb(19,79,92)"><li>
-<h2 style="font-weight:normal;color:rgb(102,97,84);font-size:1.6em"><b><font size="4"><span style="font-family:georgia,serif"><font size="3"><span style="color:rgb(19,79,92)">Graduate Research Assistant from September 2017 to Present</span></font></span></font></b></h2>
-</li></ul>
-<div style="margin-left:70px">
-<font size="3" style="font-family:georgia,serif"><a href="http://www.ucla.edu/" target="_blank">University of California, Los Angeles</a></font><br>
-<font size="3" style="font-family:georgia,serif"> </font><font size="3"><span style="font-family:georgia,serif">Department of Computer Science</span></font>
-</div>
+<span style="color:black; font-size:17px"> 
+    <font color="brown" size="5"><b>University of California, Los Angeles (UCLA)</b></font><br/>
+    Graduate Research Assistant [August,2017 - Present]<br/>
+    Advisor: <a href="http://web.cs.ucla.edu/~kwchang/">Dr. Kai-Wei Chang</a><br/>
+    Lab: <a href="http://web.cs.ucla.edu/~kwchang/members/">UCLA NLP</a>
+</span>
 
 <ul style="color:rgb(19,79,92)"><li>
 <h2 style="font-weight:normal;color:rgb(102,97,84);font-size:1.6em"><b><font size="4"><span style="font-family:georgia,serif"><font size="3"><span style="color:rgb(19,79,92)">Research Intern from June 2019 to September 2019</span></font></span></font></b></h2>
