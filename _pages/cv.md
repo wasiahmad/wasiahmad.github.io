@@ -1,89 +1,50 @@
 ---
 layout: archive
-title: "Academic Training"
+title: "Education"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-You can download the PDF version [here](../files/CV.pdf)
+You can download my [cv](../files/cv_wasi_ahmad.pdf) or [resume](../files/resume_wasi_ahmad.pdf).
 
-<table class="table__tablenospace">
-	<tr>
-		<td class="table__tablenospace"><img src='/images/MIT.png' style='height:100px;width:100px'></td>
-		<td class="table__tablenospace" align="left">
-			<span style="color:black; font-size:17px"> 
-				<font color="purple" size="5"><b>Massachusetts Institute of Technology (MIT)</b></font><br/>
-				Postdoctoral Research Associate [February, 2019 - Current]<br/>
-				Host: <a href="https://kalyan.lids.mit.edu/">Dr. Kalyan Veeramachaneni</a><br/>
-				Lab: <a href="https://lids.mit.edu/">Laboratory for Information and Decision Systems (LIDS)</a></span></td>
- 	</tr>
-	
-	<tr>
-		<td class="table__tablenospace"><img src='/images/UIUC.png' style='height:100px;width:100px'></td>
-		<td class="table__tablenospace" align="left">
-			<span style="color:black; font-size:17px"> 
-				<font color="purple" size="5"><b>University of Illinois Urbana Champaign (UIUC)</b></font><br/>
-				Ph.D. in Computer Science [August, 2014 - December, 2018] <a href="/files/PhDDiploma.pdf" target="_blank">(Diploma)</a><br/>
-				CGPA: <b>4.00</b> out of 4.00 <a href="/files/PhD.pdf" target="_blank">(Transcript)</a><br/>
-				Advisor: <a href="hhttp://czhai.cs.illinois.edu/">Prof. Chengxiang Zhai</a><br/>
-				Lab: <a href="http://sifaka.cs.uiuc.edu/ir/">TIMAN</a></span></td>	
- 	</tr>
-	
-	<tr>
-		<td class="table__tablenospace"><img src='/images/BUET.png' style='height:100px;width:100px'></td>
-		<td class="table__tablenospace" align="left">
-			<span style="color:black; font-size:17px"> 
-				<font color="purple" size="5"><b>Bangladesh University of Engineering and Technology (BUET)</b></font><br/>
-				MS in Computer Science [April, 2012 - May, 2014] <a href="/files/MastersDiploma.pdf" target="_blank">(Diploma)</a><br/>
-				CGPA: <b>4.00</b> out of 4.00  <a href="/files/Masters.pdf" target="_blank">(Transcript)</a> <br/>
-				Advisor: <a href="https://cse.buet.ac.bd/faculty/facdetail.php?id=mdmonirulislam" target="_blank">Prof. Md. Monirul Islam</a><br/>
-				Lab: <a href="https://cse.buet.ac.bd/faculty/facdetail.php?id=mdmonirulislam" target="_blank">AI and Machine Learning</a></span></td>	
- 	</tr>
-	
-	
-	<tr>
-		<td class="table__tablenospace"><img src='/images/BUET.png' style='height:100px;width:100px'></td>
-		<td class="table__tablenospace" align="left">
-			<span style="color:black; font-size:17px"> 
-				<font color="purple" size="5"><b>Bangladesh University of Engineering and Technology (BUET)</b></font><br/>
-				BS in Computer Science [June, 2007 - April, 2012] <a href="/files/BachelorsDiploma.pdf" target="_blank">(Diploma)</a><br/>
-				Class Rank: <b>1</b><br/>
-				CGPA: <b>3.98</b> out of 4.00 <a href="/files/Bachelors.pdf" target="_blank">(Transcript)</a> <br/>
-				Advisor: <a href="https://cse.buet.ac.bd/faculty/facdetail.php?id=mdmonirulislam/" target="_blank">Prof. Md. Monirul Islam</a></span></td>
- 	</tr>
-	
-	
-	<tr>
-		<td class="table__tablenospace"><img src='/images/BCC.png' style='height:100px;width:100px'></td>
-		<td class="table__tablenospace" align="left">
-			<span style="color:black; font-size:17px"> 
-				<font color="purple" size="5"><b>Barisal Cadet College</b></font><br/>
-				HSC/SSC [2006/2004]<br/>
-				CGPA: <b>5.00</b> out of 5.00 
-			</span></td>	
- 	</tr>
- 	
- 	
- 	<tr>
-		<td class="table__tablenospace"><img src='/images/Zilla.png' style='height:100px;width:100px'></td>
-		<td class="table__tablenospace" align="left">
-			<span style="color:black; font-size:17px"> 
-				<font color="purple" size="5"><b>Khulna Zilla School</b></font><br/>
-				3rd to 6th standard<br/>
-			</span></td>	
- 	</tr>
- 	
- 	
-	
-<table>
+<br/>
+    <span style="color:black; font-size:17px"><b><a href="https://cs.ucla.edu" target="_blank"><font color="brown" size="5">University of California, Los Angeles</font></a></b></span><br/>
+    Ph.D. in Computer Science <br/>
+    Period of Study: September 2017 - Present <br/>
+    CGPA: <b>3.78/4.00</b> scale (Coursework Completed) <br/>
+    Advisor: <a href="http://web.cs.ucla.edu/~kwchang/" target="_blank">Dr. Kai-Wei Chang</a>, Lab: <a href="http://web.cs.ucla.edu/~kwchang/members/" target="_blank">UCLA NLP</a>
+ 
+ 
+<br/>
+    <span style="color:black; font-size:17px"><b><a href="http://www.cs.virginia.edu" target="_blank"><font color="brown" size="5">University of Virginia</font></a></b></span><br/>
+    Master in Computer Science <br/>
+    Period of Study: August 2015 - August 2017 <br/>
+    CGPA: <b>4.00/4.00</b> scale <br/>
+    Advisor: <a href="http://web.cs.ucla.edu/~kwchang/" target="_blank">Dr. Kai-Wei Chang</a>
 
 
-
-
-
-
-
-
-
+<br/>
+    <span style="color:black; font-size:17px"><b><a href="http://cse.buet.ac.bd" target="_blank"><font color="brown" size="5">Bangladesh University of Engineering and Technology</font></a></b></span><br/>
+    Bachelor of Science (B.Sc.) in Computer Science and Engineering <br/>
+    Period of Study: January 2018 - February 2017 <br/>
+    CGPA: <b>3.81/4.00</b> scale <br/>
+    Position: Ranked <b>8<sup>th</sup></b> in a class of <b>142</b> students  <br/>
+    Academic Advisor: <a href="http://cse.buet.ac.bd/faculty/facdetail.php?id=mahmudanaznin" target="_blank">Dr. Mahmuda Naznin</a> <br/>
+    Thesis Supervisor: <a href="http://cse.buet.ac.bd/faculty/facdetail.php?id=asmlatifulhoque" target="_blank">Dr. Abu Sayed Md. Latiful Hoque</a>
+    
+        
+<br/>
+    <span style="color:black; font-size:17px"><b><a href="http://dhakacollege.edu.bd/" target="_blank"><font color="brown" size="5">Dhaka College</font></a></b></span><br/>
+    Higher Secondary Certificate (HSC) <br/>
+    GPA: <b>5.00/4.00</b> scale
+    
+    
+<br/>
+    <span style="color:black; font-size:17px"><b><a href="http://www.glabdhaka.edu.bd/" target="_blank"><font color="brown" size="5">Government Laboratory High School</font></a></b></span><br/>
+    Secondary School Certificate (SSC) <br/>
+    GPA: <b>5.00/4.00</b> scale <br/>
+    
+    
+    
