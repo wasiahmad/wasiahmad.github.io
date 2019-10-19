@@ -13,7 +13,7 @@ excerpt: ''
 <a href='https://wasiahmad.github.io/files/publications/2018/iqp_personalized_web_search.pdf' target="_blank">[Download Paper]</a>
 
 <div style='display: flex; justify-content: center;'><img src='https://wasiahmad.github.io/files/publications/2018/IQP-1.png' 
-alt='Image not Loading' style='height:500px;' align='middle'></div><br>
+alt='Image not Loading' style='height:300px;' align='middle'></div><br>
 
 <p align="justify">
 Modern web search engines exploit users' search history to personalize search results, with a goal of improving their service 
