@@ -7,8 +7,9 @@ redirect_from:
   - /resume
 ---
 
+<br/>
 <span style="color:black; font-size:17px"> 
-    <font color="brown" size="5"><b>University of California, Los Angeles (UCLA)</b></font><br/>
+  <h2 style="font-weight:normal;color:rgb(102,97,84);font-size:1.6em"><b><font size="4">University of California, Los Angeles (UCLA)</font></b></h2>
     Graduate Research Assistant [August,2017 - Present]<br/>
     Advisor: <a href="http://web.cs.ucla.edu/~kwchang/">Dr. Kai-Wei Chang</a><br/>
     Lab: <a href="http://web.cs.ucla.edu/~kwchang/members/">UCLA NLP</a>
