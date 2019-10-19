@@ -18,13 +18,13 @@ redirect_from:
     <span style="color:black; font-size:17px"><b><a href="https://research.yahoo.com/" target="_blank"><font color="brown" size="5">Yahoo Research</font></a></b></span><br/>
     Sunnyvale, California<br/>
     Research Intern [June, 2019 - September, 2019]<br/>
-    Manager: <a href="https://sites.google.com/site/xiaobaihomepage/" target="_blank">Xiao Bai</a>, Mentor: <a href="https://www.linkedin.com/in/soomin-lee-86163a29/" target="_blank">Soomn Lee</a>
+    Manager: <a href="https://sites.google.com/site/xiaobaihomepage/" target="_blank">Xiao Bai</a>, Mentor: <a href="https://www.linkedin.com/in/soomin-lee-86163a29/" target="_blank">Soomin Lee</a>
     
 
 <br/>
     <span style="color:black; font-size:17px"><b><a href="https://www.microsoft.com/en-us/research/" target="_blank"><font color="brown" size="5">Microsoft AI and Research</font></a></b></span><br/>
     Redmond, Washington<br/>
-    Research Intern [June, 2019 - September, 2019]<br/>
+    Research Intern [June, 2018 - September, 2018]<br/>
     Manager: <a href="http://lowrank.net/nikos/" target="_blank">Nikos Karampatziakis</a>
     
   
@@ -38,7 +38,7 @@ redirect_from:
 <br/>
     <span style="color:black; font-size:17px"><b><a href="https://www.walmartlabs.com/" target="_blank"><font color="brown" size="5">Walmart Labs</font></a></b></span><br/>
     Reston, Virginia<br/>
-    Research Intern [June, 2019 - September, 2019]<br/>
+    Research Intern [June, 2016 - August, 2016]<br/>
     Manager: <a href="https://www.linkedin.com/in/gregfavinger/" target="_blank">Greg Favinger</a>, Mentor: <a href="https://www.linkedin.com/in/colin-morse-13549b3/" target="_blank">Colin Morse</a>
 
 
