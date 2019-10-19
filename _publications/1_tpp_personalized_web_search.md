@@ -4,15 +4,15 @@ collection: publications
 Authors: '<b>Wasi Ahmad</b>, Md Masudur Rahman, and Hongning Wang.'
 date: 06/2016
 venue: 'ACM SIGIR'
-paperurl: 'https://wasiahmad.github.io/files/publications/2019/tpp_personalized_web_search.pdf'
-presentationurl: 'https://wasiahmad.github.io/files/publications/2019/tpp_poster.pdf'
+paperurl: 'https://wasiahmad.github.io/files/publications/2016/tpp_personalized_web_search.pdf'
+presentationurl: 'https://wasiahmad.github.io/files/publications/2016/tpp_poster.pdf'
 codeurl: 'https://github.com/wasiahmad/topic_based_privacy_protection_in_pws'
 excerpt: ''
 ---
 ---
-<a href='https://wasiahmad.github.io/files/publications/2019/tpp_personalized_web_search.pdf'>[Download Paper]</a>
+<a href='https://wasiahmad.github.io/files/publications/2016/tpp_personalized_web_search.pdf'>[Download Paper]</a>
 
-<div style='display: flex; justify-content: center;'><img src='https://wasiahmad.github.io/files/publications/2019/TPP-2.png' 
+<div style='display: flex; justify-content: center;'><img src='https://wasiahmad.github.io/files/publications/2016/TPP-2.png' 
 alt='Image not Loading' style='height:300px;' align='middle'></div><br>
 
 <p align="justify">
