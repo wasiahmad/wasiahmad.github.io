@@ -10,11 +10,9 @@ redirect_from:
 
 <h2>Conference Reviewing</h2>
 <ol>
-	<li> PC member, ACL 2019. </li>
-	<li> PC member, WSDM [2020,2019]. </li>
-	<li> PC member, IUI [2020,2019]. </li>
-	<li> PC member, WSDM Demo Track [2019,2018]. </li>
-	<li> External Reviewer, SIGIR 2018. </li>
+	<li> PC member:, AAAI 2020. </li>
+	<li> Reviewer: NAACL 2019, NLPCC-English 2018, MASC-SLL 2017. </li>
+	<li> Secondary Reviewer: EMNLP 2018. </li>
 </ol>
 
 
