@@ -5,7 +5,7 @@ Authors: '<b>Wasi Ahmad</b>, Zhisong Zhang, Xuezhe Ma, Eduard Hovy, Kai-Wei Chan
 date: 11/2019
 venue: 'ACL'
 paperurl: 'https://wasiahmad.github.io/files/publications/2019/cross_lingual_transfer.pdf'
-presentationurl: 'https://wasiahmad.github.io/files/publications/2019/cross_lingual_transfer.pptx'
+presentationurl: 'https://www.youtube.com/watch?v=YuFI0DOw8N0'
 codeurl: 'https://github.com/uclanlp/CrossLingualDepParser'
 excerpt: ''
 ---
