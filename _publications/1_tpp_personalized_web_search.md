@@ -13,7 +13,7 @@ excerpt: ''
 <a href='https://wasiahmad.github.io/files/publications/2019/tpp_personalized_web_search.pdf'>[Download Paper]</a>
 
 <div style='display: flex; justify-content: center;'><img src='https://wasiahmad.github.io/files/publications/2019/TPP-2.png' 
-alt='Image not Loading' style='height:500px;' align='middle'></div><br>
+alt='Image not Loading' style='height:300px;' align='middle'></div><br>
 
 <p align="justify">
 Modern search engines utilize users' search history for personalization, which provides more effective, useful and relevant 
