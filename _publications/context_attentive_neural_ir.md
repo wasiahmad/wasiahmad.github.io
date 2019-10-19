@@ -3,7 +3,7 @@ title: "Context Attentive Document Ranking and Query Suggestion"
 collection: publications
 Authors: 'Wasi Ahmad, Kai-Wei Chang, and Hongning Wang.'
 date: 06/2019
-venue: 'ACM SIGIR'
+venue: 'The 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)'
 paperurl: 'https://wasiahmad.github.io/files/publications/2019/context_attentive_ranking_and_suggestion.pdf'
 presentationurl: 'https://wasiahmad.github.io/files/publications/2019/context_attentive_ranking_and_suggestion.pptx'
 excerpt: ''
