@@ -8,18 +8,16 @@ redirect_from:
 ---
 
 <br/>
-<span style="color:black; font-size:17px"> 
-  <h2 style="font-weight:normal;color:rgb(102,97,84);font-size:1.6em"><b><font size="4">University of California, Los Angeles (UCLA)</font></b></h2>
+    <h2><span style="color:black; font-size:17px">University of California, Los Angeles (UCLA)</span></h2>
     Graduate Research Assistant [August,2017 - Present]<br/>
     Advisor: <a href="http://web.cs.ucla.edu/~kwchang/">Dr. Kai-Wei Chang</a><br/>
     Lab: <a href="http://web.cs.ucla.edu/~kwchang/members/">UCLA NLP</a>
-</span>
 
 <br/>
 <span style="color:black; font-size:17px"> 
   <h2 style="font-weight:normal;color:rgb(102,97,84);font-size:1.6em"><b><font size="4">University of Virginia (UVA)</font></b></h2>
     Graduate Research Assistant [August,2016 - May,2017]<br/>
-    Advisor: <a href="http://web.cs.ucla.edu/~kwchang/">Dr. Kai-Wei Chang</a><br/>
+    Advisor: <a href="http://web.cs.ucla.edu/~kwchang/">Dr. Kai-Wei Chang</a>
 </span>
 
 <br/>
