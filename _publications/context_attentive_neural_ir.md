@@ -6,6 +6,7 @@ date: 06/2019
 venue: 'ACM SIGIR'
 paperurl: 'https://wasiahmad.github.io/files/publications/2019/context_attentive_ranking_and_suggestion.pdf'
 presentationurl: 'https://wasiahmad.github.io/files/publications/2019/context_attentive_ranking_and_suggestion.pptx'
+codeurl: 'https://github.com/wasiahmad/context_attentive_ir'
 excerpt: ''
 ---
 ---
