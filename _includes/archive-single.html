@@ -61,6 +61,10 @@
     {% if post.presentationurl %}
 		&nbsp; &nbsp; &nbsp;<a href=" {{ post.presentationurl }} "><u>Presentation</u></a></p>
     {% else %}
+    {% endif %}
+    {% if post.codeurl %}
+    &nbsp; &nbsp; &nbsp;<a href=" {{ post.codeurl }} "><u>Code</u></a></p>
+    {% else %}
 		</p>
     {% endif %}
     {% if post.portfolioImage %}
