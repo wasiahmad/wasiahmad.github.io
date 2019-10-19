@@ -9,7 +9,6 @@ redirect_from:
 
 <table class="table__tablenospace">
 	<tr>
-		<td class="table__tablenospace"><img src='/images/UCLA.png' style='height:100px;width:100px'></td>
 		<td class="table__tablenospace" width="600px">
 			<span style="color:black; font-size:17px"> 
 			<font color="brown" size="5"><b>University of California, Los Angeles (UCLA)</b></font><br/>
@@ -20,7 +19,6 @@ redirect_from:
 		</td>
  	</tr>
 	<tr>
-		<td class="table__tablenospace"><img src='/images/Yahoo.png' style='height:100px;;width:100px'></td>
 		<td class="table__tablenospace" width="600px">
 			<span style="color:black; font-size:17px"> 
 			<font color="brown" size="5"><b>Yahoo Research</b></font><br/>
@@ -42,7 +40,6 @@ redirect_from:
 		</td>
  	</tr>
 	<tr>
-		<td class="table__tablenospace"><img src='/images/UVA.png' style='height:100px;width:100px'></td>
 		<td class="table__tablenospace" width="600px">
 			<span style="color:black; font-size:17px"> 
 			<font color="brown" size="5"><b>University of Virginia (UVA)</b></font><br/>
@@ -52,7 +49,6 @@ redirect_from:
 		</td>
  	</tr>
 	<tr>
-		<td class="table__tablenospace"><img src='/images/Walmart.png' style='height:100px;;width:100px'></td>
 		<td class="table__tablenospace" width="600px">
 			<span style="color:black; font-size:17px"> 
 			<font color="brown" size="5"><b>WalmartLabs</b></font><br/>
@@ -64,7 +60,6 @@ redirect_from:
 		</td>
  	</tr>
  	<tr>
-		<td class="table__tablenospace"><img src='/images/AUST.png' style='height:100px;;width:100px'></td>
 		<td class="table__tablenospace" width="600px">
 			<span style="color:black; font-size:17px"> 
 			<font color="brown" size="5"><b>Ahsanullah University of Science and Technology (AUST)</b></font><br/>
@@ -74,7 +69,6 @@ redirect_from:
 		</td>
  	</tr>
 	<tr>
-		<td class="table__tablenospace"><img src='' style='height:100px;;width:100px'></td>
 		<td class="table__tablenospace" width="600px">
 			<span style="color:black; font-size:17px"> 
 			<font color="brown" size="5"><b>REVE Systems</b></font><br/>
