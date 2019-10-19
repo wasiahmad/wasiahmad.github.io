@@ -10,7 +10,7 @@ codeurl: 'https://github.com/wasiahmad/intent_aware_privacy_protection_in_pws'
 excerpt: ''
 ---
 ---
-<a href='https://wasiahmad.github.io/files/publications/2019/cross_lingual_parsing_auxiliary.pdf' target="_blank">[Download Paper]</a>
+<a href='https://wasiahmad.github.io/files/publications/2018/iqp_personalized_web_search.pdf' target="_blank">[Download Paper]</a>
 
 <div style='display: flex; justify-content: center;'><img src='https://wasiahmad.github.io/files/publications/2018/IQP-1.png' 
 alt='Image not Loading' style='height:500px;' align='middle'></div><br>
