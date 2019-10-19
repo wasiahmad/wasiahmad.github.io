@@ -28,7 +28,7 @@ You can download my [cv](../files/cv_wasi_ahmad.pdf) or [resume](../files/resume
 <br/>
     <span style="color:black; font-size:17px"><b><a href="http://cse.buet.ac.bd" target="_blank"><font color="brown" size="5">Bangladesh University of Engineering and Technology</font></a></b></span><br/>
     Bachelor of Science (B.Sc.) in Computer Science and Engineering <a href="../files/bsc_certificate.pdf">[Certificate]</a> <br/>
-    Period of Study: January 2018 - February 2017 <br/>
+    Period of Study: January 2008 - February 2013 <br/>
     CGPA: <b>3.81/4.00</b> scale <a href="../files/bsc_transcript.pdf">[Transcript]</a> <br/>
     Position: Ranked <b>8<sup>th</sup></b> in a class of <b>142</b> students  <br/>
     Academic Advisor: <a href="http://cse.buet.ac.bd/faculty/facdetail.php?id=mahmudanaznin" target="_blank">Dr. Mahmuda Naznin</a> <br/>
