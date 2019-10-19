@@ -10,7 +10,7 @@ codeurl: 'https://github.com/uclanlp/CrossLingualDepParser'
 excerpt: ''
 ---
 ---
-<a href='https://wasiahmad.github.io/files/publications/2019/cross_lingual_transfer.pdf'>[Download Paper]</a>
+<a href='https://wasiahmad.github.io/files/publications/2019/cross_lingual_transfer.pdf' target="_blank">[Download Paper]</a>
 
 <div style='display: flex; justify-content: center;'><img src='https://wasiahmad.github.io/files/publications/2019/word_order-2.png' alt='Image not Loading' style='height:700px;' align='middle'></div><br>
 
