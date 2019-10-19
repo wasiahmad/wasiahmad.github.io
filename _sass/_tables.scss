@@ -36,3 +36,14 @@ td {
 tr, td, th {
   vertical-align: middle;
 }
+
+
+.table__tablenospace {
+	border-collapse: collapse;
+    border-spacing: 1;
+	margin: 5px;
+    padding: 20px;
+    border: 0;
+    font-size: 100%;
+    vertical-align: top;
+}

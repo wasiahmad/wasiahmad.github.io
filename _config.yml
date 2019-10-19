@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Academic Homepage"
 title_separator          : "-"
-name                     : &name "Wasi Uddin Ahmad"
+name                     : &name "Shubhra Kanti Karmaker (Santu)"
 description              : &description "personal description"
-url                      : "" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "wasiahmad/wasiahmad.github.io"
+url                      : ""  #the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : # the subpath of your site, e.g. "/blog"
+repository               : "karmake2/karmake2.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -75,47 +75,47 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "UA-132548446-2"
 
 
 # Site Author
 author:
-  name             : "Wasi Uddin Ahmad"
-  avatar           : "wasiahmad.png"
-  bio              : "Ph.D. Student, CS@UCLA"
-  location         : "Los Angeles, CA, US"
-  employer         :
-  pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=YCHJZOMAAAAJ&hl=en"
-  email            : wasiahmad@ucla.edu
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  name             : "Shubhra Kanti Karmaker (Santu)"
+  avatar           : "profile.png"
+  bio              : "Postdoctoral researcher at Massachusetts Institute of Technology (MIT)"
+  employer         : 
+  location         : "Cambridge, MA, US"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=y6pZKT4AAAAJ&hl=en"
+  email            : "santu@mit.edu"
+  researchgate     : "https://www.researchgate.net/profile/Shubhra_Kanti_Karmaker_Santu"
   uri              :
-  bitbucket        :
+  bitbucket        : "karmake2/"
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "wasiahmad"
+  github           : "karmake2"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "ahmadwasi"
-  orcid            :
+  linkedin         : "shubhra-kanti-karmaker-676893a4/"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : https://stackoverflow.com/users/5352399/wasi-ahmad
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "ahmadwasi"
+  twitter          : "karmake2"
   vine             :
   weibo            :
   xing             :
   youtube          :
+  dblp             : "https://dblp.dagstuhl.de/pers/hd/s/Santu:Shubhra_Kanti_Karmaker"
   wikipedia        :
-  dblp             : https://dblp.org/pers/hd/a/Ahmad:Wasi_Uddin
 
 
 # Reading Files
