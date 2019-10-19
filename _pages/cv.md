@@ -21,7 +21,7 @@ You can download my [cv](../files/cv_wasi_ahmad.pdf) or [resume](../files/resume
     <span style="color:black; font-size:17px"><b><a href="http://www.cs.virginia.edu" target="_blank"><font color="brown" size="5">University of Virginia</font></a></b></span><br/>
     Master in Computer Science <a href="../files/ms_certificate.pdf">[Certificate]</a> <br/>
     Period of Study: August 2015 - August 2017 <br/>
-    CGPA: <b>4.00/4.00</b> scale <a href="">Transcript](../files/ms_transcript.pdf)</a> <br/>
+    CGPA: <b>4.00/4.00</b> scale <a href="../files/ms_transcript.pdf">[Transcript]</a> <br/>
     Advisor: <a href="http://web.cs.ucla.edu/~kwchang/" target="_blank">Dr. Kai-Wei Chang</a>
 
 
