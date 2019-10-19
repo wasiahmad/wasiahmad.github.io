@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<table class="table__tablenospace">
+<table>
 	<tr>
 		<td class="table__tablenospace" width="600px">
 			<span style="color:black; font-size:17px"> 
