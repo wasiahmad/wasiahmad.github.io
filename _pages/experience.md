@@ -3,6 +3,8 @@ layout: archive
 title: "Professional Experience"
 permalink: /experience/
 author_profile: true
+redirect_from:
+  - /resume
 ---
 
 <table class="table__tablenospace">
