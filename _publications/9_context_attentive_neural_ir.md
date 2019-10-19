@@ -10,7 +10,7 @@ codeurl: 'https://github.com/wasiahmad/context_attentive_ir'
 excerpt: ''
 ---
 ---
-<a href='https://wasiahmad.github.io/files/publications/2019/context_attentive_ranking_and_suggestion.pdf'>[Download Paper]</a>
+<a href='https://wasiahmad.github.io/files/publications/2019/context_attentive_ranking_and_suggestion.pdf' target="_blank">[Download Paper]</a>
 
 <div style='display: flex; justify-content: center;'><img src='https://wasiahmad.github.io/files/publications/2019/CARS-1.png' alt='Image not Loading' style='height:500px;' align='middle'></div><br>
 
