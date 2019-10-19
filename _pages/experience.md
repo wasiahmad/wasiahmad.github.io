@@ -1,6 +1,6 @@
 ---
 layout: archive
-title:
+title: "Professional Experience"
 permalink: /experience/
 author_profile: true
 redirect_from:
@@ -19,6 +19,13 @@ redirect_from:
     Sunnyvale, California<br/>
     Research [June, 2019 - September, 2019]<br/>
     Manager: <a href="https://sites.google.com/site/xiaobaihomepage/">Xiao Bai</a>, Mentor: <a href="https://www.linkedin.com/in/soomin-lee-86163a29/">Soomn Lee</a>
+    
+
+<br/>
+    <span style="color:black; font-size:17px"><font color="brown" size="5"><b><a href="Microsoft AI and Research">Microsoft AI and Research</a></b></font></span><br/>
+    Redmond, Washington<br/>
+    Research [June, 2019 - September, 2019]<br/>
+    Manager: <a href="http://lowrank.net/nikos/">Nikos Karampatziakis</a>
     
   
 <br/>
