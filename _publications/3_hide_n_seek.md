@@ -12,7 +12,7 @@ excerpt: ''
 <a href='https://wasiahmad.github.io/files/publications/2019/cross_lingual_transfer.pdf' target="_blank">[Download Paper]</a>
 
 <div style='display: flex; justify-content: center;'>
-<img src='https://wasiahmad.github.io/files/publications/2018/HIDEnSEEK-2.png' alt='Image not Loading' style='height:300px;' 
+<img src='https://wasiahmad.github.io/files/publications/2018/HIDEnSEEK-2.png' alt='Image not Loading' style='height:350px;' 
 align='middle'></div><br>
 
 <p align="justify">
