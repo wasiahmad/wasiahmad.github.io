@@ -8,54 +8,54 @@ redirect_from:
 ---
 
 <br/>
-    <span style="color:black; font-size:17px"><b><a href="http://www.ucla.edu/"><font color="brown" size="5">University of California, Los Angeles</font></a></b></span><br/>
+    <span style="color:black; font-size:17px"><b><a href="http://www.ucla.edu/" target="_blank"><font color="brown" size="5">University of California, Los Angeles</font></a></b></span><br/>
     Graduate Research Assistant [August, 2017 - Present]<br/>
-    Advisor: <a href="http://web.cs.ucla.edu/~kwchang/">Dr. Kai-Wei Chang</a><br/>
-    Lab: <a href="http://web.cs.ucla.edu/~kwchang/members/">UCLA NLP</a>
+    Advisor: <a href="http://web.cs.ucla.edu/~kwchang/" target="_blank">Dr. Kai-Wei Chang</a><br/>
+    Lab: <a href="http://web.cs.ucla.edu/~kwchang/members/" target="_blank">UCLA NLP</a>
  
  
 <br/>
-    <span style="color:black; font-size:17px"><b><a href="https://research.yahoo.com/"><font color="brown" size="5">Yahoo Research</font></a></b></span><br/>
+    <span style="color:black; font-size:17px"><b><a href="https://research.yahoo.com/" target="_blank"><font color="brown" size="5">Yahoo Research</font></a></b></span><br/>
     Sunnyvale, California<br/>
     Research Intern [June, 2019 - September, 2019]<br/>
-    Manager: <a href="https://sites.google.com/site/xiaobaihomepage/">Xiao Bai</a>, Mentor: <a href="https://www.linkedin.com/in/soomin-lee-86163a29/">Soomn Lee</a>
+    Manager: <a href="https://sites.google.com/site/xiaobaihomepage/" target="_blank">Xiao Bai</a>, Mentor: <a href="https://www.linkedin.com/in/soomin-lee-86163a29/" target="_blank">Soomn Lee</a>
     
 
 <br/>
-    <span style="color:black; font-size:17px"><b><a href="http://www.ucla.edu/"><font color="brown" size="5">University of California, Los Angeles</font></a></b></span><br/>
+    <span style="color:black; font-size:17px"><b><a href="http://www.ucla.edu/" target="_blank"><font color="brown" size="5">University of California, Los Angeles</font></a></b></span><br/>
     Graduate Teaching Assistant [January, 2019 - June, 2019]<br/>
-    Department: <a href="https://www.cs.ucla.edu/">Computer Science</a>
+    Department: <a href="https://www.cs.ucla.edu/" target="_blank">Computer Science</a>
     
 
 <br/>
-    <span style="color:black; font-size:17px"><b><a href="Microsoft AI and Research"><font color="brown" size="5">Microsoft AI and Research</font></a></b></span><br/>
+    <span style="color:black; font-size:17px"><b><a href="https://www.microsoft.com/en-us/research/" target="_blank"><font color="brown" size="5">Microsoft AI and Research</font></a></b></span><br/>
     Redmond, Washington<br/>
     Research Intern [June, 2019 - September, 2019]<br/>
-    Manager: <a href="http://lowrank.net/nikos/">Nikos Karampatziakis</a>
+    Manager: <a href="http://lowrank.net/nikos/" target="_blank">Nikos Karampatziakis</a>
     
   
 <br/>
-    <span style="color:black; font-size:17px"><b><a href="https://www.virginia.edu/"><font color="brown" size="5">University of Virginia</font></a></b></span><br/>
+    <span style="color:black; font-size:17px"><b><a href="https://www.virginia.edu/" target="_blank"><font color="brown" size="5">University of Virginia</font></a></b></span><br/>
     Graduate Research Assistant [August, 2016 - May, 2017]<br/>
-    Advisor: <a href="http://web.cs.ucla.edu/~kwchang/">Dr. Kai-Wei Chang</a>
+    Advisor: <a href="http://web.cs.ucla.edu/~kwchang/" target="_blank">Dr. Kai-Wei Chang</a>
 
 
 <br/>
-    <span style="color:black; font-size:17px"><b><a href="https://www.walmartlabs.com/"><font color="brown" size="5">Walmart Labs</font></a></b></span><br/>
+    <span style="color:black; font-size:17px"><b><a href="https://www.walmartlabs.com/" target="_blank"><font color="brown" size="5">Walmart Labs</font></a></b></span><br/>
     Reston, Virginia<br/>
     Research Intern [June, 2019 - September, 2019]<br/>
-    Manager: <a href="https://www.linkedin.com/in/gregfavinger/">Greg Favinger</a>, Mentor: <a href="https://www.linkedin.com/in/colin-morse-13549b3/">Colin Morse</a>
+    Manager: <a href="https://www.linkedin.com/in/gregfavinger/" target="_blank">Greg Favinger</a>, Mentor: <a href="https://www.linkedin.com/in/colin-morse-13549b3/" target="_blank">Colin Morse</a>
     
 
 <br/>
-    <span style="color:black; font-size:17px"><b><a href="https://www.virginia.edu/"><font color="brown" size="5">University of Virginia</font></a></b></span><br/>
+    <span style="color:black; font-size:17px"><b><a href="https://www.virginia.edu/" target="_blank"><font color="brown" size="5">University of Virginia</font></a></b></span><br/>
     Graduate Teaching Assistant [August, 2015 - May, 2016]<br/>
-    Department: <a href="http://www.cs.virginia.edu">Computer Science</a>
+    Department: <a href="http://www.cs.virginia.edu" target="_blank">Computer Science</a>
 
 
 <br/>
-  <span style="color:black; font-size:17px"><b><a href="http://aust.edu/"><font color="brown" size="5">Ahsanullah University of Science and Technology</font></a></b></span><br/>
+  <span style="color:black; font-size:17px"><b><a href="http://aust.edu/" target="_blank"><font color="brown" size="5">Ahsanullah University of Science and Technology</font></a></b></span><br/>
     Lecturer [August, 2015 - May, 2016]<br/>
-    Department: <a href="http://aust.edu/cse/index.htm">Computer Science and Engineering</a>
+    Department: <a href="http://aust.edu/cse/index.htm" target="_blank">Computer Science and Engineering</a>
     
     
