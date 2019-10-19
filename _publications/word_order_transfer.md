@@ -12,7 +12,7 @@ excerpt: ''
 ---
 <a href='https://wasiahmad.github.io/files/publications/2019/cross_lingual_transfer.pdf'>[Download Paper]</a>
 
-<div style='display: flex; justify-content: center;'><img src='https://wasiahmad.github.io/files/publications/2019/word_order-1.png' alt='Image not Loading' style='height:300px;' align='middle'></div><br>
+<div style='display: flex; justify-content: center;'><img src='https://wasiahmad.github.io/files/publications/2019/word_order-1.png' alt='Image not Loading' style='height:350px;' align='middle'></div><br>
 
 <p align="justify">
 Different languages might have different word orders. In this paper, we investigate crosslingual transfer and posit that 
