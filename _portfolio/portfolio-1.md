@@ -5,7 +5,7 @@ collection: portfolio
 
 <table class="table__tablenospace">
 	<tr>
-		<td class="table__tablenospace"><img src='/images/UIUC.png' style='height:100px;width:100px'></td>
+		<td class="table__tablenospace"><img src='/images/UCLA.png' style='height:100px;width:100px'></td>
 		<td class="table__tablenospace" width="600px">
 			<span style="color:black; font-size:17px"> 
 				<font color="brown" size="5"><b>University of California, Los Angeles (UCLA)</b></font><br/>
