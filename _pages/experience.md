@@ -52,8 +52,7 @@ redirect_from:
 			<span style="color:black; font-size:17px"> 
 			<font color="brown" size="5"><b>WalmartLabs</b></font><br/>
 			Research Intern [Summer 2016]<br/>
-			Manager: <a href="https://www.linkedin.com/in/gregfavinger/">Greg Favinger</a><br/>
-			Mentor: <a href="https://www.linkedin.com/in/colin-morse-13549b3/">Colin Morse</a><br/>
+			Manager: <a href="https://www.linkedin.com/in/gregfavinger/">Greg Favinger</a>, Mentor: <a href="https://www.linkedin.com/in/colin-morse-13549b3/">Colin Morse</a><br/>
 			Lab: <a href="https://www.walmartlabs.com/">WalmartLabs, Reston</a>
 			</span>
 		</td>
