@@ -71,8 +71,8 @@ redirect_from:
 		<td class="table__tablenospace" width="600px">
 			<span style="color:black; font-size:17px"> 
 			<font color="brown" size="5"><b>REVE Systems</b></font><br/>
-			Software Engineer [February, 2013 - October, 2013]<br/>
-			Department: <a href="http://aust.edu/cse/index.htm">Computer Science and Engineering</a>
+			Software Development Engineer [February, 2013 - October, 2013]<br/>
+			Worked on VoIP client software in Android
 			</span>
 		</td>
  	</tr>
