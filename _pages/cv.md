@@ -11,7 +11,7 @@ You can download my [cv](../files/cv_wasi_ahmad.pdf) or [resume](../files/resume
 
 <br/>
     <span style="color:black; font-size:17px"><b><a href="https://cs.ucla.edu" target="_blank"><font color="brown" size="5">University of California, Los Angeles</font></a></b></span><br/>
-    Ph.D. in Computer Science <br/>
+    Doctor of Philosophy (Ph.D.) in Computer Science <br/>
     Period of Study: September 2017 - Present <br/>
     CGPA: <b>3.78/4.00</b> scale (Coursework Completed) <br/>
     Advisor: <a href="http://web.cs.ucla.edu/~kwchang/" target="_blank">Dr. Kai-Wei Chang</a>, Lab: <a href="http://web.cs.ucla.edu/~kwchang/members/" target="_blank">UCLA NLP</a>
