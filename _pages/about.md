@@ -13,7 +13,7 @@ I am a Ph.D. student at the <a href="http://www.cs.ucla.edu/">CS@UCLA</a>. Previ
 </p>
 
 <p align="justify">
-I have received my Bachelor's in Computer Science and Engineering from the <a href="http://cse.buet.ac.bd/">CSE@BUET</a>, in February 2013 and Master of Computer Science from the <a href="http://www.cs.virginia.edu/">CS@UVA</a>, in August 2017. In my free time, I like to solve problems to improve my programming skills and also contribute to the community. I have given <b>500+</b> answers to programming related questions and earned <b>20,000+</b> reputation on StackOverflow.
+I have received my Bachelor's in Computer Science and Engineering from the <a href="http://cse.buet.ac.bd/">CSE@BUET</a>, in February 2013 and Master of Computer Science from the <a href="http://www.cs.virginia.edu/">CS@UVA</a>, in August 2017. In my free time, I like to solve problems to improve my programming skills and also contribute to the community. I have given <b><font color="brown">500+</font></b> answers to programming related questions and earned <b><font color="brown">20,000+</font></b> reputation on StackOverflow.
 </p>
 
 
