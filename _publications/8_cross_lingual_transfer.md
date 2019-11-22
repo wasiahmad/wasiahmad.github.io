@@ -3,7 +3,7 @@ title: "On Difficulties of Cross-Lingual Transfer with Order Differences: A Case
 collection: publications
 Authors: '<b>Wasi Ahmad</b><sup>*</sup>, Zhisong Zhang<sup>*</sup>, Xuezhe Ma, Eduard Hovy, Kai-Wei Chang, and Nanyun Peng.'
 date: 11/2019
-venue: 'ACL'
+venue: 'NAACL'
 paperurl: 'https://wasiahmad.github.io/files/publications/2019/cross_lingual_transfer.pdf'
 presentationurl: 'https://www.youtube.com/watch?v=YuFI0DOw8N0'
 codeurl: 'https://github.com/uclanlp/CrossLingualDepParser'
