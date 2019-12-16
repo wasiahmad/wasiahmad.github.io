@@ -19,8 +19,7 @@ redirect_from:
 
 <h2>Professional Services</h2>
 <ol>
-	<li> Program Committee/Reviewer: IJCAI 2020, AAAI 2020, LREC 2020, NAACL 2019, NLPCC-English 2018, 
-		MASC-SLL 2017 </li>
+	<li> Program Committee/Reviewer: IJCAI 2020, AAAI 2020, LREC 2020, NAACL 2019 </li>
 	<li> Secondary Reviewer: EMNLP 2018 </li>
 </ol>
 
