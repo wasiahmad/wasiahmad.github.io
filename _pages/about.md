@@ -9,8 +9,10 @@ redirect_from:
 ---
 
 <p align="justify">
-I am a Ph.D. student at the <a href="http://www.cs.ucla.edu/">CS@UCLA</a>. Previously I was a Ph.D. student at the <a href="http://www.cs.virginia.edu/">CS@UVA</a> from August 2015 to August 2017. In fall 2017, I moved to UCLA with my advisor <a href="http://web.cs.ucla.edu/~kwchang/">Dr. Kai-Wei Chang</a>. My research focus spans the areas of natural language processing (NLP) and machine learning.
-  My Ph.D. work is primarily on low-resource NLP. My works evolve around learning universal/transferable language representations utilizing data from heterogeneous sources, designing new learning objective to bridge the gap between different learning signals, developing flexible model architecture to enable cross-domain and cross-language transfer.
+I am a Ph.D. student at the <a href="http://www.cs.ucla.edu/">CS@UCLA</a>. Previously I was a Ph.D. student at the <a href="http://www.cs.virginia.edu/">CS@UVA</a> from August 2015 to August 2017. In fall 2017, I moved to UCLA with my advisor <a href="http://web.cs.ucla.edu/~kwchang/">Dr. Kai-Wei Chang</a>. 
+  My research focus spans the areas of natural language processing (NLP) and machine learning.
+  My Ph.D. thesis topic is on transfer learning for low-resource NLP. 
+  My research works deal with learning universal/transferable language representations utilizing data from heterogeneous sources, designing new learning objective to bridge the gap between different learning signals, and developing flexible model architectures to enable cross-domain and cross-language transfer.
 </p>
 
 <p align="justify">
