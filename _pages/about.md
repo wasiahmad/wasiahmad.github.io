@@ -21,6 +21,7 @@ I have received my Bachelor's in Computer Science and Engineering from the <a hr
 
 News and Announcements
 ======
+1. <span style="color:blue">[01.2020] </span>  I will join Facebook AI for Summer, 2020.
 1. <span style="color:blue">[08.2019] </span>  One <a href="https://arxiv.org/abs/1909.09265">paper</a> got accepted at CoNLL, 2019.
 1. <span style="color:blue">[06.2019] </span>  I joined Yahoo Research (Verizon Media) for Summer, 2019.
 1. <span style="color:blue">[04.2019] </span>  One <a href="https://dl.acm.org/citation.cfm?doid=3331184.3331246">paper</a> got accepted at SIGIR, 2019.
