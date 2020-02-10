@@ -9,11 +9,12 @@ redirect_from:
 ---
 
 <p align="justify">
-I am a Ph.D. student at the <a href="http://www.cs.ucla.edu/">CS@UCLA</a>. Previously I was a Ph.D. student at the <a href="http://www.cs.virginia.edu/">CS@UVA</a> from August 2015 to August 2017. In fall 2017, I moved to UCLA with my advisor <a href="http://web.cs.ucla.edu/~kwchang/">Dr. Kai-Wei Chang</a>. My research focus spans the areas of natural language processing (NLP) and machine learning. 
-<!--   My research goal is to develop computational algorithms that (1) reduce the amount of labeled data required to train NLP models from scratch; and (2) adapt to new domains and languages with fewer labeled examples.  -->
-  Learning universal language representations utilizing data from heterogeneous sources, designing new learning
-objective to bridge the gap between different learning signals, developing flexible model architecture to
-enable cross-domain and cross-language transfer is the fundamental objective of my research.
+I am a Ph.D. student at the <a href="http://www.cs.ucla.edu/">CS@UCLA</a>. Previously I was a Ph.D. student at the <a href="http://www.cs.virginia.edu/">CS@UVA</a> from August 2015 to August 2017. In fall 2017, I moved to UCLA with my advisor <a href="http://web.cs.ucla.edu/~kwchang/">Dr. Kai-Wei Chang</a>. My research focus spans the areas of natural language processing (NLP) and machine learning.
+  My Ph.D. work is primarily on low-resource NLP. My works evolve around learning universal/transferable language representations utilizing data from heterogeneous sources, designing new learning objective to bridge the gap between different learning signals, developing flexible model architecture to enable cross-domain and cross-language transfer.
+</p>
+
+<p align="justify">
+  <b><font color="brown">Research Objective</font></b> -  Developing computational algorithms that (1) reduce the amount of labeled data required to train NLP models from scratch; and (2) adapt to new domains and languages with fewer labeled examples. 
 </p>
 
 <p align="justify">
