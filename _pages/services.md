@@ -19,7 +19,12 @@ redirect_from:
 
 <h2>Professional Services</h2>
 <ol>
-	<li> Program Committee/Reviewer: IJCAI 2020, AAAI 2020, LREC 2020, NAACL 2019 </li>
+	<li> Program Committee/Reviewer
+		<ul>
+			<li>2020: ICML, IJCAI, AAAI, LREC</li>
+			<li>2019: NAACL</li>
+    		</ul>
+	</li>
 	<li> Secondary Reviewer: EMNLP 2018 </li>
 </ol>
 
