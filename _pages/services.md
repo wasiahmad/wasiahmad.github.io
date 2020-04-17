@@ -21,7 +21,7 @@ redirect_from:
 <ol>
 	<li> Program Committee/Reviewer
 		<ul>
-			<li>2020: ICML, IJCAI, AAAI, LREC</li>
+			<li>2020: EMNLP, ICML, IJCAI, AAAI, LREC</li>
 			<li>2019: NAACL</li>
     		</ul>
 	</li>
