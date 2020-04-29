@@ -4,7 +4,7 @@ collection: publications
 Authors: '<b>Wasi Ahmad</b>, Saikat Chakraborty, Baishakhi Ray, and Kai-Wei Chang.'
 date: 04/2020
 venue: 'ACL'
-paperurl: 'https://wasiahmad.github.io/files/publications/2019/transformer_for_code_summ.pdf'
+paperurl: 'https://wasiahmad.github.io/files/publications/2020/transformer_for_code_summ.pdf'
 presentationurl: ''
 codeurl: 'https://github.com/wasiahmad/NeuralCodeSum'
 excerpt: ''
