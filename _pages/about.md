@@ -27,7 +27,7 @@ I have received my Bachelor's in Computer Science and Engineering from the <a hr
 
 News and Announcements
 ======
-1. <span style="color:blue">[04.2020] </span>  Our work on code summarization has been accepted to ACL 2020. <a href='https://wasiahmad.github.io/files/publications/2020/transformer_for_code_summ.pdf' target="_blank">[Paper]</a>
+1. <span style="color:blue">[04.2020] </span>  Our <a href='https://wasiahmad.github.io/files/publications/2020/transformer_for_code_summ.pdf' target="_blank">paper</a> on code summarization has been accepted to ACL 2020. 
 1. <span style="color:blue">[01.2020] </span>  I will join Facebook AI for Summer, 2020.
 1. <span style="color:blue">[08.2019] </span>  One <a href="https://arxiv.org/abs/1909.09265">paper</a> got accepted at CoNLL, 2019.
 1. <span style="color:blue">[06.2019] </span>  I joined Yahoo Research (Verizon Media) for Summer, 2019.
