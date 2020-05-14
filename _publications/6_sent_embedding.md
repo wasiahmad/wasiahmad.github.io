@@ -1,7 +1,7 @@
 ---
 title: "Learning Robust, Transferable Sentence Representations for Text Classification"
 collection: publications
-Authors: '<b>Wasi Ahmad</b><sup>*</sup>, Xueying Bai, Nanyun Peng, and Kai-Wei Chang.'
+Authors: '<b>Wasi Ahmad</b>, Xueying Bai, Nanyun Peng, and Kai-Wei Chang.'
 date: 09/2018
 venue: 'arXiv'
 paperurl: 'https://wasiahmad.github.io/files/publications/2018/transferable_representation.pdf'
