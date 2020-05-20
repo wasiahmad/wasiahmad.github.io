@@ -7,7 +7,7 @@ venue: 'ACL'
 paperurl: 'https://wasiahmad.github.io/files/publications/2020/transformer_for_code_summ.pdf'
 presentationurl: ''
 codeurl: 'https://github.com/wasiahmad/NeuralCodeSum'
-excerpt: 'Short'
+excerpt: ''
 ---
 ---
 <a href='https://wasiahmad.github.io/files/publications/2020/transformer_for_code_summ.pdf' target="_blank">[Download Paper]</a><a href='https://github.com/wasiahmad/NeuralCodeSum' target="_blank">[Source Code]</a>
