@@ -5,7 +5,7 @@ Authors: '<b>Wasi Ahmad</b>, Kai-Wei Chang, and Hongning Wang.'
 date: 06/2019
 venue: 'ACM SIGIR'
 paperurl: 'https://wasiahmad.github.io/files/publications/2019/context_attentive_ranking_and_suggestion.pdf'
-presentationurl: 'https://wasiahmad.github.io/files/publications/2019/context_attentive_ranking_and_suggestion.pptx'
+presentationurl: 'https://dl.acm.org/action/downloadSupplement?doi=10.1145%2F3331184.3331246&file=cite1-11h20-d2.mp4'
 codeurl: 'https://github.com/wasiahmad/context_attentive_ir'
 excerpt: ''
 ---
