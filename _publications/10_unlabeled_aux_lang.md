@@ -5,7 +5,7 @@ Authors: '<b>Wasi Ahmad</b>, Zhisong Zhang, Xuezhe Ma, Kai-Wei Chang, and Nanyun
 date: 11/2019
 venue: 'ACL SIGNLL CoNLL'
 paperurl: 'https://wasiahmad.github.io/files/publications/2019/cross_lingual_parsing_auxiliary.pdf'
-presentationurl: 'https://wasiahmad.github.io/files/publications/2019/cross_lingual_parsing_auxiliary.pptx'
+presentationurl: 'https://wasiahmad.github.io/files/publications/2019/presentation_conll19.pdf'
 codeurl: 'https://github.com/wasiahmad/cross_lingual_parsing'
 excerpt: ''
 ---
