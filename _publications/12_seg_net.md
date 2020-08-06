@@ -12,11 +12,9 @@ excerpt: ''
 ---
 <a href='https://arxiv.org/pdf/2008.01739.pdf' target="_blank">[Download Paper]</a>
 <div style='display: flex; justify-content: center;'><img src='https://wasiahmad.github.io/files/publications/2020/seg_net.png' 
-alt='Image not Loading' style='height:500px;' align='middle'></div>
-
+alt='Image not Loading' style='height:600px;' align='middle'></div><br>
 <p align="justify">
-Generating a set of keyphrases that summarizes the core ideas discussed in a document has a significant impact on many applications, including document 
-understanding, retrieval, advertising, and more. In recent years, deep neural sequence-to-sequence framework has demonstrated promising results in keyphrase 
+In recent years, deep neural sequence-to-sequence framework has demonstrated promising results in keyphrase 
 generation. However, processing long documents using such deep neural networks requires high computational resources. To reduce the computational cost, the 
 documents are typically truncated before given as inputs. As a result, the models may miss essential points conveyed in a document. Moreover, most of the 
 existing methods are either extractive (identify important phrases from the document) or generative (generate phrases word by word), and hence they do not 
