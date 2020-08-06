@@ -12,7 +12,9 @@ excerpt: ''
 ---
 <a href='https://arxiv.org/pdf/2008.01739.pdf' target="_blank">[Download Paper]</a>
 <div style='display: flex; justify-content: center;'><img src='https://wasiahmad.github.io/files/publications/2020/seg_net.png' 
-alt='Image not Loading' style='height:600px;' align='middle'></div><br>
+alt='Image not Loading' style='height:700px;' align='middle'></div>
+
+
 <p align="justify">
 In recent years, deep neural sequence-to-sequence framework has demonstrated promising results in keyphrase 
 generation. However, processing long documents using such deep neural networks requires high computational resources. To reduce the computational cost, the 
