@@ -29,7 +29,7 @@ News and Announcements
 ======
 1. <span style="color:blue">[08.2020] </span>  Checkout our <a href="https://arxiv.org/abs/2008.01739">work</a> on keyphrase generation.
 1. <span style="color:blue">[06.2020] </span>  I joined Facebook AI for Summer, 2020.
-1. <span style="color:blue">[04.2020] </span>  Our <a href='https://wasiahmad.github.io/files/publications/2020/transformer_for_code_summ.pdf' target="_blank">paper</a> on code summarization has been accepted to ACL 2020. 
+1. <span style="color:blue">[04.2020] </span>  Our <a href='https://wasiahmad.github.io/files/publications/2020/transformer_for_code_summ.pdf' target="_blank">paper</a> on code summarization got accepted to ACL 2020. 
 1. <span style="color:blue">[08.2019] </span>  One <a href="https://arxiv.org/abs/1909.09265">paper</a> got accepted at CoNLL, 2019.
 1. <span style="color:blue">[06.2019] </span>  I joined Yahoo Research (Verizon Media) for Summer, 2019.
 1. <span style="color:blue">[04.2019] </span>  One <a href="https://dl.acm.org/citation.cfm?doid=3331184.3331246">paper</a> got accepted at SIGIR, 2019.
