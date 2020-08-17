@@ -6,7 +6,6 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<br/>
     <span style="color:black; font-size:17px"><b><a href="http://www.ucla.edu/" target="_blank"><font color="brown" size="5">University of California, Los Angeles</font></a></b></span><br/>
     Graduate Research Assistant [August, 2017 - Present]<br/>
     Graduate Teaching Assistant [January, 2019 - June, 2019]<br/>
