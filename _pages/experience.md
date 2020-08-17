@@ -11,6 +11,7 @@ redirect_from:
     Graduate Research Assistant [August, 2017 - Present]<br/>
     Graduate Teaching Assistant [January, 2019 - June, 2019]<br/>
     Advisor: <a href="http://web.cs.ucla.edu/~kwchang/" target="_blank">Dr. Kai-Wei Chang</a>, Lab: <a href="http://web.cs.ucla.edu/~kwchang/members/" target="_blank">UCLA NLP</a>
+    
 <br/>
     <span style="color:black; font-size:17px"><b><a href="https://ai.facebook.com/" target="_blank"><font color="brown" size="5">Facebook AI</font></a></b></span><br/>
     Menlo Park, California<br/>
