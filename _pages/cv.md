@@ -35,7 +35,8 @@ You can download my [cv](../files/cv_wasi_ahmad.pdf) or [resume](../files/resume
 <br/>
     <span style="color:black; font-size:17px"><b><a href="http://www.glabdhaka.edu.bd/" target="_blank"><font color="brown" size="5">Government Laboratory High School</font></a></b></span><br/>
     Secondary School Certificate (SSC) <a href="../files/ssc_certificate.pdf">[Certificate]</a> <br/>
-    GPA: <b>5.00/5.00</b> scale <br/>
+    GPA: <b>5.00/5.00</b> scale 
+<br/>
     
     
     
