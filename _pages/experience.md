@@ -25,7 +25,7 @@ redirect_from:
     <span style="color:black; font-size:17px"><b><a href="https://www.microsoft.com/en-us/research/" target="_blank"><font color="brown" size="5">Microsoft AI and Research</font></a></b></span><br/>
     Redmond, Washington<br/>
     Research Intern [June, 2018 - September, 2018]<br/>
-    Manager: <a href="http://lowrank.net/nikos/" target="_blank">Nikos Karampatziakis</a> <br/>    
+    Manager: <a href="http://lowrank.net/nikos/" target="_blank">Nikos Karampatziakis</a> <br/>
 <br/>
     <span style="color:black; font-size:17px"><b><a href="https://www.virginia.edu/" target="_blank"><font color="brown" size="5">University of Virginia</font></a></b></span><br/>
     Graduate Research Assistant [August, 2016 - May, 2017]<br/>
@@ -39,7 +39,7 @@ redirect_from:
 <br/>
   <span style="color:black; font-size:17px"><b><a href="http://aust.edu/" target="_blank"><font color="brown" size="5">Ahsanullah University of Science and Technology</font></a></b></span><br/>
     Lecturer [November, 2013 - August, 2015]<br/>
-    Department: <a href="http://aust.edu/cse/index.htm" target="_blank">Computer Science and Engineering</a> <br/>       
+    Department: <a href="http://aust.edu/cse/index.htm" target="_blank">Computer Science and Engineering</a> <br/>
 <br/>
   <span style="color:black; font-size:17px"><b><a href="http://www.revesoft.com/" target="_blank"><font color="brown" size="5">REVE Systems</font></a></b></span><br/>
     Software Development Engineer [August, 2013 - October, 2013]<br/>
