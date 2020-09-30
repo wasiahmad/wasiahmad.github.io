@@ -16,7 +16,7 @@ excerpt: ''
 alt='Image not Loading' style='width:400px;' align='middle'> <br>
 </div>
 <div style='display: flex; justify-content: center;'>
-  <b>Figure:</b> A pair of passage-question-answer examples from the PolicyQA dataset.<br><br>
+  <b>Figure:</b> A pair of passage-question-answer triples from the PolicyQA dataset.<br><br>
 </div>
 
 <p align="justify">
