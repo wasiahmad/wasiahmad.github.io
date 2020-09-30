@@ -14,10 +14,10 @@ excerpt: ''
 
 <div style='display: flex; justify-content: center;'>
   <img src='https://wasiahmad.github.io/files/publications/2018/MNSRF-1.png' 
-alt='Image not Loading' style='height:350px;' align='middle'><br><br>
+alt='Image not Loading' style='height:350px;' align='middle'>
 </div>
 <div style='display: flex; justify-content: center;'><p>
-  <b>Figure:</b>  General workflow of the proposed multi-task neural session relevance framework.<br>
+  <br><b>Figure:</b>  General workflow of the proposed multi-task neural session relevance framework.<br>
 </p></div>
 
 <p align="justify">
