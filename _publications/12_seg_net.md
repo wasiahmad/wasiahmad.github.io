@@ -13,6 +13,9 @@ excerpt: ''
 <a href='https://arxiv.org/pdf/2008.01739.pdf' target="_blank">[Download Paper]</a>
 <div style='display: flex; justify-content: center;'><img src='https://wasiahmad.github.io/files/publications/2020/seg_net.png' 
 alt='Image not Loading' style='height:700px;' align='middle'></div>
+<div style='display: flex; justify-content: center;'><p>
+  <b>Figure:</b>  Overview of the Extractor-Generator module of our proposed model, SEG-Net.<br>
+</p></div>
 
 
 <p align="justify">
