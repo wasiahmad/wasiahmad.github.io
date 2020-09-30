@@ -12,7 +12,7 @@ excerpt: ''
 ---
 <a href='https://wasiahmad.github.io/files/publications/2019/context_attentive_ranking_and_suggestion.pdf' target="_blank">[Download Paper]</a>
 
-<div style='display: flex; justify-content: center;'><img src='https://wasiahmad.github.io/files/publications/2019/CARS-1.png' alt='Image not Loading' style='height:500px;' align='middle'><br></div>
+<div style='display: flex; justify-content: center;'><img src='https://wasiahmad.github.io/files/publications/2019/CARS-1.png' alt='Image not Loading' style='height:500px;' align='middle'><br></div><br>
 <div style='display: flex; justify-content: center;'><p>
   <b>Figure:</b>  System architecture of our proposed model, CARS.<br>
 </p></div>
