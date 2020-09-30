@@ -3,7 +3,7 @@ title: "PolicyQA: A Reading Comprehension Dataset for Privacy Policies"
 collection: publications
 Authors: '<b>Wasi Ahmad</b><sup>*</sup>, Jianfeng Chi<sup>*</sup>, Yuan Tian, and Kai-Wei Chang.'
 date: 10/2020
-venue: 'Findings of EMNLP 2020'
+venue: 'Findings of EMNLP'
 paperurl: ''
 presentationurl: ''
 codeurl: ''
@@ -12,7 +12,7 @@ excerpt: ''
 ---
 <a href='' target="_blank">[Download Paper]</a>
 <div style='display: flex; justify-content: center;'><img src='https://wasiahmad.github.io/files/publications/2020/policyqa_example.png' 
-alt='Image not Loading' style='width:200px;' align='middle'></div>
+alt='Image not Loading' style='width:100px;' align='middle'></div>
 
 <p align="justify">
 Security and privacy policy documents are long and verbose. A question answering (QA) system can assist users in finding the information that is relevant and 
