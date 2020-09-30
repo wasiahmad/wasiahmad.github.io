@@ -11,8 +11,11 @@ excerpt: ''
 ---
 ---
 <a href='' target="_blank">[Download Paper]</a>
-<div style='display: flex; justify-content: center;'><img src='https://wasiahmad.github.io/files/publications/2020/policyqa_example.png' 
-alt='Image not Loading' style='width:100px;' align='middle'></div>
+<div style='display: flex; justify-content: center;'>
+<img src='https://wasiahmad.github.io/files/publications/2020/policyqa_example.png' 
+alt='Image not Loading' style='width:200px;' align='middle'>
+<b>Figure:</b> A pair of passage-question-answer examples from the PolicyQA dataset.<br>
+</div>
 
 <p align="justify">
 Security and privacy policy documents are long and verbose. A question answering (QA) system can assist users in finding the information that is relevant and 
