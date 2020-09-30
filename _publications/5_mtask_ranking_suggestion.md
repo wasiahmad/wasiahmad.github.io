@@ -13,7 +13,10 @@ excerpt: ''
 <a href='https://wasiahmad.github.io/files/publications/2018/mtask_ranking_suggestion.pdf' target="_blank">[Download Paper]</a>
 
 <div style='display: flex; justify-content: center;'><img src='https://wasiahmad.github.io/files/publications/2018/MNSRF-1.png' 
-alt='Image not Loading' style='height:350px;' align='middle'></div><br>
+alt='Image not Loading' style='height:350px;' align='middle'></div>
+<div style='display: flex; justify-content: center;'><p>
+  <b>Figure:</b>  General workflow of the proposed multi-task neural session relevance framework.<br>
+</p></div>
 
 <p align="justify">
 We propose a multi-task learning framework to jointly learn document ranking and query suggestion for web search. 
