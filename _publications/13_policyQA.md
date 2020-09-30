@@ -15,7 +15,7 @@ excerpt: ''
 <img src='https://wasiahmad.github.io/files/publications/2020/policyqa_example.png' 
 alt='Image not Loading' style='width:400px;' align='middle'> <br>
 </div>
-<div style='display: flex; justify-content: center;'>
+<div style='justify-content: center;'>
   <b>Figure: </b> A pair of passage-question-answer examples from the PolicyQA dataset.<br><br>
 </div>
 
