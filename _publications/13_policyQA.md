@@ -4,12 +4,12 @@ collection: publications
 Authors: '<b>Wasi Ahmad</b><sup>*</sup>, Jianfeng Chi<sup>*</sup>, Yuan Tian, and Kai-Wei Chang.'
 date: 10/2020
 venue: 'Findings of EMNLP'
-paperurl: 'https://wasiahmad.github.io/files/publications/2020/policyqa.pdf'
+paperurl: 'https://arxiv.org/pdf/2010.02557.pdf'
 codeurl: 'https://github.com/wasiahmad/PolicyQA'
 excerpt: ''
 ---
 ---
-<a href='' target="_blank">[Download Paper]</a>
+<a href='' target="https://arxiv.org/pdf/2010.02557.pdf">[Download Paper]</a>
 <div style='display: flex; justify-content: center;'>
 <img src='https://wasiahmad.github.io/files/publications/2020/policyqa_example.png' 
 alt='Image not Loading' style='width:400px;' align='middle'> <br>
