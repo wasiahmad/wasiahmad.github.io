@@ -9,7 +9,7 @@ codeurl: 'https://github.com/wasiahmad/PolicyQA'
 excerpt: ''
 ---
 ---
-<a href='' target="https://arxiv.org/pdf/2010.02557.pdf">[Download Paper]</a>
+<a href='https://arxiv.org/pdf/2010.02557.pdf' target="_blank">[Download Paper]</a>
 <div style='display: flex; justify-content: center;'>
 <img src='https://wasiahmad.github.io/files/publications/2020/policyqa_example.png' 
 alt='Image not Loading' style='width:400px;' align='middle'> <br>
