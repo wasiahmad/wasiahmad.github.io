@@ -4,12 +4,12 @@ collection: publications
 Authors: '<b>Wasi Ahmad</b>, Nanyun Peng, and Kai-Wei Chang.'
 date: 10/2020
 venue: 'arXiv'
-paperurl: ''
+paperurl: 'https://arxiv.org/abs/2010.03009'
 codeurl: ''
 excerpt: ''
 ---
 ---
-<a href='' target="_blank">[Download Paper]</a>
+<a href='https://arxiv.org/pdf/2010.03009.pdf' target="_blank">[Download Paper]</a>
 
 <p align="justify">
 Prevalent approaches in cross-lingual relation and event extraction use graph convolutional networks (GCNs) with universal dependency parses to learn 
