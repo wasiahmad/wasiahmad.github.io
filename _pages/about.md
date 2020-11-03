@@ -15,14 +15,12 @@ I am a Ph.D. candidate in <a href="http://www.cs.ucla.edu/">CS@UCLA</a>.
   My research interests span the areas of natural language processing (NLP) and machine learning.
   My research efforts strike to develop computational algorithms that (1) reduce the amount of labeled data required to train NLP models from scratch; and (2) adapt to new domains and languages with fewer labeled examples. 
 <!-- Learning universal language representations utilizing data from heterogeneous sources, designing new learning objective to bridge the gap between different learning signals, and developing flexible model architectures to enable cross-domain and cross-language transfer is the fundamental objective of my research. -->
-My doctoral thesis is on transfer learning for low-resource natural language processing (NLP). During my PhD, I got the opportunity to work as a research intern at Facebook AI (Summer 2020), Yahoo Research (Summer 2019), Microsoft Research (Summer 2019), and @WalmartLabs (Summer 2016).
+My doctoral thesis is on transfer learning for low-resource natural language processing (NLP). During my PhD, I got the opportunity to work as a research intern at Facebook AI (Summer 2020), Yahoo Research (Summer 2019), Microsoft Research (Summer 2018), and @WalmartLabs (Summer 2016).
 </p>
 
-<!---
 <p align="justify">
 I have received my Bachelor's in Computer Science and Engineering from the <a href="http://cse.buet.ac.bd/">CSE@BUET</a>, in February 2013 and Master of Computer Science from the <a href="http://www.cs.virginia.edu/">CS@UVA</a>, in August 2017. In my free time, I like to solve problems to improve my programming skill and also contribute to the community. I have given <b><font color="blue">500+</font></b> answers to programming related questions and earned <b><font color="blue">25,000+</font></b> reputation on StackOverflow.
 </p>
---->
 
 <p align="justify">
   <b><font color="red">I am currently looking for full time research position in industry.</font></b>
