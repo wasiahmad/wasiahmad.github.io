@@ -19,7 +19,7 @@ My doctoral thesis is on transfer learning for low-resource natural language pro
 </p>
 
 <p align="justify">
-I have received my Bachelor's in Computer Science and Engineering from the <a href="http://cse.buet.ac.bd/">CSE@BUET</a>, in February 2013 and Master of Computer Science from the <a href="http://www.cs.virginia.edu/">CS@UVA</a>, in August 2017. In my free time, I like to solve problems to improve my programming skill. I have given <b><font color="blue">500+</font></b> answers to programming related questions and earned <b><font color="blue">25,000+</font></b> reputation :sunglasses: on StackOverflow.
+I have received my Bachelor's in Computer Science and Engineering from the <a href="http://cse.buet.ac.bd/">CSE@BUET</a>, in February 2013 and Master of Computer Science from the <a href="http://www.cs.virginia.edu/">CS@UVA</a>, in August 2017. In my free time, I like to solve problems to improve my programming skill. I have given <b><font color="blue">500+</font></b> answers to programming related questions and earned <b><font color="blue">25,000+</font></b> reputation 😎 on StackOverflow.
 </p>
 
 <p align="justify">
