@@ -20,7 +20,7 @@ I am a Ph.D. candidate in <a href="http://www.cs.ucla.edu/">CS@UCLA</a>.
 I have received my Bachelor's in Computer Science and Engineering from the <a href="http://cse.buet.ac.bd/">CSE@BUET</a>, in February 2013 and Master of Computer Science from the <a href="http://www.cs.virginia.edu/">CS@UVA</a>, in August 2017. In my free time, I like to solve problems to improve my programming skills and also contribute to the community. I have given <b><font color="brown">500+</font></b> answers to programming related questions and earned <b><font color="brown">25,000+</font></b> reputation on StackOverflow.
 </p>
 
-<p align="justify">
+<p align="center">
   <b><font color="red">I am currently looking for full time research position in industry.</font></b>
 </p>
 
