@@ -3,8 +3,8 @@ title: "PolicyQA: A Reading Comprehension Dataset for Privacy Policies"
 collection: publications
 Authors: '<b>Wasi Ahmad</b><sup>*</sup>, Jianfeng Chi<sup>*</sup>, Yuan Tian, and Kai-Wei Chang.'
 date: 10/2020
-venue: 'Findings of EMNLP'
-paperurl: 'https://arxiv.org/abs/2010.02557'
+venue: 'Findings of the ACL: EMNLP 2020'
+paperurl: 'https://www.aclweb.org/anthology/2020.findings-emnlp.66/'
 codeurl: 'https://github.com/wasiahmad/PolicyQA'
 excerpt: ''
 ---
