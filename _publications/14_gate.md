@@ -2,8 +2,8 @@
 title: "GATE: Graph Attention Transformer Encoder for Cross-lingual Relation and Event Extraction"
 collection: publications
 Authors: '<b>Wasi Ahmad</b>, Nanyun Peng, and Kai-Wei Chang.'
-date: 10/2020
-venue: 'arXiv'
+date: 2/2021
+venue: 'AAAI'
 paperurl: 'https://arxiv.org/abs/2010.03009'
 codeurl: ''
 excerpt: ''
