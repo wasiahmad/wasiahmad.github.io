@@ -29,6 +29,7 @@ I have received my Bachelor's in Computer Science and Engineering from the <a hr
 
 News and Announcements
 ======
+1. <span style="color:blue">[12.2020] </span>  Two papers accepted at AAAI 2021.
 1. <span style="color:blue">[08.2020] </span>  Checkout our <a href="https://arxiv.org/abs/2008.01739">work</a> on keyphrase generation.
 1. <span style="color:blue">[06.2020] </span>  I joined Facebook AI for Summer, 2020.
 1. <span style="color:blue">[04.2020] </span>  Our <a href='https://wasiahmad.github.io/files/publications/2020/transformer_for_code_summ.pdf' target="_blank">paper</a> on code summarization got accepted to ACL 2020.
