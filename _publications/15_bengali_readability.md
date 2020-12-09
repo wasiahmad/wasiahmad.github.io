@@ -5,7 +5,7 @@ Authors: 'Susmoy Chakraborty<sup>*</sup>, Mir Tafseer Nayeem<sup>*</sup>, and <b
 date: 2/2021
 venue: 'AAAI'
 paperurl: ''
-codeurl: ''
+codeurl: 'https://github.com/tafseer-nayeem/BengaliReadability'
 excerpt: ''
 ---
 ---
