@@ -61,12 +61,13 @@
     {% if post.presentationurl %}
 		&nbsp; &nbsp; &nbsp;<a href=" {{ post.presentationurl }} " target="_blank"><u>Presentation</u></a>
     {% endif %}
+    {% if post.codeurl %}
+    	&nbsp; &nbsp; &nbsp;<a href=" {{ post.codeurl }} " target="_blank"><u>Code</u></a>
+    {% endif %}
     {% if post.demourl %}
     	&nbsp; &nbsp; &nbsp;<a href=" {{ post.demourl }} " target="_blank"><u>Demo</u></a>
     {% endif %}
-    {% if post.codeurl %}
-    	&nbsp; &nbsp; &nbsp;<a href=" {{ post.codeurl }} " target="_blank"><u>Code</u></a></p>
-    {% endif %}
+    </p>
     {% if post.portfolioImage %}
     	<table class="table__tablenospace">
  			<tr>
