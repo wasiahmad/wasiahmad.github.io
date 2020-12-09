@@ -6,6 +6,7 @@ date: 2/2021
 venue: 'AAAI'
 paperurl: ''
 codeurl: 'https://github.com/tafseer-nayeem/BengaliReadability'
+demourl: 'https://www.youtube.com/watch?v=U05Pf9Y4tCQ'
 excerpt: ''
 ---
 ---
