@@ -27,6 +27,7 @@ redirect_from:
     		</ul>
 	</li>
 	<li> Secondary Reviewer: EMNLP 2018 </li>
+	<li> Journal Reviewer: <a href="https://dl.acm.org/journal/tois">TOIS</a> </li>
 </ol>
 
 
