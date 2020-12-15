@@ -4,13 +4,13 @@ collection: publications
 Authors: 'Susmoy Chakraborty<sup>*</sup>, Mir Tafseer Nayeem<sup>*</sup>, and <b>Wasi Ahmad</b>.'
 date: 2/2021
 venue: 'AAAI'
-paperurl: ''
+paperurl: 'https://arxiv.org/abs/2012.07701'
 codeurl: 'https://github.com/tafseer-nayeem/BengaliReadability'
 demourl: 'https://www.youtube.com/watch?v=U05Pf9Y4tCQ'
 excerpt: ''
 ---
 ---
-<a href='' target="_blank">[Download Paper]</a>
+<a href='https://arxiv.org/pdf/2012.07701.pdf' target="_blank">[Download Paper]</a>
 
 <p align="justify">
 Determining the readability of a text is the first step to its simplification. This paper presents a readability analysis tool capable of analyzing text written 
