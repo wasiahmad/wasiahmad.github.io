@@ -11,6 +11,8 @@ excerpt: ''
 ---
 <a href='https://arxiv.org/pdf/2010.03009.pdf' target="_blank">[Download Paper]</a>
 
+<div style='display: flex; justify-content: center;'><img src='https://github.com/wasiahmad/wasiahmad.github.io/blob/master/files/publications/2021/Poster_GATE.pdf' alt='Image not Loading' style='height:700px;' align='middle'></div><br>
+
 <p align="justify">
 Prevalent approaches in cross-lingual relation and event extraction use graph convolutional networks (GCNs) with universal dependency parses to learn 
 language-agnostic representations such that models trained on one language can be applied to other languages. However, GCNs lack in modeling long-range 
