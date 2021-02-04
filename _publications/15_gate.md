@@ -12,7 +12,7 @@ excerpt: ''
 <a href='https://arxiv.org/pdf/2010.03009.pdf' target="_blank">[Download Paper]</a>
 
 <div style='display: flex; justify-content: center;'>
-  <img src='https://github.com/wasiahmad/wasiahmad.github.io/blob/master/files/publications/2021/Poster_GATE.png' alt='Image not Loading' style='width:700px;' align='middle'> <br>
+  <img src='https://wasiahmad.github.io/files/publications/2021/Poster_GATE.png' alt='Image not Loading' style='width:700px;' align='middle'> <br><br>
 </div>
 
 <p align="justify">
