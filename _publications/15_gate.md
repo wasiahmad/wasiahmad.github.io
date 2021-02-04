@@ -5,6 +5,7 @@ Authors: '<b>Wasi Ahmad</b>, Nanyun Peng, and Kai-Wei Chang.'
 date: 2/2021
 venue: 'AAAI'
 paperurl: 'https://arxiv.org/abs/2010.03009'
+presentationurl: 'https://wasiahmad.github.io/files/publications/2021/presentation_gate.pdf'
 codeurl: 'https://github.com/wasiahmad/GATE'
 excerpt: ''
 ---
