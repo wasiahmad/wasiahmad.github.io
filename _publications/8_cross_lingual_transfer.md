@@ -13,7 +13,7 @@ excerpt: ''
 <a href='https://wasiahmad.github.io/files/publications/2019/cross_lingual_transfer.pdf' target="_blank">[Download Paper]</a>
 
 <div style='display: flex; justify-content: center;'>
-  <img src='https://wasiahmad.github.io/files/publications/2019/word_order-2.png' alt='Image not Loading' style='width:700px;' align='middle'> <br>
+  <img src='https://wasiahmad.github.io/files/publications/2019/word_order-2.png' alt='Image not Loading' style='width:700px;' align='middle'> <br><br>
 </div>
 
 <p align="justify">
