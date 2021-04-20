@@ -5,7 +5,7 @@ Authors: 'Kuan-Hao Huang, <b>Wasi Ahmad</b>, Nanyun Peng, and Kai-Wei Chang.'
 date: 04/2021
 venue: 'Arxiv'
 paperurl: 'https://arxiv.org/abs/2104.08645'
-presentation: ''
+presentationurl: ''
 codeurl: ''
 excerpt: ''
 ---
