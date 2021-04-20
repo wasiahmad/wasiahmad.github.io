@@ -5,8 +5,8 @@ Authors: 'Masum Hasan, Kazi Sajeed Mehrab, Baishakhi Ray,<b>Wasi Ahmad</b>, and 
 date: 04/2021
 venue: 'Arxiv'
 paperurl: 'https://arxiv.org/abs/2104.08301'
-presentationurl: ''
 codeurl: 'https://github.com/Masum06/Text2App'
+demourl: 'https://www.youtube.com/watch?v=Wr2TMuexkq8'
 excerpt: ''
 ---
 ---
