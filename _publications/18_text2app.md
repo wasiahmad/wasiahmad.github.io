@@ -10,7 +10,7 @@ demourl: 'https://www.youtube.com/watch?v=Wr2TMuexkq8'
 excerpt: ''
 ---
 ---
-<a href='https://arxiv.org/pdf/2103.06333.pdf' target="_blank">[Download Paper]</a><a href='https://github.com/wasiahmad/PLBART' target="_blank">[Source Code]</a>
+<a href='https://arxiv.org/pdf/2104.08301.pdf' target="_blank">[Download Paper]</a><a href='https://github.com/Masum06/Text2App' target="_blank">[Source Code]</a>
 
 <p align="justify">
 We present Text2App -- a framework that allows users to create functional Android applications from natural language specifications. The conventional method of 
@@ -20,5 +20,5 @@ representation is then compiled into target source codes. This abstraction of pr
 with less overhead. In order to train sequence models, we introduce a data synthesis method grounded in a human survey. We demonstrate that Text2App generalizes 
 well to unseen combination of app components and it is capable of handling noisy natural language instructions. We explore the possibility of creating applications 
 from highly abstract instructions by coupling our system with GPT-3 -- a large pretrained language model. The source code, a ready-to-run demo notebook, and a 
-demo video are publicly available at <a href='https://text2app.github.io' target="_blank">https://text2app.github.io/</a>.
+demo video are publicly available <a href='https://text2app.github.io' target="_blank">here</a>.
 </p>
