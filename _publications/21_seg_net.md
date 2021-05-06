@@ -2,8 +2,8 @@
 title: "Select, Extract and Generate: Neural Keyphrase Generation with Syntactic Guidance"
 collection: publications
 Authors: '<b>Wasi Ahmad</b>, Xiao Bai, Soomin Lee, and Kai-Wei Chang.'
-date: 08/2020
-venue: 'arXiv'
+date: 05/2021
+venue: 'ACL'
 paperurl: 'https://arxiv.org/abs/2008.01739'
 presentationurl: ''
 codeurl: ''
