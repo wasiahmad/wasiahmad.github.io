@@ -30,7 +30,7 @@ I have received my Bachelor's in Computer Science and Engineering from the <a hr
 
 News and Announcements
 ======
-1. <span style="color:blue">[05.2021] </span>  Four papers accepted at ACL 2021 (3 (long) at the main conference, 1 (short) at the findings).
+1. <span style="color:blue">[05.2021] </span>  Four papers (3 long, 1 short) accepted at ACL 2021.
 1. <span style="color:blue">[03.2021] </span>  One [paper](https://arxiv.org/abs/2103.06333) got accepted at NAACL 2021.
 1. <span style="color:blue">[01.2021] </span>  Checkout our <a href="https://arxiv.org/abs/2101.00123">work</a> on information extraction from privacy policies.
 1. <span style="color:blue">[12.2020] </span>  Two papers got accepted at AAAI 2021.
