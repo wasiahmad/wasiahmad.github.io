@@ -1,5 +1,5 @@
 ---
-title: "Select, Extract and Generate: Neural Keyphrase Generation with Syntactic Guidance"
+title: "Select, Extract and Generate: Neural Keyphrase Generation with Layer-wise Coverage Attention"
 collection: publications
 Authors: '<b>Wasi Ahmad</b>, Xiao Bai, Soomin Lee, and Kai-Wei Chang.'
 date: 05/2021
