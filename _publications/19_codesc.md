@@ -6,7 +6,6 @@ date: 05/2021
 venue: 'Findings of the ACL'
 paperurl: 'https://arxiv.org/abs/2105.14220'
 codeurl: 'https://github.com/code-desc/CoDesc'
-presentationurl: ''
 excerpt: ''
 ---
 ---
