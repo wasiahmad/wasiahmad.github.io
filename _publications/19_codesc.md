@@ -4,13 +4,13 @@ collection: publications
 Authors: 'Masum Hasan<sup>*</sup>, Tanveer Muttaqueen<sup>*</sup>, Abdullah Al Ishtiaq, Kazi Sajeed Mehrab, Md. Mahim Anjum Haque, Tahmid Hasan, <b>Wasi Ahmad</b>, Anindya Iqbal and Rifat Shahriyar'
 date: 05/2021
 venue: 'Findings of the ACL'
-paperurl: ''
+paperurl: 'https://arxiv.org/abs/2105.14220'
 codeurl: 'https://github.com/code-desc/CoDesc'
-demourl: ''
+presentationurl: ''
 excerpt: ''
 ---
 ---
-<a href='' target="_blank">[Download Paper]</a><a href='' target="_blank">[Source Code]</a>
+<a href='https://arxiv.org/pdf/2105.14220.pdf' target="_blank">[Download Paper]</a><a href='https://github.com/code-desc/CoDesc' target="_blank">[Source Code]</a>
 
 <p align="justify">
 Translation between natural language and source code can help software development, by enabling developers to comprehend, ideate, search, and also write computer 
