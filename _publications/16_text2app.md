@@ -7,6 +7,7 @@ venue: 'Arxiv'
 paperurl: 'https://arxiv.org/abs/2104.08301'
 codeurl: 'https://github.com/Masum06/Text2App'
 demourl: 'https://www.youtube.com/watch?v=Wr2TMuexkq8'
+mediaurl: 'https://techxplore.com/news/2021-06-text2app-framework-android-apps-text.html'
 excerpt: ''
 ---
 ---
