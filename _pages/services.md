@@ -21,10 +21,10 @@ redirect_from:
 <ol>
 	<li> Program Committee/Reviewer
 		<ul>
-			<li>2022: ICLR
+			<li>2022: ICLR </li>
 			<li>2021: NIPS, EMNLP, SIGIR, ACL-IJCNLP, IJCAI, NAACL, EACL, AAAI </li>
-			<li>2020: EMNLP, ICML, IJCAI, AAAI, LREC</li>
-			<li>2019: NAACL</li>
+			<li>2020: EMNLP, ICML, IJCAI, AAAI, LREC </li>
+			<li>2019: NAACL </li>
     		</ul>
 	</li>
 	<li> Secondary Reviewer: EMNLP 2018 </li>
