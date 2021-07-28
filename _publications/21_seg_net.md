@@ -4,7 +4,7 @@ collection: publications
 Authors: '<b>Wasi Ahmad</b>, Xiao Bai, Soomin Lee, and Kai-Wei Chang.'
 date: 05/2021
 venue: 'ACL'
-paperurl: 'https://arxiv.org/abs/2008.01739'
+paperurl: 'https://aclanthology.org/2021.acl-long.111/'
 presentationurl: 'https://www.youtube.com/watch?v=7oQbMqEiESE'
 excerpt: ''
 ---
