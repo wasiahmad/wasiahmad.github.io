@@ -4,7 +4,7 @@ collection: publications
 Authors: '<b>Wasi Ahmad</b>, Haoran Li, Kai-Wei Chang, and Yashar Mehdad.'
 date: 05/2021
 venue: 'ACL'
-paperurl: 'https://arxiv.org/abs/2106.02134'
+paperurl: 'https://aclanthology.org/2021.acl-long.350/'
 presentationurl: 'https://www.youtube.com/watch?v=G03p6oe_Lz0'
 codeurl: 'https://github.com/wasiahmad/Syntax-MBERT'
 excerpt: ''
