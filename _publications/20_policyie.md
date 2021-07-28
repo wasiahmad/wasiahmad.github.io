@@ -4,7 +4,7 @@ collection: publications
 Authors: '<b>Wasi Ahmad</b><sup>*</sup>, Jianfeng Chi<sup>*</sup>, Tu Le, Thomas Norton, Yuan Tian, and Kai-Wei Chang.'
 date: 05/2021
 venue: 'ACL'
-paperurl: 'https://arxiv.org/abs/2101.00123'
+paperurl: 'https://aclanthology.org/2021.acl-long.340/'
 presentationurl: 'https://www.youtube.com/watch?v=GXS6XgwAMdE'
 codeurl: 'https://github.com/wasiahmad/PolicyIE'
 excerpt: ''
