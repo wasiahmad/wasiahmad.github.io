@@ -7,7 +7,7 @@ main:
     url: /cv/
     
   - title: "Research"
-    url: /year-archive/
+    url: /research/
     
   - title: "Publications"
     url: /publications/
@@ -16,7 +16,7 @@ main:
     url: /talks/
     
   - title: "Miscellaneous"
-    url: /services/
+    url: /miscellaneous/
     
 
     
