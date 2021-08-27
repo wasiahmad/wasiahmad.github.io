@@ -32,12 +32,12 @@ I have received my Bachelor's in Computer Science and Engineering from the <a hr
 
 News and Announcements
 ======
-1. <span style="color:blue">[08.2021] </span>  Two papers ([[1]](https://arxiv.org/abs/2104.08645),[[2]](https://arxiv.org/abs/2108.11601)) got accepted at EMNLP 2021.
+1. <span style="color:blue">[08.2021] </span>  Two papers ([[1]](https://arxiv.org/abs/2104.08645), [[2]](https://arxiv.org/abs/2108.11601)) got accepted at EMNLP 2021.
 1. <span style="color:blue">[07.2021] </span>  I will join [AWS AI](https://aws.amazon.com/ai/) as an applied scientist after graduation!
-1. <span style="color:blue">[05.2021] </span>  Four papers ([[1]](https://arxiv.org/abs/2106.02134),[[2]](https://arxiv.org/abs/2008.01739),[[3]](https://arxiv.org/abs/2101.00123),[[4]](https://arxiv.org/abs/2105.14220)) got accepted at ACL 2021.
+1. <span style="color:blue">[05.2021] </span>  Four papers ([[1]](https://arxiv.org/abs/2106.02134), [[2]](https://arxiv.org/abs/2008.01739), [[3]](https://arxiv.org/abs/2101.00123), [[4]](https://arxiv.org/abs/2105.14220)) got accepted at ACL 2021.
 1. <span style="color:blue">[03.2021] </span>  One [paper](https://arxiv.org/abs/2103.06333) got accepted at NAACL 2021.
 1. <span style="color:blue">[01.2021] </span>  Checkout our <a href="https://arxiv.org/abs/2101.00123">work</a> on information extraction from privacy policies.
-1. <span style="color:blue">[12.2020] </span>  Two papers ([[1]](https://arxiv.org/abs/2010.03009),[[2]](https://arxiv.org/abs/2012.07701)) got accepted at AAAI 2021.
+1. <span style="color:blue">[12.2020] </span>  Two papers ([[1]](https://arxiv.org/abs/2010.03009), [[2]](https://arxiv.org/abs/2012.07701)) got accepted at AAAI 2021.
 
 
 <!---
