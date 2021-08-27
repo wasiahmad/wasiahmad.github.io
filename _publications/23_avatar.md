@@ -4,13 +4,13 @@ collection: publications
 Authors: '<b>Wasi Ahmad</b>, Md Golam Rahman Tushar, Saikat Chakraborty, and Kai-Wei Chang.'
 date: 08/2021
 venue: 'Arxiv'
-paperurl: ''
+paperurl: 'https://arxiv.org/abs/2108.11590'
 presentationurl: ''
 codeurl: 'https://github.com/wasiahmad/AVATAR'
 excerpt: ''
 ---
 ---
-<a href='' target="_blank">[Download Paper]</a><a href='https://github.com/wasiahmad/AVATAR' target="_blank">[Source Code]</a>
+<a href='https://arxiv.org/pdf/2108.11590.pdf' target="_blank">[Download Paper]</a><a href='https://github.com/wasiahmad/AVATAR' target="_blank">[Source Code]</a>
 
 <p align="justify">
   Program translation refers to migrating source code from one programming language to another. It has a tremendous practical value in software development as 
