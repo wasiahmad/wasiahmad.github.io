@@ -32,14 +32,16 @@ I have received my Bachelor's in Computer Science and Engineering from the <a hr
 
 News and Announcements
 ======
+1. <span style="color:blue">[08.2021] </span>  Two papers got accepted at EMNLP 2021.
 1. <span style="color:blue">[07.2021] </span>  I will join [AWS AI](https://aws.amazon.com/ai/) as an applied scientist after graduation!
 1. <span style="color:blue">[05.2021] </span>  Four papers got accepted at ACL 2021.
 1. <span style="color:blue">[03.2021] </span>  One [paper](https://arxiv.org/abs/2103.06333) got accepted at NAACL 2021.
 1. <span style="color:blue">[01.2021] </span>  Checkout our <a href="https://arxiv.org/abs/2101.00123">work</a> on information extraction from privacy policies.
-1. <span style="color:blue">[12.2020] </span>  Two papers got accepted at AAAI 2021.
-1. <span style="color:blue">[08.2020] </span>  Checkout our <a href="https://arxiv.org/abs/2008.01739">work</a> on keyphrase generation.
+1. <span style="color:blue">[12.2020] </span>  Two papers ([[1]](https://arxiv.org/abs/2010.03009)[[2]](https://arxiv.org/abs/2012.07701)) got accepted at AAAI 2021.
+
 
 <!---
+1. <span style="color:blue">[08.2020] </span>  Checkout our <a href="https://arxiv.org/abs/2008.01739">work</a> on keyphrase generation.
 1. <span style="color:blue">[06.2020] </span>  I joined Facebook AI for Summer, 2020.
 1. <span style="color:blue">[04.2020] </span>  Our <a href='https://wasiahmad.github.io/files/publications/2020/transformer_for_code_summ.pdf' target="_blank">paper</a> on code summarization got accepted to ACL 2020.
 1. <span style="color:blue">[08.2019] </span>  One <a href="https://arxiv.org/abs/1909.09265">paper</a> got accepted at CoNLL, 2019.
