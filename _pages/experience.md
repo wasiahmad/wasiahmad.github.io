@@ -7,8 +7,13 @@ redirect_from:
   - /resume
 ---
 <br/>
+    <span style="color:black; font-size:17px"><b><a href="https://aws.amazon.com/ai/" target="_blank"><font color="brown" size="5">Amazon Web Services, AI</font></a></b></span><br/>
+    Santa Clara, California<br/>
+    Applied Scientist II [October, 2021 - Present]<br/>
+    Manager: <a href="https://www.linkedin.com/in/parminder-bhatia-19508126/" target="_blank">Parminder Bhatia</a><br/>
+<br/>
     <span style="color:black; font-size:17px"><b><a href="http://www.ucla.edu/" target="_blank"><font color="brown" size="5">University of California, Los Angeles</font></a></b></span><br/>
-    Graduate Research Assistant [August, 2017 - Present]<br/>
+    Graduate Research Assistant [August, 2017 - September, 2021]<br/>
     Graduate Teaching Assistant [January, 2019 - June, 2019]<br/>
     Advisor: <a href="http://web.cs.ucla.edu/~kwchang/" target="_blank">Dr. Kai-Wei Chang</a>, Lab: <a href="http://web.cs.ucla.edu/~kwchang/members/" target="_blank">UCLA NLP</a> <br/>
 <br/>
