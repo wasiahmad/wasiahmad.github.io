@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 <br/>
-    <span style="color:black; font-size:17px"><b><a href="https://aws.amazon.com/ai/" target="_blank"><font color="brown" size="5">Amazon Web Services, AI</font></a></b></span><br/>
+    <span style="color:black; font-size:17px"><b><a href="https://aws.amazon.com/ai/" target="_blank"><font color="brown" size="5">AI Labs, Amazon Web Services (AWS)</font></a></b></span><br/>
     Santa Clara, California<br/>
     Applied Scientist II [October, 2021 - Present]<br/>
     Manager: <a href="https://www.linkedin.com/in/parminder-bhatia-19508126/" target="_blank">Parminder Bhatia</a><br/>
