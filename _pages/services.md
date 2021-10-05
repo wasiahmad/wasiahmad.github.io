@@ -21,7 +21,7 @@ redirect_from:
 <ol>
 	<li> Program Committee/Reviewer
 		<ul>
-			<li>2022: AAAI, WSDM, ICLR </li>
+			<li>2022: ARR, AAAI, WSDM, ICLR </li>
 			<li>2021: NeurIPS, EMNLP, SIGIR, ACL-IJCNLP, IJCAI, NAACL, EACL, AAAI </li>
 			<li>2020: EMNLP, ICML, IJCAI, AAAI, LREC </li>
 			<li>2019: NAACL </li>
