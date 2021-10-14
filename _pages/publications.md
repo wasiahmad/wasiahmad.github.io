@@ -14,9 +14,10 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 {% include base_path %}
 
 {% for post in site.publications reversed %}
+<h1>{{ post.date }}</h1>
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
   {% if year != written_year %}
-    <h1 class="mt-4">{{ year }}</h1>
+    <h1>{{ year }}</h1>
     {% capture written_year %}{{ year }}{% endcapture %}
   {% endif %}
   {% include archive-single.html %}
