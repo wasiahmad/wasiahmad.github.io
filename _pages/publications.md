@@ -27,6 +27,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
   {% capture currentyear %}{{post.date | date: "%Y"}}{% endcapture %}
   {% if currentyear != year %}
      <h2>{{ currentyear }}</h2>
+     
     {% capture year %}{{currentyear}}{% endcapture %} 
   {% endif %}
   <ul class="posts-in-year">
