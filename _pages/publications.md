@@ -23,7 +23,15 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 {% endfor %} -->
 
 
-<h1 style="color: brown;">2021</h1>
+<h1 id="{{ year | slugify }}" class="archive__subtitle">2021</h1>
+{% for post in site.publications reversed %}
+  {% capture year %}{{post.date | date: "%Y"}}{% endcapture %}
+  {% if year == "2021" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+<h1 id="{{ year | slugify }}" class="archive__subtitle">2021</h1>
 {% for post in site.publications reversed %}
   {% capture year %}{{post.date | date: "%Y"}}{% endcapture %}
   {% if year == "2021" %}
