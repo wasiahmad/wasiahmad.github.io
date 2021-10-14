@@ -26,7 +26,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 <h1 style="color: brown;">2021</h1>
 {% for post in site.publications reversed %}
   {% capture year %}{{post.date | date: "%Y"}}{% endcapture %}
-  {% if year == 2021 %}
+  {% if year == "2021" %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
