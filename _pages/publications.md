@@ -22,6 +22,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
   {% include archive-single.html %}
 {% endfor %} -->
 
-{% for year in (1980..2020) %}
+{% for post in site.publications reversed %}
+  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
   <h1>{{ year }}</h1>
 {% endfor %}
