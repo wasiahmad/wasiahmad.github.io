@@ -19,8 +19,5 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
     <h1>{{ year }}</h1>
     {% capture written_year %}{{ year }}{% endcapture %}
   {% endif %}
-<!--   {% include archive-single.html %} -->
-  <ul class="posts-in-year">
-    <li><p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}    </a> &mdash; {{ post.date | date: "%B %d" }}</p></li>
-  </ul>
+  {% include archive-single.html %}
 {% endfor %}
