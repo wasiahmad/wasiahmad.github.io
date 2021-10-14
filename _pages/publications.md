@@ -22,10 +22,15 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
   {% include archive-single.html %}
 {% endfor %} -->
 
-{% for post in site.publications reversed %}
-  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-  {% if year != written_year %}
-    <h1 style="color: brown;">{{ year }}</h1>
-    {% capture written_year %}{{ year }}{% endcapture %}
+
+{% for post in site.publications.journal %}
+  {% capture currentyear %}{{post.date | date: "%Y"}}{% endcapture %}
+  {% if currentyear != year %}
+     <h2>{{ currentyear }}</h2>
+    {% capture year %}{{currentyear}}{% endcapture %} 
   {% endif %}
+  <ul class="posts-in-year">
+    <li><p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}    </a> &mdash; {{ post.date | date: "%B %d" }}</p></li>
+  </ul>
 {% endfor %}
+
