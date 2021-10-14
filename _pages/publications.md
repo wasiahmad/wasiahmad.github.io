@@ -11,6 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
+<h1 style="color: red;">2021</h1>
 {% for post in site.publications reversed %}
 	{% include archive-single.html %}
 {% endfor %}
