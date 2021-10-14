@@ -23,7 +23,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 {% endfor %} -->
 
 
-{% for post in site.publications.journal %}
+{% for post in site.publications reversed %}
   {% capture currentyear %}{{post.date | date: "%Y"}}{% endcapture %}
   {% if currentyear != year %}
      <h2>{{ currentyear }}</h2>
