@@ -15,5 +15,5 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 {% include base_path %}
 
 <h1 style="color: red;">2021</h2>
-{% for post in site.publications.conference reversed %}
+{% for post in site.publications.2020 reversed %}
 	{% include archive-single.html %}
