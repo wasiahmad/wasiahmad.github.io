@@ -17,7 +17,7 @@ author_profile: true
 {% endfor %} -->
 
 
-<h1>Conference</h1>
+<h1 style="color:brown;">Conference</h1>
 
 <ol reversed>
 
