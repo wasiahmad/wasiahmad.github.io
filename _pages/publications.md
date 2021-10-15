@@ -22,19 +22,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
   {% include archive-single.html %}
 {% endfor %} -->
 
-.year__title {
-  margin: 1.414em 0 0;
-  padding-bottom: 0.5em;
-  font-size: $type-size-5;
-  color: brown;
-  border-bottom: 1px solid $border-color;
-
-  + .list__item .archive__item-title {
-    margin-top: 0.5em;
-  }
-}
-
-<h1 style="color: brown; margin: 1.414em 0 0; padding-bottom: 0.5em; font-size: $type-size-5; border-bottom: 1px solid $border-color;">2021</h1>
+<h1 id="{{ year | slugify }}" class="year__title">2021</h1>
 {% for post in site.publications reversed %}
   {% capture year %}{{post.date | date: "%Y"}}{% endcapture %}
   {% if year == "2021" %}
