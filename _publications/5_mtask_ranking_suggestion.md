@@ -2,7 +2,7 @@
 title: "Multi-Task Learning for Document Ranking and Query Suggestion"
 collection: publications
 Authors: '<b>Wasi Ahmad</b>, Kai-Wei Chang, and Hongning Wang.'
-date: 05/2018
+date: 01/2018
 venue: 'ICLR'
 paperurl: 'https://wasiahmad.github.io/files/publications/2018/mtask_ranking_suggestion.pdf'
 presentationurl: 'https://wasiahmad.github.io/files/publications/2018/poster_mtask_ranking_suggestion.pdf'
