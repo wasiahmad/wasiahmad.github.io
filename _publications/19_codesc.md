@@ -1,7 +1,7 @@
 ---
 title: "CoDesc: A Large Code–Description Parallel Dataset"
 collection: publications
-Authors: 'Masum Hasan<sup>*</sup>, Tanveer Muttaqueen<sup>*</sup>, Abdullah Al Ishtiaq, Kazi Sajeed Mehrab, Md. Mahim Anjum Haque, Tahmid Hasan, <b>Wasi Ahmad</b>, Anindya Iqbal, and Rifat Shahriyar'
+Authors: 'Masum Hasan<sup>*</sup>, Tanveer Muttaqueen<sup>*</sup>, Abdullah Al Ishtiaq, Kazi Sajeed Mehrab, Md. Mahim Anjum Haque, Tahmid Hasan, <b>Wasi Ahmad</b>, Anindya Iqbal, and Rifat Shahriyar.'
 date: 05/2021
 venue: 'Findings of the ACL'
 paperurl: 'https://arxiv.org/abs/2105.14220'
