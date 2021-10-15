@@ -22,13 +22,12 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
   {% include archive-single.html %}
 {% endfor %} -->
 
-{% for y1 in 2021..2016 %}
-  <h1 id="{{ year | slugify }}" class="year__title">{{ y1 }}</h1>
-  {% for post in site.publications reversed %}
-    {% capture year %}{{post.date | date: "%Y"}}{% endcapture %}
-    {% if year == {{ y1 }} %}
-      {% include archive-single.html %}
-    {% endif %}
+{% assign publicationsByYear = site.publications | group_by_exp:"post", "post.date | date: '%Y'" %}
+{% for year in publicationsByYear %}
+  <h1>{{ year.name }}</h1>
+  {% for post in year.items %}
+    {% include archive-single.html %}
   {% endfor %}
 {% endfor %}
+
 
