@@ -56,19 +56,19 @@
     {% elsif post.citation %}
       <p>Recommended citation: {{ post.citation }} </p>
     {% elsif post.paperurl %}
-      <p class="archive__twentysixpoint"><a href=" {{ post.paperurl }} " target="_blank">[Paper]</a>
+      <p class="archive__twentysixpoint"><a href=" {{ post.paperurl }} " target="_blank" style="color: blue">[Paper]</a>
     {% endif %}
     {% if post.presentationurl %}
-	&nbsp;<a href=" {{ post.presentationurl }} " target="_blank">[Presentation]</a>
+	&nbsp;<a href=" {{ post.presentationurl }} " target="_blank" style="color: blue">[Presentation]</a>
     {% endif %}
     {% if post.codeurl %}
-    	&nbsp;<a href=" {{ post.codeurl }} " target="_blank">[Code]</a>
+    	&nbsp;<a href=" {{ post.codeurl }} " target="_blank" style="color: blue">[Code]</a>
     {% endif %}
     {% if post.demourl %}
-    	&nbsp;<a href=" {{ post.demourl }} " target="_blank">[Demo]</a>
+    	&nbsp;<a href=" {{ post.demourl }} " target="_blank" style="color: blue">[Demo]</a>
     {% endif %}
     {% if post.mediaurl %}
-    	&nbsp;<a href=" {{ post.mediaurl }} " target="_blank">[Media Coverage]</a>
+    	&nbsp;<a href=" {{ post.mediaurl }} " target="_blank" style="color: blue">[Media Coverage]</a>
     {% endif %}
     </p>
     {% if post.portfolioImage %}
