@@ -1,7 +1,7 @@
 ---
 title: "Word and sentence embedding tools to measure semantic similarity of Gene Ontology terms by their definitions"
 collection: publications
-Authors: 'Dat Duong, <b>Wasi Ahmad</b>, Eleazar Eskin, Kai-Wei Chang, Jingyi Jessica Li.'
+Authors: 'Dat Duong, <b>Wasi Ahmad</b>, Eleazar Eskin, Kai-Wei Chang, and Jingyi Jessica Li.'
 date: 01/2019
 venue: 'Journal of Computational Biology'
 paperurl: 'https://www.biorxiv.org/content/biorxiv/early/2018/05/14/103648.full.pdf'
