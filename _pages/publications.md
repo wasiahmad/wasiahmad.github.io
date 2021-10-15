@@ -23,10 +23,10 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 {% endfor %} -->
 
 {% for y1 in 2021..2016 %}
-  <h1 id="{{ year | slugify }}" class="year__title">2021</h1>
+  <h1 id="{{ year | slugify }}" class="year__title">{{ y1 }}</h1>
   {% for post in site.publications reversed %}
     {% capture year %}{{post.date | date: "%Y"}}{% endcapture %}
-    {% if year == "2021" %}
+    {% if year == {{ y1 }} %}
       {% include archive-single.html %}
     {% endif %}
   {% endfor %}
