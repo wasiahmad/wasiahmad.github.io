@@ -15,7 +15,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 {% assign publicationsByYear = site.publications | group_by_exp:"post", "post.date | date: '%Y'" %}
 {% for year in publicationsByYear reversed %}
-  <h1>{{ year.name }}</h1>
+  <h1 id="{{ year | slugify }}" class="archive__title">{{ year.name }}</h1>
   {% for post in year.items %}
     {% include archive-single.html %}
   {% endfor %}
