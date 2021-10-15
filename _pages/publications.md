@@ -15,7 +15,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 {% assign publicationsByYear = site.publications | group_by_exp:"post", "post.date | date: '%Y'" %}
 {% for year in publicationsByYear reversed %}
-  <h1 style="margin: 1.3em 0px 1em; padding: 0px; color: brown; border-bottom: 1px solid rgb(204, 204, 204);">{{ year.name }}</h1>
+  <h1 style="margin: 1.5em 0px 1em; padding: 0px; color: brown; border-bottom: 1px solid rgb(204, 204, 204);">{{ year.name }}</h1>
   {% for post in year.items %}
     {% include archive-single.html %}
   {% endfor %}
