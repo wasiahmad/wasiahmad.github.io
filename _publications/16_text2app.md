@@ -3,7 +3,7 @@ title: "Text2App: A Framework for Creating Android Apps from Text Descriptions"
 collection: publications
 Authors: 'Masum Hasan<sup>*</sup>, Kazi Sajeed Mehrab<sup>*</sup>, <b>Wasi Ahmad</b>, and Rifat Shahriyar.'
 date: 04/2021
-venue: 'Arxiv'
+venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2104.08301'
 codeurl: 'https://github.com/Masum06/Text2App'
 demourl: 'https://www.youtube.com/watch?v=Wr2TMuexkq8'
