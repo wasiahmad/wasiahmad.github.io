@@ -13,17 +13,8 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 {% include base_path %}
 
-<!-- {% for post in site.publications reversed %}
-  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-  {% if year != written_year %}
-    <h1 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h1>
-    {% capture written_year %}{{ year }}{% endcapture %}
-  {% endif %}
-  {% include archive-single.html %}
-{% endfor %} -->
-
 {% assign publicationsByYear = site.publications | group_by_exp:"post", "post.date | date: '%Y'" %}
-{% for year in publicationsByYear %}
+{% for year in publicationsByYear reversed %}
   <h1>{{ year.name }}</h1>
   {% for post in year.items %}
     {% include archive-single.html %}
