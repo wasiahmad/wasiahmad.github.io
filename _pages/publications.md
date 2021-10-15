@@ -23,7 +23,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 {% endfor %} -->
 
 
-<h1 id="{{ year | slugify }}" class="archive__subtitle">2021</h1>
+<h1 style="color: brown; margin: 1.414em 0 0; padding-bottom: 0.5em; font-size: $type-size-5; border-bottom: 1px solid $border-color;">2021</h1>
 {% for post in site.publications reversed %}
   {% capture year %}{{post.date | date: "%Y"}}{% endcapture %}
   {% if year == "2021" %}
@@ -31,7 +31,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
   {% endif %}
 {% endfor %}
 
-<h1 id="{{ year | slugify }}" class="archive__subtitle">2021</h1>
+<h1 style="color: brown; margin: 1.414em 0 0; padding-bottom: 0.5em; font-size: $type-size-5; border-bottom: 1px solid $border-color;">2020</h1>
 {% for post in site.publications reversed %}
   {% capture year %}{{post.date | date: "%Y"}}{% endcapture %}
   {% if year == "2021" %}
