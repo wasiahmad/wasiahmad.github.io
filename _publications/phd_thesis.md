@@ -5,7 +5,7 @@ Authors: '<b>Wasi Ahmad</b>'
 date: 10/2021
 venue: 'UCLA Electronic Theses and Dissertations'
 paperurl: 'https://escholarship.org/content/qt6v66v3m8/qt6v66v3m8.pdf'
-presentationurl: ''
+presentationurl: 'https://wasiahmad.github.io/files/phd_thesis_presentation.pdf'
 excerpt: ''
 ---
 ---
