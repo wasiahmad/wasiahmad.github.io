@@ -1,6 +1,6 @@
 ---
 title: "Intent Classification and Slot Filling for Privacy Policies"
-collection: publications
+collection: thesis
 Authors: '<b>Wasi Ahmad</b>'
 date: 10/2021
 venue: 'UCLA Electronic Theses and Dissertations'
