@@ -9,6 +9,7 @@ presentationurl: ''
 excerpt: ''
 ---
 ---
+<a href='https://escholarship.org/content/qt6v66v3m8/qt6v66v3m8.pdf' target="_blank">[Thesis]</a><a href='https://wasiahmad.github.io/files/phd_thesis_presentation.pdf' target="_blank">[Presentation]</a>
 
 <p align="justify">
 In the modern era of deep learning, developing natural language processing (NLP) systems require large-scale annotated data. However, it is unfortunate that 
