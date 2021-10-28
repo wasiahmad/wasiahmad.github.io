@@ -33,7 +33,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
   {% assign publicationsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
   {% for month in publicationsByMonth reversed %}
     {% for post in month.items reversed %}
-      {% if post.collection != "theses" and post.venue != "arXiv" %}
+      {% if post.collection != "theses" or post.venue != "arXiv" %}
         {% include archive-single.html %}
       {% endif %}
     {% endfor %}
