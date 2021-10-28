@@ -15,7 +15,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 <h1 style="margin: 1.25em 0px -0.5em; padding: 0px; color: brown;">Theses</h1>
 {% for post in site.publications reversed %}
-  {% if post.collection == "theses" %}
+  {% if post.venue == "UCLA Electronic Theses and Dissertations" %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
@@ -33,7 +33,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
   {% assign publicationsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
   {% for month in publicationsByMonth reversed %}
     {% for post in month.items reversed %}
-      {% if post.collection != "theses" or post.venue != "arXiv" %}
+      {% if post.venue != "UCLA Electronic Theses and Dissertations" or post.venue != "arXiv" %}
         {% include archive-single.html %}
       {% endif %}
     {% endfor %}
