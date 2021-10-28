@@ -23,7 +23,6 @@ In the modern era of deep learning, developing natural language processing (NLP)
 <p align="justify">
   This dissertation discusses the fundamental challenges and proposes several approaches for cross-lingual representation learning that (1) utilize universal 
   syntactic dependencies to bridge the typological differences across languages and (2) effectively use unlabeled resources to learn robust and generalizable 
-  representations. The proposed approaches in this dissertation effectively transfer across a wide range of languages across different NLP applications, 
-  including dependency parsing, named entity recognition, text classification, question answering, and more.
+  representations. The proposed approaches effectively transfer across a wide range of languages across different NLP applications, including dependency parsing, named entity recognition, text classification, question answering, and more.
 </p>
 
