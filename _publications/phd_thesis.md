@@ -1,11 +1,11 @@
 ---
-title: "Intent Classification and Slot Filling for Privacy Policies"
-collection: thesis
+title: "Cross-lingual Representation Learning for Natural Language Processing"
+collection: theses
 Authors: '<b>Wasi Ahmad</b>'
 date: 10/2021
 venue: 'UCLA Electronic Theses and Dissertations'
 paperurl: 'https://escholarship.org/content/qt6v66v3m8/qt6v66v3m8.pdf'
-presentationurl: 'https://www.youtube.com/watch?v=GXS6XgwAMdE'
+presentationurl: ''
 excerpt: ''
 ---
 ---
