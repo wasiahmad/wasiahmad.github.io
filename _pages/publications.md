@@ -20,7 +20,6 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
   {% endif %}
 {% endfor %}
 
-
 <h1 style="margin: 1.25em 0px -0.5em; padding: 0px; color: brown;">Preprints</h1>
 {% for post in site.publications reversed %}
   {% if post.venue == "arXiv" %}
