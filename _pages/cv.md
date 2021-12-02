@@ -21,7 +21,7 @@ You can download my [cv](../files/cv_wasi_ahmad.pdf) or [resume](../files/resume
     CGPA: <b>4.00/4.00</b> scale <a href="../files/ms_transcript.pdf">[Transcript]</a> <br/>
     Advisor: <a href="http://web.cs.ucla.edu/~kwchang/" target="_blank">Dr. Kai-Wei Chang</a> <br/>
     <b>Diploma Validation</b>: <a href="http://www.virginia.edu/registrar/cedipl-validate.html" target="_blank">Website</a> <br/>
-    CeDiD: 19MA-CKEH-AKNA <br/>
+    CeDiD: 177C-126B-W2D4 <br/>
     First two letters of the name: WA <br/>
 <br/>
     <span style="color:black; font-size:17px"><b><a href="http://cse.buet.ac.bd" target="_blank"><font color="brown" size="5">Bangladesh University of Engineering and Technology</font></a></b></span><br/>
