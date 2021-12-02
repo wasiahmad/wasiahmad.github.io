@@ -20,7 +20,7 @@ You can download my [cv](../files/cv_wasi_ahmad.pdf) or [resume](../files/resume
     Period of Study: August 2015 - August 2017 <br/>
     CGPA: <b>4.00/4.00</b> scale <a href="../files/ms_transcript.pdf">[Transcript]</a> <br/>
     Advisor: <a href="http://web.cs.ucla.edu/~kwchang/" target="_blank">Dr. Kai-Wei Chang</a> <br/>
-    Diploma Validation: <a href="http://www.virginia.edu/registrar/cedipl-validate.html" target="_blank">Site</a> <br/>
+    <b>Diploma Validation</b>: <a href="http://www.virginia.edu/registrar/cedipl-validate.html" target="_blank">Website</a> <br/>
     CeDiD: 19MA-CKEH-AKNA <br/>
     First two letters of the name: WA <br/>
 <br/>
