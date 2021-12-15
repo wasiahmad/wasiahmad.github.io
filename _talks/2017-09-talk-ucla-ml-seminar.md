@@ -10,7 +10,7 @@ location: "Los Angeles, CA"
 
 I will talk about multi-task learning methods and some recent works in deep learning.
 
-[Presentation](http://yunshengb.com/wp-content/uploads/2017/11/Multi-Task-Machine-Learning.pdf)
+Links: [Presentation](http://yunshengb.com/wp-content/uploads/2017/11/Multi-Task-Machine-Learning.pdf)
 
 ======
 
