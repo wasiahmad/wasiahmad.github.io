@@ -10,7 +10,7 @@ location: "Virtual"
 
 In this talk, I will present our works on representation learning for low-resource language processing.
 
-[Presentation](https://drive.google.com/file/d/1umNya4QBZCm5F0cEwgXM37ty7AXwdEfq/view?usp=sharing)
+Links: [Presentation](https://drive.google.com/file/d/1umNya4QBZCm5F0cEwgXM37ty7AXwdEfq/view?usp=sharing)
 
 ======
 
