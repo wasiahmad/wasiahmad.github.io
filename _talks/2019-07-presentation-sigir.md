@@ -10,7 +10,7 @@ location: "Paris, France"
 
 In this talk, I will introduce a Context Attentive Document Ranking and Query Suggestion Model based on a two-level hierarchical recurrent neural network to learn search context representation of individual queries, search tasks, and corresponding dependency structure.
 
-[Talk](https://dl.acm.org/doi/10.1145/3331184.3331246#sec-supp), [Presentation](https://drive.google.com/file/d/1NDhzZZLDH_nv2HkWc0kQEIHipSs3G5w0)
+Links: [Presentation](https://drive.google.com/file/d/1NDhzZZLDH_nv2HkWc0kQEIHipSs3G5w0), [Talk](https://dl.acm.org/doi/10.1145/3331184.3331246#sec-supp)
 
 ======
 
