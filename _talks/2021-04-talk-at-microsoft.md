@@ -2,7 +2,7 @@
 title: "Representation Learning for Low-resource Language Processing"
 collection: talks
 type: "Talk"
-permalink: /talks/2021-05-talk-at-aws-ai
+permalink: /talks/2021-04-talk-at-microsoft
 venue: "Microsoft Azure Cognitive Services"
 date: 2021-04-16
 location: "Virtual"
