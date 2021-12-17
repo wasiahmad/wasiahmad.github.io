@@ -5,7 +5,6 @@ Authors: 'Tahmid Hasan, Abhik Bhattacharjee, <b>Wasi Ahmad</b>, Yuan-Fang Li, Yo
 date: 12/2021
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2112.08804'
-presentationurl: ''
 codeurl: 'https://github.com/csebuetnlp/CrossSum'
 excerpt: ''
 ---
