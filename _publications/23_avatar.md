@@ -5,7 +5,6 @@ Authors: '<b>Wasi Ahmad</b>, Md Golam Rahman Tushar, Saikat Chakraborty, and Kai
 date: 08/2021
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2108.11590'
-presentationurl: ''
 codeurl: 'https://github.com/wasiahmad/AVATAR'
 excerpt: ''
 ---
