@@ -22,7 +22,7 @@ I am an applied scientist at AWS AI. Before joining AWS, I completed my Ph.D. in
 I have received my Bachelor's in Computer Science and Engineering from the <a href="http://cse.buet.ac.bd/">CSE@BUET</a>, in February 2013 and my Master of 
   Computer Science from the <a href="http://www.cs.virginia.edu/">CS@UVA</a>, in August 2017. I like to solve problems to improve my programming skill in my 
   free time. I have given <b><font color="blue">500+</font></b> answers on StackOverflow and earned 
-  <b><font color="blue">25,000+</font></b> reputation 😎.
+  <b><font color="blue">25,000+</font></b> reputation.
 </p>
 
 <!--
