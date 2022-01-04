@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 <p align="justify">
-I am an applied scientist at AWS AI. Prior to joining AWS, I completed my Ph.D. in Computer Science from University of California, Los Angeles (UCLA) under the supervision of <a href="http://web.cs.ucla.edu/~kwchang/">Dr. Kai-Wei Chang</a>.
+I am an applied scientist at AWS AI. Before joining AWS, I completed my Ph.D. in Computer Science from the University of California, Los Angeles (UCLA) under the supervision of <a href="http://web.cs.ucla.edu/~kwchang/">Dr. Kai-Wei Chang</a>.
 <!--   Previously I was a Ph.D. student at the <a href="http://www.cs.virginia.edu/">CS@UVA</a> from August 2015 to August 2017. In fall 2017, I moved to UCLA with my advisor <a href="http://web.cs.ucla.edu/~kwchang/">Dr. Kai-Wei Chang</a>.  -->
-  My research interests span the areas of natural language processing (NLP) with a special focus on cross-lingual and multilingual NLP.
+  My research interests span the areas of natural language processing (NLP) with a particular focus on cross-lingual and multilingual NLP.
 <!--   My research efforts strike to develop computational algorithms that (1) reduce the amount of labeled data required to train NLP models from scratch; and (2) adapt to new domains and languages with fewer labeled examples. -->
   The broad objective of my research is to enhance the inclusion of technology for processing human languages by learning from limited labeled data.
 <!-- Learning universal language representations utilizing data from heterogeneous sources, designing new learning objective to bridge the gap between different learning signals, and developing flexible model architectures to enable cross-domain and cross-language transfer is the fundamental objective of my research. My doctoral thesis is on transfer learning for low-resource natural language processing (NLP). -->
@@ -19,7 +19,10 @@ I am an applied scientist at AWS AI. Prior to joining AWS, I completed my Ph.D. 
 </p>
 
 <p align="justify">
-I have received my Bachelor's in Computer Science and Engineering from the <a href="http://cse.buet.ac.bd/">CSE@BUET</a>, in February 2013 and Master of Computer Science from the <a href="http://www.cs.virginia.edu/">CS@UVA</a>, in August 2017. In my free time, I like to solve problems to improve my programming skill. I have given <b><font color="blue">500+</font></b> answers to programming related questions and earned <b><font color="blue">25,000+</font></b> reputation 😎 on StackOverflow.
+I have received my Bachelor's in Computer Science and Engineering from the <a href="http://cse.buet.ac.bd/">CSE@BUET</a>, in February 2013 and my Master of 
+  Computer Science from the <a href="http://www.cs.virginia.edu/">CS@UVA</a>, in August 2017. I like to solve problems to improve my programming skill in my 
+  free time. I have given <b><font color="blue">500+</font></b> answers to programming related questions and earned 
+  <b><font color="blue">25,000+</font></b> reputation 😎 on StackOverflow.
 </p>
 
 <!--
