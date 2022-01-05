@@ -9,15 +9,16 @@ redirect_from:
 ---
 
 <p align="justify">
-I am an applied scientist at AWS AI. Before joining AWS, I completed my Ph.D. in Computer Science from the University of California, Los Angeles (UCLA) under the supervision of <a href="http://web.cs.ucla.edu/~kwchang/">Dr. Kai-Wei Chang</a>.
-<!--   Previously I was a Ph.D. student at the <a href="http://www.cs.virginia.edu/">CS@UVA</a> from August 2015 to August 2017. In fall 2017, I moved to UCLA with my advisor <a href="http://web.cs.ucla.edu/~kwchang/">Dr. Kai-Wei Chang</a>.  -->
-  My research interests span the areas of natural language processing (NLP), with a particular focus on transfer learning for low-resource NLP.
-<!--   My research efforts strike to develop computational algorithms that (1) reduce the amount of labeled data required to train NLP models from scratch; and (2) adapt to new domains and languages with fewer labeled examples. -->
-  My current works revolve around representation learning for programming languages to automate software engineering applications to benefit the developer community.
+I am an applied scientist at AWS AI. Before joining AWS, I completed my Ph.D. in Computer Science from the University of California, Los Angeles (UCLA) under the supervision of <a href="http://web.cs.ucla.edu/~kwchang/">Dr. Kai-Wei Chang</a>. My research interests span the areas of natural language processing (NLP), with a particular focus on transfer learning for low-resource NLP. My current works revolve around representation learning for programming languages to automate software engineering applications to benefit the developer community.
+</p>
+
+  <!-- Previously I was a Ph.D. student at the <a href="http://www.cs.virginia.edu/">CS@UVA</a> from August 2015 to August 2017. In fall 2017, I moved to UCLA with my advisor <a href="http://web.cs.ucla.edu/~kwchang/">Dr. Kai-Wei Chang</a>.  -->
+  <!-- My research efforts strike to develop computational algorithms that (1) reduce the amount of labeled data required to train NLP models from scratch; and (2) adapt to new domains and languages with fewer labeled examples. -->
   <!-- The broad objective of my research is to enhance the inclusion of technology for processing human languages by learning from limited labeled data.
 Learning universal language representations utilizing data from heterogeneous sources, designing new learning objective to bridge the gap between different learning signals, and developing flexible model architectures to enable cross-domain and cross-language transfer is the fundamental objective of my research. My doctoral thesis is on transfer learning for low-resource natural language processing (NLP). -->
-<!--   During my Ph.D., I got the opportunity to work as a research intern at Facebook AI (Summer 2020), Yahoo Research (Summer 2019), Microsoft Research (Summer 2018), and @WalmartLabs (Summer 2016). -->
-</p>
+  <!-- During my Ph.D., I got the opportunity to work as a research intern at Facebook AI (Summer 2020), Yahoo Research (Summer 2019), Microsoft Research (Summer 2018), and @WalmartLabs (Summer 2016). -->
+
+
 
 <p align="justify">
 I have received my Bachelor's in Computer Science and Engineering from the <a href="http://cse.buet.ac.bd/">CSE@BUET</a>, in February 2013 and my Master of 
