@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="justify">
-I am an applied scientist at AWS AI. Before joining AWS, I completed my Ph.D. in Computer Science from the University of California, Los Angeles (UCLA) under the supervision of <a href="http://web.cs.ucla.edu/~kwchang/">Dr. Kai-Wei Chang</a>. My research interests span the areas of natural language processing (NLP), with a particular focus on transfer learning for low-resource NLP. My current works revolve around representation learning for programming languages to automate software engineering applications to benefit the developer community.
+I am an applied scientist at AWS AI. Before joining AWS, I completed my Ph.D. in Computer Science from the University of California, Los Angeles (UCLA) under the supervision of <a href="http://web.cs.ucla.edu/~kwchang/">Dr. Kai-Wei Chang</a>. My research interests span the areas of natural language processing (NLP), with a particular focus on transfer learning. My current works revolve around representation learning for programming languages to automate software engineering applications to benefit the developer community.
 </p>
 
   <!-- Previously I was a Ph.D. student at the <a href="http://www.cs.virginia.edu/">CS@UVA</a> from August 2015 to August 2017. In fall 2017, I moved to UCLA with my advisor <a href="http://web.cs.ucla.edu/~kwchang/">Dr. Kai-Wei Chang</a>.  -->
