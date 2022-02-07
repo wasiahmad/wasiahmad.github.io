@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="justify">
-I am an applied scientist at AWS AI. Before joining AWS, I completed my Ph.D. in Computer Science from the University of California, Los Angeles (UCLA) under the supervision of <a href="http://web.cs.ucla.edu/~kwchang/">Dr. Kai-Wei Chang</a>. My research interests span the areas of natural language processing (NLP), with a particular focus on transfer learning. My current works revolve around representation learning for programming languages to automate software engineering applications.
+I am an applied scientist at AWS AI. Before joining AWS, I completed my Ph.D. in Computer Science from the University of California, Los Angeles (UCLA) under the supervision of <a href="http://web.cs.ucla.edu/~kwchang/">Dr. Kai-Wei Chang</a>. My research interests span the areas of natural language processing (NLP), with a particular focus on representation learning. My current works revolve around representation learning for programming languages to automate software engineering applications.
 </p>
 
   <!-- Previously I was a Ph.D. student at the <a href="http://www.cs.virginia.edu/">CS@UVA</a> from August 2015 to August 2017. In fall 2017, I moved to UCLA with my advisor <a href="http://web.cs.ucla.edu/~kwchang/">Dr. Kai-Wei Chang</a>.  -->
@@ -22,9 +22,9 @@ Learning universal language representations utilizing data from heterogeneous so
 
 <p align="justify">
 I have received my Bachelor's in Computer Science and Engineering from the <a href="http://cse.buet.ac.bd/">CSE@BUET</a>, in February 2013 and my Master of 
-  Computer Science from the <a href="http://www.cs.virginia.edu/">CS@UVA</a>, in August 2017. I like to solve problems to improve my programming skill in my 
-  free time. I have given <b><font color="blue">500+</font></b> answers on StackOverflow and earned 
-  <b><font color="blue">25,000+</font></b> reputation.
+  Computer Science from the <a href="http://www.cs.virginia.edu/">CS@UVA</a>, in August 2017. I like to solve problems to improve my programming skill in 
+  free time. I have answered <b><font color="blue">500+</font></b> questions on StackOverflow and earned 
+  <b><font color="blue">30,000+</font></b> reputation.
 </p>
 
 <!--
