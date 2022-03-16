@@ -27,7 +27,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
   {% endif %}
 {% endfor %}
 
-{% assign publicationsByYear = site.publications | where:"post", "unless post.venue contains 'arXiv'" | group_by_exp:"post", "post.date | date: '%Y'" %}
+{% assign publicationsByYear = site.publications | "unless post.venue contains 'arXiv'" | group_by_exp:"post", "post.date | date: '%Y'" %}
 {% for year in publicationsByYear reversed %}
   {% assign publicationsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
   {% for month in publicationsByMonth reversed %}
