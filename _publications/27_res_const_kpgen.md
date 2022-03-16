@@ -17,5 +17,5 @@ State-of-the-art keyphrase generation methods generally depend on large annotate
   span recovery and salient span prediction as guided denoising language modeling objectives that condense the domain-specific knowledge essential for keyphrase 
   generation. Through experiments on multiple scientific keyphrase generation benchmarks, we show the effectiveness of the proposed approach for facilitating 
   low-resource and zero-shot keyphrase generation. Furthermore, we observe that our method especially benefits the generation of absent keyphrases, approaching 
-  the performance of SOTA methods trained with large training sets..
+  the performance of SOTA methods trained with large training sets.
 </p>
