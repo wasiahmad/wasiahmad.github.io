@@ -4,12 +4,12 @@ collection: publications
 Authors: '<b>Wasi Ahmad</b>, Xueying Bai, Nanyun Peng, and Kai-Wei Chang.'
 date: 09/2018
 venue: 'arXiv'
-paperurl: 'https://wasiahmad.github.io/files/publications/2018/transferable_representation.pdf'
+paperurl: 'https://arxiv.org/abs/1810.00681'
 codeurl: 'https://github.com/wasiahmad/transferable_sent2vec'
 excerpt: ''
 ---
 ---
-<a href='https://wasiahmad.github.io/files/publications/2018/transferable_representation.pdf' target="_blank">[Download Paper]</a>
+<a href='https://arxiv.org/pdf/1810.00681.pdf' target="_blank">[Download Paper]</a>
 
 <p align="justify">
 Despite deep recurrent neural networks (RNNs) demonstrate strong performance in text classification, training RNN models are 
