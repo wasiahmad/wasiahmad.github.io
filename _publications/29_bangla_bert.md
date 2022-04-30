@@ -4,12 +4,12 @@ collection: publications
 Authors: 'Abhik Bhattacharjee<sup>*</sup>, Tahmid Hasan<sup>*</sup>, Kazi Samin, Md Saiful Islam, <b>Wasi Ahmad</b>, Anindya Iqbal, M. Sohel Rahman, and Rifat Shahriyar.'
 date: 04/2022
 venue: 'Findings of the ACL: NAACL'
-paperurl: ''
+paperurl: 'https://arxiv.org/abs/2101.00204'
 codeurl: 'https://github.com/csebuetnlp/banglabert'
 excerpt: ''
 ---
 ---
-<a href='' target="_blank">[Download Paper]</a><a href='https://github.com/csebuetnlp/banglabert' target="_blank">[Source Code]</a>
+<a href='https://arxiv.org/pdf/2101.00204.pdf' target="_blank">[Download Paper]</a><a href='https://github.com/csebuetnlp/banglabert' target="_blank">[Source Code]</a>
 
 <p align="justify">
 In this work, we introduce &lsquo;BanglaBERT&rsquo;, a BERT-based Natural Language Understanding (NLU) model pretrained in Bangla, a widely spoken yet 
