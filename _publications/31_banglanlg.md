@@ -2,7 +2,7 @@
 title: "BanglaNLG: Benchmarks and Resources for Evaluating Low-Resource Natural Language Generation in Bangla"
 collection: publications
 Authors: 'Abhik Bhattacharjee, Tahmid Hasan, <b>Wasi Ahmad</b>, and Rifat Shahriyar.'
-date: 12/2021
+date: 05/2022
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2205.11081'
 codeurl: 'https://github.com/csebuetnlp/BanglaNLG'
