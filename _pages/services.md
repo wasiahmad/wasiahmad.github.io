@@ -19,6 +19,10 @@ redirect_from:
 
 <h2>Professional Services</h2>
 <ol>
+	<li> Senior Program Committee
+		<ul>
+			<li>2023: AAAI </li>
+    		</ul>
 	<li> Program Committee/Reviewer
 		<ul>
 			<li>2022: EMNLP, NeurIPS, ICML, SIGIR, IJCAI, KDD, ARR, LREC, AAAI, WSDM, ICLR </li>
