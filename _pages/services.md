@@ -23,6 +23,7 @@ redirect_from:
 		<ul>
 			<li>2023: AAAI </li>
     		</ul>
+	</li>
 	<li> Program Committee/Reviewer
 		<ul>
 			<li>2022: EMNLP, NeurIPS, ICML, SIGIR, IJCAI, KDD, ARR, LREC, AAAI, WSDM, ICLR </li>
