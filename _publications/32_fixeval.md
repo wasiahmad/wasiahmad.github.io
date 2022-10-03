@@ -1,5 +1,5 @@
 ---
-title: "FixEval: Execution-based Evaluation of Program Fixes for Competitive Programming Problems"
+title: "FixEval: Execution-based Evaluation of Program Fixes for Programming Problems"
 collection: publications
 Authors: 'Md Mahim Anjum Haque, <b>Wasi Ahmad</b>, Ismini Lourentzou, and Chris Brown.'
 date: 06/2022
