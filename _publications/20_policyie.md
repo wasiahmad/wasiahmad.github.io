@@ -1,7 +1,7 @@
 ---
 title: "Intent Classification and Slot Filling for Privacy Policies"
 collection: publications
-Authors: '<b>Wasi Ahmad</b><sup>*</sup>, Jianfeng Chi<sup>*</sup>, Tu Le, Thomas Norton, Yuan Tian, and Kai-Wei Chang.'
+Authors: '<b>Wasi Uddin Ahmad</b><sup>*</sup>, Jianfeng Chi<sup>*</sup>, Tu Le, Thomas Norton, Yuan Tian, and Kai-Wei Chang.'
 date: 05/2021
 venue: 'ACL'
 paperurl: 'https://aclanthology.org/2021.acl-long.340/'
