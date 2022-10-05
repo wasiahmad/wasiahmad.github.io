@@ -1,7 +1,7 @@
 ---
 title: "Simple or Complex? Learning to Predict Readability of Bengali Texts"
 collection: publications
-Authors: 'Susmoy Chakraborty<sup>*</sup>, Mir Tafseer Nayeem<sup>*</sup>, and <b>Wasi Ahmad</b>.'
+Authors: 'Susmoy Chakraborty<sup>*</sup>, Mir Tafseer Nayeem<sup>*</sup>, and <b>Wasi Uddin Ahmad</b>.'
 date: 2/2021
 venue: 'AAAI'
 paperurl: 'https://arxiv.org/abs/2012.07701'
