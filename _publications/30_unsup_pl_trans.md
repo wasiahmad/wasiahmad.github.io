@@ -1,7 +1,7 @@
 ---
 title: "Summarize and Generate to Back-translate: Unsupervised Translation of Programming Languages"
 collection: publications
-Authors: '<b>Wasi Ahmad</b>, Saikat Chakraborty, Baishakhi Ray, and Kai-Wei Chang.'
+Authors: '<b>Wasi Uddin Ahmad</b>, Saikat Chakraborty, Baishakhi Ray, and Kai-Wei Chang.'
 date: 05/2022
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2205.11116'
