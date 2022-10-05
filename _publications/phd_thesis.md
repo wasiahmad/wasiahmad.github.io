@@ -1,7 +1,7 @@
 ---
 title: "Cross-lingual Representation Learning for Natural Language Processing"
 collection: theses
-Authors: '<b>Wasi Ahmad</b>'
+Authors: '<b>Wasi Uddin Ahmad</b>'
 date: 10/2021
 venue: 'UCLA Electronic Theses and Dissertations'
 paperurl: 'https://escholarship.org/content/qt6v66v3m8/qt6v66v3m8.pdf'
