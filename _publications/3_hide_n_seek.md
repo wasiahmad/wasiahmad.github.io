@@ -1,7 +1,7 @@
 ---
 title: "Hide-n-Seek: An Intent-aware Privacy Protection Plugin for Personalized Web Search"
 collection: publications
-Authors: 'Puxuan Yu, <b>Wasi Ahmad</b>, and Hongning Wang.'
+Authors: 'Puxuan Yu, <b>Wasi Uddin Ahmad</b>, and Hongning Wang.'
 date: 04/2018
 venue: 'ACM SIGIR'
 paperurl: 'https://wasiahmad.github.io/files/publications/2018/hide_n_seek.pdf'
