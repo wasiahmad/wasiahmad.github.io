@@ -1,7 +1,7 @@
 ---
 title: "A Corpus to Learn Refer-to-as Relations for Nominals"
 collection: publications
-Authors: '<b>Wasi Ahmad</b> and Kai-Wei Chang.'
+Authors: '<b>Wasi Uddin Ahmad</b> and Kai-Wei Chang.'
 date: 01/2018
 venue: 'LREC'
 paperurl: 'https://www.aclweb.org/anthology/L18-1062.pdf'
