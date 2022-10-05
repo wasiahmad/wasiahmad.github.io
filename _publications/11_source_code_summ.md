@@ -1,7 +1,7 @@
 ---
 title: "A Transformer-based Approach for Source Code Summarization"
 collection: publications
-Authors: '<b>Wasi Ahmad</b>, Saikat Chakraborty, Baishakhi Ray, and Kai-Wei Chang.'
+Authors: '<b>Wasi Uddin Ahmad</b>, Saikat Chakraborty, Baishakhi Ray, and Kai-Wei Chang.'
 date: 04/2020
 venue: 'ACL'
 paperurl: 'https://www.aclweb.org/anthology/2020.acl-main.449/'
