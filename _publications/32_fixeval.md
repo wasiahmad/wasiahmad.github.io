@@ -1,7 +1,7 @@
 ---
 title: "FixEval: Execution-based Evaluation of Program Fixes for Programming Problems"
 collection: publications
-Authors: 'Md Mahim Anjum Haque, <b>Wasi Ahmad</b>, Ismini Lourentzou, and Chris Brown.'
+Authors: 'Md Mahim Anjum Haque, <b>Wasi Uddin Ahmad</b>, Ismini Lourentzou, and Chris Brown.'
 date: 06/2022
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2206.07796'
