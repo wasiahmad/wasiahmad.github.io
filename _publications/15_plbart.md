@@ -1,7 +1,7 @@
 ---
 title: "Unified Pre-training for Program Understanding and Generation"
 collection: publications
-Authors: '<b>Wasi Ahmad</b><sup>*</sup>, Saikat Chakraborty<sup>*</sup>, Baishakhi Ray, and Kai-Wei Chang.'
+Authors: '<b>Wasi Uddin Ahmad</b><sup>*</sup>, Saikat Chakraborty<sup>*</sup>, Baishakhi Ray, and Kai-Wei Chang.'
 date: 03/2021
 venue: 'NAACL'
 paperurl: 'https://arxiv.org/abs/2103.06333'
