@@ -1,7 +1,7 @@
 ---
 title: "Improving Zero-Shot Cross-Lingual Transfer Learning via Robust Training"
 collection: publications
-Authors: 'Kuan-Hao Huang, <b>Wasi Ahmad</b>, Nanyun Peng, and Kai-Wei Chang.'
+Authors: 'Kuan-Hao Huang, <b>Wasi Uddin Ahmad</b>, Nanyun Peng, and Kai-Wei Chang.'
 date: 08/2021
 venue: 'EMNLP'
 paperurl: 'https://arxiv.org/abs/2104.08645'
