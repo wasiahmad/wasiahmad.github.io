@@ -1,7 +1,7 @@
 ---
 title: "Syntax-augmented Multilingual BERT for Cross-lingual Transfer"
 collection: publications
-Authors: '<b>Wasi Ahmad</b>, Haoran Li, Kai-Wei Chang, and Yashar Mehdad.'
+Authors: '<b>Wasi Uddin Ahmad</b>, Haoran Li, Kai-Wei Chang, and Yashar Mehdad.'
 date: 05/2021
 venue: 'ACL'
 paperurl: 'https://aclanthology.org/2021.acl-long.350/'
