@@ -1,7 +1,7 @@
 ---
 title: "BanglaBERT: Language Model Pretraining and Benchmarks for Low-Resource Language Understanding Evaluation in Bangla"
 collection: publications
-Authors: 'Abhik Bhattacharjee<sup>*</sup>, Tahmid Hasan<sup>*</sup>, <b>Wasi Ahmad</b>, Kazi Samin, Md Saiful Islam, Anindya Iqbal, M. Sohel Rahman, and Rifat Shahriyar.'
+Authors: 'Abhik Bhattacharjee<sup>*</sup>, Tahmid Hasan<sup>*</sup>, <b>Wasi Uddin Ahmad</b>, Kazi Samin, Md Saiful Islam, Anindya Iqbal, M. Sohel Rahman, and Rifat Shahriyar.'
 date: 04/2022
 venue: 'Findings of the ACL: NAACL'
 paperurl: 'https://arxiv.org/abs/2101.00204'
