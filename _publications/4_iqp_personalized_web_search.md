@@ -1,7 +1,7 @@
 ---
 title: "Intent-aware Query Obfuscation for Privacy Protection in Personalized Web Search"
 collection: publications
-Authors: '<b>Wasi Ahmad</b>, Kai-Wei Chang, and Hongning Wang.'
+Authors: '<b>Wasi Uddin Ahmad</b>, Kai-Wei Chang, and Hongning Wang.'
 date: 04/2018
 venue: 'ACM SIGIR'
 paperurl: 'https://wasiahmad.github.io/files/publications/2018/iqp_personalized_web_search.pdf'
