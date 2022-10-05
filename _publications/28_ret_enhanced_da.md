@@ -1,7 +1,7 @@
 ---
 title: "Retrieval Enhanced Data Augmentation for Question Answering on Privacy Policies"
 collection: publications
-Authors: 'Md Rizwan Parvez, Jianfeng Chi, <b>Wasi Ahmad</b>, Yuan Tian, and Kai-Wei Chang.'
+Authors: 'Md Rizwan Parvez, Jianfeng Chi, <b>Wasi Uddin Ahmad</b>, Yuan Tian, and Kai-Wei Chang.'
 date: 04/2022
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2204.08952'
