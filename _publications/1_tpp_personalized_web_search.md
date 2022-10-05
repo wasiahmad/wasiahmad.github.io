@@ -1,7 +1,7 @@
 ---
 title: "Topic Model based Privacy Protection in Personalized Web Search"
 collection: publications
-Authors: '<b>Wasi Ahmad</b>, Md Masudur Rahman, and Hongning Wang.'
+Authors: '<b>Wasi Uddin Ahmad</b>, Md Masudur Rahman, and Hongning Wang.'
 date: 06/2016
 venue: 'ACM SIGIR'
 paperurl: 'https://wasiahmad.github.io/files/publications/2016/tpp_personalized_web_search.pdf'
