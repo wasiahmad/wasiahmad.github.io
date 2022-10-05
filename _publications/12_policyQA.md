@@ -1,7 +1,7 @@
 ---
 title: "PolicyQA: A Reading Comprehension Dataset for Privacy Policies"
 collection: publications
-Authors: '<b>Wasi Ahmad</b><sup>*</sup>, Jianfeng Chi<sup>*</sup>, Yuan Tian, and Kai-Wei Chang.'
+Authors: '<b>Wasi Uddin Ahmad</b><sup>*</sup>, Jianfeng Chi<sup>*</sup>, Yuan Tian, and Kai-Wei Chang.'
 date: 10/2020
 venue: 'Findings of the ACL: EMNLP'
 paperurl: 'https://www.aclweb.org/anthology/2020.findings-emnlp.66/'
