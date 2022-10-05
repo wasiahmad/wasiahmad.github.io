@@ -1,7 +1,7 @@
 ---
 title: "On Difficulties of Cross-Lingual Transfer with Order Differences: A Case Study on Dependency Parsing"
 collection: publications
-Authors: '<b>Wasi Ahmad</b><sup>*</sup>, Zhisong Zhang<sup>*</sup>, Xuezhe Ma, Eduard Hovy, Kai-Wei Chang, and Nanyun Peng.'
+Authors: '<b>Wasi Uddin Ahmad</b><sup>*</sup>, Zhisong Zhang<sup>*</sup>, Xuezhe Ma, Eduard Hovy, Kai-Wei Chang, and Nanyun Peng.'
 date: 03/2019
 venue: 'NAACL'
 paperurl: 'https://wasiahmad.github.io/files/publications/2019/cross_lingual_transfer.pdf'
