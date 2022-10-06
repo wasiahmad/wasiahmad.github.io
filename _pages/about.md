@@ -39,7 +39,7 @@ News and Announcements
 1. <span style="color:blue">[10.2022] </span> Checkout our [work](https://arxiv.org/abs/2210.01185) on contrastive learning for causal language model.
 1. <span style="color:blue">[10.2022] </span> One [paper](https://arxiv.org/abs/2101.00204) got accepted at EMNLP (findings) 2022.
 1. <span style="color:blue">[04.2022] </span> One [paper](https://arxiv.org/abs/2203.08118) got accepted at NAACL (findings) 2022.
-1. <span style="color:blue">[10.2021] </span> I have joined [AWS AI Labs](https://aws.amazon.com/ai/) as an applied scientist!
+1. <span style="color:blue">[10.2021] </span> I joined [AWS AI Labs](https://aws.amazon.com/ai/) as an applied scientist!
 1. <span style="color:blue">[08.2021] </span> We have released a [dataset](https://arxiv.org/abs/2108.11590) on programming language translation.
 1. <span style="color:blue">[08.2021] </span> Two papers [[1](https://arxiv.org/abs/2104.08645), [2](https://arxiv.org/abs/2108.11601)] got accepted at EMNLP 2021.
 
