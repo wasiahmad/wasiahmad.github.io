@@ -36,8 +36,8 @@ I have received my Bachelor's in Computer Science and Engineering from the <a hr
 
 News and Announcements
 ======
-1. <span style="color:blue">[08.2021] </span> One [paper](https://arxiv.org/abs/2101.00204) got accepted at NAACL (findings) 2022.
-1. <span style="color:blue">[08.2021] </span> One [paper](https://arxiv.org/abs/2203.08118) got accepted at EMNLP (findings) 2022.
+1. <span style="color:blue">[10.2022] </span> One [paper](https://arxiv.org/abs/2101.00204) got accepted at NAACL (findings) 2022.
+1. <span style="color:blue">[04.2022] </span> One [paper](https://arxiv.org/abs/2203.08118) got accepted at EMNLP (findings) 2022.
 1. <span style="color:blue">[08.2021] </span> We have released a [dataset](https://arxiv.org/abs/2108.11590) on programming language translation.
 1. <span style="color:blue">[08.2021] </span> Two papers [[1](https://arxiv.org/abs/2104.08645), [2](https://arxiv.org/abs/2108.11601)] got accepted at EMNLP 2021.
 1. <span style="color:blue">[07.2021] </span> I will join [AWS AI](https://aws.amazon.com/ai/) as an applied scientist after graduation!
