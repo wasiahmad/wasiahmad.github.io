@@ -36,6 +36,7 @@ I have received my Bachelor's in Computer Science and Engineering from the <a hr
 
 News and Announcements
 ======
+1. <span style="color:blue">[10.2022] </span> Checkout our [work](https://arxiv.org/abs/2210.14868) on multilingual evaluation of code generation models.
 1. <span style="color:blue">[10.2022] </span> Checkout our [work](https://arxiv.org/abs/2210.01185) on contrastive learning for causal language model.
 1. <span style="color:blue">[10.2022] </span> One [paper](https://arxiv.org/abs/2203.08118) got accepted at EMNLP-Findings 2022.
 1. <span style="color:blue">[04.2022] </span> One [paper](https://arxiv.org/abs/2101.00204) got accepted at NAACL-Findings 2022.
