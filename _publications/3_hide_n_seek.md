@@ -4,12 +4,12 @@ collection: publications
 Authors: 'Puxuan Yu, <b>Wasi Uddin Ahmad</b>, and Hongning Wang.'
 date: 04/2018
 venue: 'ACM SIGIR'
-paperurl: 'https://wasiahmad.github.io/files/publications/2018/hide_n_seek.pdf'
+paperurl: 'https://dl.acm.org/doi/10.1145/3209978.3210180'
 codeurl: 'https://github.com/PxYu/Hide-Seek'
 excerpt: ''
 ---
 ---
-<a href='https://wasiahmad.github.io/files/publications/2018/hide_n_seek.pdf' target="_blank">[Download Paper]</a>
+<a href='https://dl.acm.org/doi/pdf/10.1145/3209978.3210180' target="_blank">[Download Paper]</a>
 
 <div style='display: flex; justify-content: center;'>
 <img src='https://wasiahmad.github.io/files/publications/2018/HIDEnSEEK-2.png' alt='Image not Loading' style='height:350px;' 
