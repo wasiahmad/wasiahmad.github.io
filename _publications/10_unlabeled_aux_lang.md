@@ -4,13 +4,13 @@ collection: publications
 Authors: '<b>Wasi Uddin Ahmad</b>, Zhisong Zhang, Xuezhe Ma, Kai-Wei Chang, and Nanyun Peng.'
 date: 08/2019
 venue: 'ACL SIGNLL CoNLL'
-paperurl: 'https://wasiahmad.github.io/files/publications/2019/cross_lingual_parsing_auxiliary.pdf'
+paperurl: 'https://aclanthology.org/K19-1035'
 presentationurl: 'https://wasiahmad.github.io/files/publications/2019/presentation_conll19.pdf'
 codeurl: 'https://github.com/wasiahmad/cross_lingual_parsing'
 excerpt: ''
 ---
 ---
-<a href='https://wasiahmad.github.io/files/publications/2019/cross_lingual_parsing_auxiliary.pdf' target="_blank">[Download Paper]</a>
+<a href='https://aclanthology.org/K19-1035.pdf' target="_blank">[Download Paper]</a>
 
 <div style='display: flex; justify-content: center;'><img src='https://wasiahmad.github.io/files/publications/2019/auxlang-1.png' 
 alt='Image not Loading' style='height:500px;' align='middle'></div><br>
