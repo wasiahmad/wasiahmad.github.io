@@ -4,13 +4,13 @@ collection: publications
 Authors: '<b>Wasi Uddin Ahmad</b><sup>*</sup>, Zhisong Zhang<sup>*</sup>, Xuezhe Ma, Eduard Hovy, Kai-Wei Chang, and Nanyun Peng.'
 date: 03/2019
 venue: 'NAACL'
-paperurl: 'https://wasiahmad.github.io/files/publications/2019/cross_lingual_transfer.pdf'
+paperurl: 'https://aclanthology.org/N19-1253/'
 presentationurl: 'https://www.youtube.com/watch?v=YuFI0DOw8N0'
 codeurl: 'https://github.com/uclanlp/CrossLingualDepParser'
 excerpt: ''
 ---
 ---
-<a href='https://wasiahmad.github.io/files/publications/2019/cross_lingual_transfer.pdf' target="_blank">[Download Paper]</a>
+<a href='https://aclanthology.org/N19-1253.pdf' target="_blank">[Download Paper]</a>
 
 <div style='display: flex; justify-content: center;'>
   <img src='https://wasiahmad.github.io/files/publications/2019/word_order-2.png' alt='Image not Loading' style='width:700px;' align='middle'>
