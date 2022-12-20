@@ -4,13 +4,13 @@ collection: publications
 Authors: '<b>Wasi Uddin Ahmad</b>, Kai-Wei Chang, and Hongning Wang.'
 date: 04/2018
 venue: 'ACM SIGIR'
-paperurl: 'https://wasiahmad.github.io/files/publications/2018/iqp_personalized_web_search.pdf'
+paperurl: 'https://dl.acm.org/doi/10.1145/3209978.3209983'
 presentationurl: 'https://wasiahmad.github.io/files/publications/2018/iqp_presentation.pdf'
 codeurl: 'https://github.com/wasiahmad/intent_aware_privacy_protection_in_pws'
 excerpt: ''
 ---
 ---
-<a href='https://wasiahmad.github.io/files/publications/2018/iqp_personalized_web_search.pdf' target="_blank">[Download Paper]</a>
+<a href='https://dl.acm.org/doi/pdf/10.1145/3209978.3209983' target="_blank">[Download Paper]</a>
 
 <div style='display: flex; justify-content: center;'><img src='https://wasiahmad.github.io/files/publications/2018/IQP-1.png' 
 alt='Image not Loading' style='height:300px;' align='middle'></div><br>
