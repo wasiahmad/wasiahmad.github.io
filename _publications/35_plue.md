@@ -9,8 +9,7 @@ codeurl: 'https://github.com/JFChi/PLUE'
 excerpt: ''
 ---
 ---
-<a href='' target="_blank">[Download Paper]</a>
-<a href='https://github.com/JFChi/PLUE' target="_blank">[Source Code]</a>
+<a href='' target="_blank">[Download Paper]</a><a href='https://github.com/JFChi/PLUE' target="_blank">[Source Code]</a>
 
 <p align="justify">
 Privacy policies provide individuals with information about their rights and how their personal information is handled. Natural language understanding 
