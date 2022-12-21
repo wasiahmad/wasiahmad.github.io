@@ -4,12 +4,12 @@ collection: publications
 Authors: 'Di Wu, <b>Wasi Uddin Ahmad</b>, and Kai-Wei Chang.'
 date: 12/2022
 venue: 'arXiv'
-paperurl: ''
+paperurl: 'https://arxiv.org/abs/2212.10233'
 codeurl: 'https://github.com/uclanlp/DeepKPG'
 excerpt: ''
 ---
 ---
-<a href='' target="_blank">[Download Paper]</a><a href='https://github.com/uclanlp/DeepKPG' target="_blank">[Source Code]</a>
+<a href='https://arxiv.org/pdf/2212.10233.pdf' target="_blank">[Download Paper]</a><a href='https://github.com/uclanlp/DeepKPG' target="_blank">[Source Code]</a>
 
 <p align="justify">
 Neural models not relying on pre-training have excelled in the keyphrase generation task with large annotated datasets. Meanwhile, new approaches have 
