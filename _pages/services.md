@@ -26,7 +26,7 @@ redirect_from:
 	</li>
 	<li> Program Committee/Reviewer
 		<ul>
-			<li>2023: ACL, IJCAI, ICLR, ARR, EACL </li>
+			<li>2023: SIGIR, ACL, IJCAI, ICLR, ARR, EACL </li>
 			<li>2022: EMNLP, NeurIPS, ICML, SIGIR, IJCAI, KDD, ARR, LREC, AAAI, WSDM, ICLR </li>
 			<li>2021: NeurIPS, EMNLP, SIGIR, ACL-IJCNLP, IJCAI, NAACL, EACL, AAAI </li>
 			<li>2020: EMNLP, ICML, IJCAI, AAAI, LREC </li>
