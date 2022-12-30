@@ -34,9 +34,8 @@ I have received my Bachelor's in Computer Science and Engineering from the <a hr
 
 News and Announcements
 ======
-1. <span style="color:blue">[12.2022] </span> Checkout our work - [CoCoMIC](https://arxiv.org/abs/2212.10007).
-1. <span style="color:blue">[10.2022] </span> Checkout our work - [MBXP](https://arxiv.org/abs/2210.14868).
-1. <span style="color:blue">[10.2022] </span> Checkout our work - [ContraGen](https://arxiv.org/abs/2210.01185).
+1. <span style="color:blue">[12.2022] </span> Checkout our work, [CoCoMIC](https://arxiv.org/abs/2212.10007).
+1. <span style="color:blue">[10.2022] </span> Checkout our work [ContraGen](https://arxiv.org/abs/2210.01185) and [MBXP](https://arxiv.org/abs/2210.14868).
 1. <span style="color:blue">[10.2022] </span> One [paper](https://arxiv.org/abs/2203.08118) got accepted at EMNLP-Findings 2022.
 1. <span style="color:blue">[04.2022] </span> One [paper](https://arxiv.org/abs/2101.00204) got accepted at NAACL-Findings 2022.
 1. <span style="color:blue">[10.2021] </span> I joined [AWS AI Labs](https://aws.amazon.com/ai/) as an applied scientist!
