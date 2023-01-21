@@ -2,8 +2,8 @@
 title: "Multi-lingual Evaluation of Code Generation Models"
 collection: publications
 Authors: 'Ben Athiwaratkun, Sanjay Krishna Gouda, Zijian Wang, Xiaopeng Li, Yuchen Tian, Ming Tan, <b>Wasi Uddin Ahmad</b>, Shiqi Wang, Qing Sun, Mingyue Shang, Sujan Kumar Gonugondla, Hantian Ding, Varun Kumar, Nathan Fulton, Arash Farahani, Siddhartha Jain, Robert Giaquinto, Haifeng Qian, Murali Krishna Ramanathan, Ramesh Nallapati, Baishakhi Ray, Parminder Bhatia, Sudipta Sengupta, Dan Roth, and Bing Xiang.'
-date: 10/2022
-venue: 'arXiv'
+date: 05/2023
+venue: 'ICLR'
 paperurl: 'https://arxiv.org/abs/2210.14868'
 codeurl: 'https://github.com/amazon-science/mbxp-exec-eval'
 excerpt: ''
