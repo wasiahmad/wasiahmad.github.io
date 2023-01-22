@@ -3,7 +3,7 @@ title: "BanglaNLG: Benchmarks and Resources for Evaluating Low-Resource Natural 
 collection: publications
 Authors: 'Abhik Bhattacharjee, Tahmid Hasan, <b>Wasi Uddin Ahmad</b>, and Rifat Shahriyar.'
 date: 01/2023
-venue: 'EACL'
+venue: 'Findings of the ACL: EACL'
 paperurl: 'https://arxiv.org/abs/2205.11081'
 codeurl: 'https://github.com/csebuetnlp/BanglaNLG'
 excerpt: ''
