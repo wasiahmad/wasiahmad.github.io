@@ -2,8 +2,8 @@
 title: "PLUE: Language Understanding Evaluation Benchmark for Privacy Policies in English"
 collection: publications
 Authors: 'Jianfeng Chi, <b>Wasi Uddin Ahmad</b>, Yuan Tian, and Kai-Wei Chang.'
-date: 12/2022
-venue: 'arXiv'
+date: 05/2023
+venue: 'ACL'
 paperurl: 'https://arxiv.org/abs/2212.10011'
 codeurl: 'https://github.com/JFChi/PLUE'
 excerpt: ''
