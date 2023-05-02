@@ -2,8 +2,8 @@
 title: "AVATAR: A Parallel Corpus for Java-Python Program Translation"
 collection: publications
 Authors: '<b>Wasi Uddin Ahmad</b>, Md Golam Rahman Tushar, Saikat Chakraborty, and Kai-Wei Chang.'
-date: 08/2021
-venue: 'arXiv'
+date: 05/2023
+venue: 'Findings of the ACL'
 paperurl: 'https://arxiv.org/abs/2108.11590'
 codeurl: 'https://github.com/wasiahmad/AVATAR'
 excerpt: ''
