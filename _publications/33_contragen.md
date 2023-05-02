@@ -2,8 +2,8 @@
 title: "ContraGen: Effective Contrastive Learning For Causal Language Model"
 collection: publications
 Authors: 'Nihal Jain<sup>*</sup>, Dejiao Zhang<sup>*</sup>, <b>Wasi Uddin Ahmad</b><sup>*</sup>, Zijian Wang, Feng Nan, Xiaopeng Li, Ming Tan, Ramesh Nallapati, Baishakhi Ray, Parminder Bhatia, Xiaofei Ma, and Bing Xiang.'
-date: 10/2022
-venue: 'arXiv'
+date: 05/2023
+venue: 'ACL'
 paperurl: 'https://arxiv.org/abs/2210.01185'
 codeurl: ''
 excerpt: ''
