@@ -2,8 +2,8 @@
 title: "CrossSum: Beyond English-Centric Cross-Lingual Abstractive Text Summarization for 1500+ Language Pairs"
 collection: publications
 Authors: 'Tahmid Hasan, Abhik Bhattacharjee, <b>Wasi Uddin Ahmad</b>, Yuan-Fang Li, Yong-Bin Kang, and Rifat Shahriyar.'
-date: 12/2021
-venue: 'arXiv'
+date: 05/2023
+venue: 'ACL'
 paperurl: 'https://arxiv.org/abs/2112.08804'
 codeurl: 'https://github.com/csebuetnlp/CrossSum'
 excerpt: ''
