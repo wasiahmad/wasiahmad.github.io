@@ -36,13 +36,13 @@ News and Announcements
 ======
 1. <span style="color:blue">[05.2023] </span> Four papers got accepted at ACL 2023.
 2. <span style="color:blue">[01.2023] </span> Three papers got accepted at EACL 2023.
-3. <span style="color:blue">[01.2023] </span> One paper got accepted at ICLR 2023.
+3. <span style="color:blue">[01.2023] </span> [MBXP](https://arxiv.org/abs/2210.14868) got accepted at ICLR 2023.
 4. <span style="color:blue">[12.2022] </span> Checkout our work, [CoCoMIC](https://arxiv.org/abs/2212.10007).
 5. <span style="color:blue">[10.2022] </span> Checkout our work, [ContraGen](https://arxiv.org/abs/2210.01185) and [MBXP](https://arxiv.org/abs/2210.14868).
-6. <span style="color:blue">[10.2022] </span> One [paper](https://arxiv.org/abs/2203.08118) got accepted at EMNLP-Findings 2022.
-7. <span style="color:blue">[04.2022] </span> One [paper](https://arxiv.org/abs/2101.00204) got accepted at NAACL-Findings 2022.
 
 <!---
+1. <span style="color:blue">[10.2022] </span> One [paper](https://arxiv.org/abs/2203.08118) got accepted at EMNLP-Findings 2022.
+1. <span style="color:blue">[04.2022] </span> One [paper](https://arxiv.org/abs/2101.00204) got accepted at NAACL-Findings 2022.
 1. <span style="color:blue">[10.2021] </span> I joined [AWS AI Labs](https://aws.amazon.com/ai/) as an applied scientist!
 1. <span style="color:blue">[08.2021] </span> We have released a [dataset](https://arxiv.org/abs/2108.11590) on programming language translation.
 1. <span style="color:blue">[08.2021] </span> Two papers [[1](https://arxiv.org/abs/2104.08645), [2](https://arxiv.org/abs/2108.11601)] got accepted at EMNLP 2021.
