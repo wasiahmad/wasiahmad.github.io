@@ -3,8 +3,8 @@ title: "Greener yet Powerful: Taming Large Code Generation Models with Quantizat
 collection: publications
 Authors: 'Xiaokai Wei, Sujan Gonugondla, <b>Wasi Uddin Ahmad</b>, Shiqi Wang, Baishakhi Ray, Haifeng Qian, Xiaopeng Li, Varun Kumar, Zijian Wang, Yuchen Tian, 
 Qing Sun, Ben Athiwaratkun, Mingyue Shang, Murali Krishna Ramanathan, Parminder Bhatia, and Bing Xiang.'
-date: 03/2023
-venue: 'arXiv'
+date: 05/2023
+venue: 'ESEC/FSE'
 paperurl: 'https://arxiv.org/abs/2303.05378'
 codeurl: ''
 excerpt: ''
