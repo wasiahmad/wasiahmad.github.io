@@ -21,6 +21,7 @@ redirect_from:
 <ol>
 	<li> Senior Program Committee
 		<ul>
+			<li>2024: AAAI </li>
 			<li>2023: AAAI </li>
     		</ul>
 	</li>
