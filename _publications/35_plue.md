@@ -4,12 +4,12 @@ collection: publications
 Authors: 'Jianfeng Chi, <b>Wasi Uddin Ahmad</b>, Yuan Tian, and Kai-Wei Chang.'
 date: 05/2023
 venue: 'ACL'
-paperurl: 'https://arxiv.org/abs/2212.10011'
+paperurl: 'https://aclanthology.org/2023.acl-short.31'
 codeurl: 'https://github.com/JFChi/PLUE'
 excerpt: ''
 ---
 ---
-<a href='https://arxiv.org/pdf/2212.10011.pdf' target="_blank">[Download Paper]</a><a href='https://github.com/JFChi/PLUE' target="_blank">[Source Code]</a>
+<a href='https://aclanthology.org/2023.acl-short.31' target="_blank">[Download Paper]</a><a href='https://github.com/JFChi/PLUE' target="_blank">[Source Code]</a>
 
 <p align="justify">
 Privacy policies provide individuals with information about their rights and how their personal information is handled. Natural language understanding 
