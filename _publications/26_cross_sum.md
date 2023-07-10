@@ -4,12 +4,12 @@ collection: publications
 Authors: 'Tahmid Hasan, Abhik Bhattacharjee, <b>Wasi Uddin Ahmad</b>, Yuan-Fang Li, Yong-Bin Kang, and Rifat Shahriyar.'
 date: 05/2023
 venue: 'ACL'
-paperurl: 'https://arxiv.org/abs/2112.08804'
+paperurl: 'https://aclanthology.org/2023.acl-long.143'
 codeurl: 'https://github.com/csebuetnlp/CrossSum'
 excerpt: ''
 ---
 ---
-<a href='https://arxiv.org/pdf/2112.08804.pdf' target="_blank">[Download Paper]</a><a href='https://github.com/csebuetnlp/CrossSum' target="_blank">[Source Code]</a>
+<a href='https://aclanthology.org/2023.acl-long.143' target="_blank">[Download Paper]</a><a href='https://github.com/csebuetnlp/CrossSum' target="_blank">[Source Code]</a>
 
 <p align="justify">
 We present CrossSum, a large-scale dataset comprising 1.65 million cross-lingual article-summary samples in 1500+ language-pairs constituting 45 languages. 
