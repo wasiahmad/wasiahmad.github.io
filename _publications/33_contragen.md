@@ -4,12 +4,12 @@ collection: publications
 Authors: 'Nihal Jain<sup>*</sup>, Dejiao Zhang<sup>*</sup>, <b>Wasi Uddin Ahmad</b><sup>*</sup>, Zijian Wang, Feng Nan, Xiaopeng Li, Ming Tan, Ramesh Nallapati, Baishakhi Ray, Parminder Bhatia, Xiaofei Ma, and Bing Xiang.'
 date: 05/2023
 venue: 'ACL'
-paperurl: 'https://arxiv.org/abs/2210.01185'
-codeurl: ''
+paperurl: 'https://aclanthology.org/2023.acl-long.355'
+codeurl: 'https://github.com/amazon-science/ContraCLM'
 excerpt: ''
 ---
 ---
-<a href='https://arxiv.org/pdf/2210.01185.pdf' target="_blank">[Download Paper]</a><a href='' target="_blank">[Source Code]</a>
+<a href='https://aclanthology.org/2023.acl-long.355/' target="_blank">[Download Paper]</a><a href='https://github.com/amazon-science/ContraCLM' target="_blank">[Source Code]</a>
 
 <p align="justify">
 Despite exciting progress in large-scale language generation, the expressiveness of its representations is severely limited by the 
