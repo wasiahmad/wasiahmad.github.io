@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="justify">
-I am an applied scientist at AWS AI Labs. I am part of the science team that builds <a href="https://aws.amazon.com/codewhisperer">Amazon CodeWhisperer</a>. My current works revolve around training large language models for code completion and code in-filling tasks, repository-level code generation, and developing code embedding models to facilitate code search, code re-ranking, and retrieval augmented generation.
+I am an applied scientist at AWS AI Labs. I am part of the science team that builds <a href="https://aws.amazon.com/codewhisperer">Amazon CodeWhisperer</a>. My work at AWS revolves around training large language models for code completion and code in-filling tasks, repository-level code generation, and developing code embedding models to facilitate code search, code re-ranking, and retrieval augmented generation.
 </p>
 
   <!-- Previously I was a Ph.D. student at the <a href="http://www.cs.virginia.edu/">CS@UVA</a> from August 2015 to August 2017. In the fall of 2017, I moved to UCLA with my advisor <a href="http://web.cs.ucla.edu/~kwchang/">Dr. Kai-Wei Chang</a>.  -->
@@ -22,9 +22,10 @@ Learning universal language representations utilizing data from heterogeneous so
   Before joining AWS, I completed my Ph.D. in Computer Science from the University of California, Los Angeles (UCLA) under the supervision of <a href="http://web.cs.ucla.edu/~kwchang/">Dr. Kai-Wei Chang</a>. My research interests span the areas of natural language processing (NLP), with a focus on learning from limited labeled data. 
   <!-- My current works revolve around code search, code re-ranking, and retrieval augmented generation. -->
 I received my Bachelor's in Computer Science and Engineering from the <a href="http://cse.buet.ac.bd/">CSE@BUET</a>, in February 2013, and my Master of 
-  Computer Science from the <a href="http://www.cs.virginia.edu/">CS@UVA</a>, in August 2017. I like to solve problems to improve my programming skills in 
+  Computer Science from the <a href="http://www.cs.virginia.edu/">CS@UVA</a>, in August 2017. 
+  <!-- I like to solve problems to improve my programming skills in 
   my free time. I have answered <b><font color="blue">500+</font></b> questions on StackOverflow and earned 
-  <b><font color="blue">30,000+</font></b> reputation.
+  <b><font color="blue">30,000+</font></b> reputation. -->
 </p>
 
 <!--
