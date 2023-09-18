@@ -19,9 +19,7 @@ Learning universal language representations utilizing data from heterogeneous so
   <!-- During my Ph.D., I got the opportunity to work as a research intern at Facebook AI (Summer 2020), Yahoo Research (Summer 2019), Microsoft Research (Summer 2018), and @WalmartLabs (Summer 2016). -->
 
 <p align="justify">
-  Before joining AWS, I completed my Ph.D. in Computer Science from the University of California, Los Angeles (UCLA) under the supervision of <a href="http://web.cs.ucla.edu/~kwchang/">Dr. Kai-Wei Chang</a>. My research interests span the areas of natural language processing (NLP), with a focus on learning from limited labeled data. 
-  <!-- My current works revolve around code search, code re-ranking, and retrieval augmented generation. -->
-I received my Bachelor's in Computer Science and Engineering from the <a href="http://cse.buet.ac.bd/">CSE@BUET</a>, in February 2013, and my Master of 
+  Before joining AWS, I completed my Ph.D. in Computer Science from the <a href="https://www.cs.ucla.edu/">CS@UCLA</a> under the supervision of <a href="http://web.cs.ucla.edu/~kwchang/">Dr. Kai-Wei Chang</a>. My research interests span the areas of natural language processing (NLP), with a focus on learning from limited labeled data. I received my Bachelor's in Computer Science and Engineering from the <a href="http://cse.buet.ac.bd/">CSE@BUET</a>, in February 2013, and my Master of 
   Computer Science from the <a href="http://www.cs.virginia.edu/">CS@UVA</a>, in August 2017. 
   <!-- I like to solve problems to improve my programming skills in 
   my free time. I have answered <b><font color="blue">500+</font></b> questions on StackOverflow and earned 
