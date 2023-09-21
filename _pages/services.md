@@ -19,7 +19,12 @@ redirect_from:
 
 <h2>Professional Services</h2>
 <ol>
-	<li> Senior Program Committee
+	<li> Senior Area Chair
+		<ul>
+			<li>2024: NAACL </li>
+    		</ul>
+	</li>
+	<li> Senior Program Committee/Area Chair
 		<ul>
 			<li>2024: AAAI </li>
 			<li>2023: AAAI </li>
