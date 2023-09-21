@@ -35,10 +35,11 @@ Learning universal language representations utilizing data from heterogeneous so
 
 News and Announcements
 ======
-1. <span style="color:blue">[05.2023] </span> Four papers got accepted at ACL 2023 and one paper got accepted at ESEC/FSE 2023.
-2. <span style="color:blue">[01.2023] </span> Three papers got accepted at EACL 2023.
-3. <span style="color:blue">[01.2023] </span> [MBXP](https://arxiv.org/abs/2210.14868) got accepted at ICLR 2023.
-4. <span style="color:blue">[12.2022] </span> Checkout our work, [CoCoMIC](https://arxiv.org/abs/2212.10007).
+1. <span style="color:blue">[09.2023] </span> I will serve as a senior area chair at NAACL 2024.
+2. <span style="color:blue">[05.2023] </span> Four papers got accepted at ACL 2023 and one paper got accepted at ESEC/FSE 2023.
+3. <span style="color:blue">[01.2023] </span> Three papers got accepted at EACL 2023.
+4. <span style="color:blue">[01.2023] </span> [MBXP](https://arxiv.org/abs/2210.14868) got accepted at ICLR 2023.
+5. <span style="color:blue">[12.2022] </span> Checkout our work, [CoCoMIC](https://arxiv.org/abs/2212.10007).
 
 <!---
 1. <span style="color:blue">[10.2022] </span> Checkout our work, [ContraGen](https://arxiv.org/abs/2210.01185) and [MBXP](https://arxiv.org/abs/2210.14868).
