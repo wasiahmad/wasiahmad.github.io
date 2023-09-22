@@ -1,7 +1,7 @@
 ---
 title: "CrossCodeEval: A Diverse and Multilingual Benchmark for Cross-File Code Completion"
 collection: publications
-Authors: 'Yangruibo Ding<sup>*</sup>, Zijian Wang<sup>*</sup>, <b>Wasi Uddin Ahmad</b><sup>*</sup>, Murali Krishna Ramanathan, Ramesh Nallapati, Parminder Bhatia, Dan Roth, and Bing Xiang.'
+Authors: 'Yangruibo Ding<sup>*</sup>, Zijian Wang<sup>*</sup>, <b>Wasi Uddin Ahmad</b><sup>*</sup>, Hantian Ding, Ming Tan, Nihal Jain, Murali Krishna Ramanathan, Ramesh Nallapati, Parminder Bhatia, Dan Roth, and Bing Xiang.'
 date: 09/2023
 venue: 'NeurIPS 2023 Datasets and Benchmarks Track'
 paperurl: ''
@@ -16,7 +16,7 @@ Code completion models have made significant progress in recent years, yet curre
   This over-simplified setting falls short of representing the real-world software development scenario where repositories are built across multiple files with many cross-file dependencies, where cross-file 
   context is often required to complete the code correctly. 
 To fill in this gap, we propose CrossCodeEval, a diverse and multilingual code completion benchmark that necessitates cross-file contextual understanding to complete the code accurately. 
-  CrossCodeEval is built on a diverse set of real-world, open-sourced, permissively licensed repositories in four popular programming languages: Python, Java, TypeScript, and C\#. 
+  CrossCodeEval is built on a diverse set of real-world, open-sourced, permissively licensed repositories in four popular programming languages: Python, Java, TypeScript, and C#. 
   To create examples that strictly require cross-file context to be completed correctly, we propose a simple yet efficient static-analysis-based approach to locate the cross-file context usages in the 
   current file. Extensive experiments on state-of-the-art code language models like CodeGen and StarCoder demonstrate that CrossCodeEval is challenging when the right cross-file context is not presented to 
   the model, and we see significant improvements in performance when the cross-file context is included in the prompt. We hope CrossCodeEval can facilitate research and development of code completion with 
