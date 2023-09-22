@@ -3,7 +3,7 @@ title: "CrossCodeEval: A Diverse and Multilingual Benchmark for Cross-File Code 
 collection: publications
 Authors: 'Yangruibo Ding<sup>*</sup>, Zijian Wang<sup>*</sup>, <b>Wasi Uddin Ahmad</b><sup>*</sup>, Hantian Ding, Ming Tan, Nihal Jain, Murali Krishna Ramanathan, Ramesh Nallapati, Parminder Bhatia, Dan Roth, and Bing Xiang.'
 date: 09/2023
-venue: 'NeurIPS 2023 Datasets and Benchmarks Track'
+venue: 'NeurIPS Datasets and Benchmarks Track'
 paperurl: ''
 codeurl: ''
 excerpt: ''
