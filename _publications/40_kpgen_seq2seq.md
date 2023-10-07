@@ -3,7 +3,7 @@ title: "Rethinking Model Selection and Decoding for Keyphrase Generation with Pr
 collection: publications
 Authors: 'Di Wu, <b>Wasi Uddin Ahmad</b>, and Kai-Wei Chang.'
 date: 10/2023
-venue: 'xx'
+venue: 'EMNLP'
 paperurl: 'xx'
 codeurl: 'https://github.com/uclanlp/DeepKPG'
 excerpt: ''
