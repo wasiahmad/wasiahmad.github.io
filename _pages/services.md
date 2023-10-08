@@ -24,10 +24,10 @@ redirect_from:
 			<li>2024: NAACL </li>
     		</ul>
 	</li>
-	<li> Senior Program Committee/Area Chair
+	<li> Senior Program Committee/Area Chair/Action Editor
 		<ul>
 			<li>2024: AAAI </li>
-			<li>2023: AAAI </li>
+			<li>2023: AAAI, ARR </li>
     		</ul>
 	</li>
 	<li> Program Committee/Reviewer
@@ -35,7 +35,7 @@ redirect_from:
 			<li>2024: ICLR, LREC-COLING </li>
 			<li>2023: EMNLP, NeurIPS, ICML, SIGIR, ACL, IJCAI, ICLR, ARR, EACL </li>
 			<li>2022: EMNLP, NeurIPS, ICML, SIGIR, IJCAI, KDD, ARR, LREC, AAAI, WSDM, ICLR </li>
-			<li>2021: NeurIPS, EMNLP, SIGIR, ACL-IJCNLP, IJCAI, NAACL, EACL, AAAI </li>
+			<li>2021: EMNLP, NeurIPS, SIGIR, ACL-IJCNLP, IJCAI, NAACL, EACL, AAAI </li>
 			<li>2020: EMNLP, ICML, IJCAI, AAAI, LREC </li>
 			<li>2019: NAACL </li>
     		</ul>
