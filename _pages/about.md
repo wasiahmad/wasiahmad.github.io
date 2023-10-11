@@ -35,10 +35,10 @@ Learning universal language representations utilizing data from heterogeneous so
 
 News and Announcements
 ======
-1. <span style="color:blue">[10.2023] </span> [Seq2Seq PLMs for KPGen](https://arxiv.org/abs/2310.06374) has been accepted by EMNLP 2023.
-2. <span style="color:blue">[09.2023] </span> [CrossCodeEval](https://crosscodeeval.github.io/) has been accepted by NeurIPS 2023 Datasets and Benchmarks Track.
+1. <span style="color:blue">[10.2023] </span> [Seq2Seq PLMs for KPGen](https://arxiv.org/abs/2310.06374) got accepted at EMNLP 2023.
+2. <span style="color:blue">[09.2023] </span> [CrossCodeEval](https://crosscodeeval.github.io/) got accepted at NeurIPS 2023 Datasets and Benchmarks Track.
 3. <span style="color:blue">[09.2023] </span> I will serve as a senior area chair at NAACL 2024.
-4. <span style="color:blue">[05.2023] </span> Four papers have been accepted by ACL 2023.
+4. <span style="color:blue">[05.2023] </span> Four papers got accepted at ACL 2023.
 5. <span style="color:blue">[05.2023] </span> One paper got accepted at ESEC/FSE 2023.
 6. <span style="color:blue">[01.2023] </span> Three papers got accepted at EACL 2023.
 7. <span style="color:blue">[01.2023] </span> [MBXP](https://arxiv.org/abs/2210.14868) got accepted at ICLR 2023.
