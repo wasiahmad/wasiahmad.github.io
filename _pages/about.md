@@ -35,14 +35,17 @@ Learning universal language representations utilizing data from heterogeneous so
 
 News and Announcements
 ======
-1. <span style="color:blue">[09.2023] </span> CrossCodeEval got accepted at NeurIPS 2023 Datasets and Benchmarks Track.
-2. <span style="color:blue">[09.2023] </span> I will serve as a senior area chair at NAACL 2024.
-3. <span style="color:blue">[05.2023] </span> Four papers got accepted at ACL 2023 and one paper got accepted at ESEC/FSE 2023.
-4. <span style="color:blue">[01.2023] </span> Three papers got accepted at EACL 2023.
-5. <span style="color:blue">[01.2023] </span> [MBXP](https://arxiv.org/abs/2210.14868) got accepted at ICLR 2023.
-6. <span style="color:blue">[12.2022] </span> Checkout our work, [CoCoMIC](https://arxiv.org/abs/2212.10007).
+1. <span style="color:blue">[10.2023] </span> [Seq2Seq PLMs for KPGen](https://arxiv.org/abs/2310.06374) has been accepted by EMNLP 2023.
+2. <span style="color:blue">[09.2023] </span> [CrossCodeEval](https://crosscodeeval.github.io/) has been accepted by NeurIPS 2023 Datasets and Benchmarks Track.
+3. <span style="color:blue">[09.2023] </span> I will serve as a senior area chair at NAACL 2024.
+4. <span style="color:blue">[05.2023] </span> Four papers have been accepted by ACL 2023.
+5. <span style="color:blue">[05.2023] </span> One paper got accepted at ESEC/FSE 2023.
+6. <span style="color:blue">[01.2023] </span> Three papers got accepted at EACL 2023.
+7. <span style="color:blue">[01.2023] </span> [MBXP](https://arxiv.org/abs/2210.14868) got accepted at ICLR 2023.
+
 
 <!---
+1. <span style="color:blue">[12.2022] </span> Checkout our work, [CoCoMIC](https://arxiv.org/abs/2212.10007).
 1. <span style="color:blue">[10.2022] </span> Checkout our work, [ContraGen](https://arxiv.org/abs/2210.01185) and [MBXP](https://arxiv.org/abs/2210.14868).
 1. <span style="color:blue">[10.2022] </span> One [paper](https://arxiv.org/abs/2203.08118) got accepted at EMNLP-Findings 2022.
 1. <span style="color:blue">[04.2022] </span> One [paper](https://arxiv.org/abs/2101.00204) got accepted at NAACL-Findings 2022.
