@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="justify">
-I am an applied scientist at AWS AI Labs. I am part of the science team that builds <a href="https://aws.amazon.com/codewhisperer">Amazon CodeWhisperer</a>. My work at AWS revolves around training large language models for code generation and embedding models to facilitate code search, code re-ranking, and retrieval augmented generation.
+I am an applied scientist at AWS AI Labs. I am part of the science team that builds <a href="https://aws.amazon.com/codewhisperer">Amazon CodeWhisperer</a>. My work at AWS revolves around code generation, code search, and retrieval augmented generation.
 </p>
 
   <!-- Previously I was a Ph.D. student at the <a href="http://www.cs.virginia.edu/">CS@UVA</a> from August 2015 to August 2017. In the fall of 2017, I moved to UCLA with my advisor <a href="http://web.cs.ucla.edu/~kwchang/">Dr. Kai-Wei Chang</a>.  -->
