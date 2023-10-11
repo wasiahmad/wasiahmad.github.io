@@ -4,12 +4,12 @@ collection: publications
 Authors: 'Di Wu, <b>Wasi Uddin Ahmad</b>, and Kai-Wei Chang.'
 date: 10/2023
 venue: 'EMNLP'
-paperurl: 'xx'
+paperurl: 'https://arxiv.org/abs/2310.06374'
 codeurl: 'https://github.com/uclanlp/DeepKPG'
 excerpt: ''
 ---
 ---
-<a href='' target="_blank">[Download Paper]</a><a href='https://github.com/uclanlp/DeepKPG' target="_blank">[Source Code]</a>
+<a href='https://arxiv.org/pdf/2310.06374.pdf' target="_blank">[Download Paper]</a><a href='https://github.com/uclanlp/DeepKPG' target="_blank">[Source Code]</a>
 
 <p align="justify">
 Keyphrase Generation (KPG) is a longstanding task in NLP with broad applications. The advent of pre-trained language models (PLMs) has recently led to a significant improvement in KPG. 
