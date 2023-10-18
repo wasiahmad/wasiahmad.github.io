@@ -4,12 +4,12 @@ collection: publications
 Authors: 'Yangruibo Ding<sup>*</sup>, Zijian Wang<sup>*</sup>, <b>Wasi Uddin Ahmad</b><sup>*</sup>, Hantian Ding, Ming Tan, Nihal Jain, Murali Krishna Ramanathan, Ramesh Nallapati, Parminder Bhatia, Dan Roth, and Bing Xiang.'
 date: 09/2023
 venue: 'NeurIPS Datasets and Benchmarks Track'
-paperurl: ''
+paperurl: 'https://arxiv.org/abs/2310.11248'
 codeurl: ''
 excerpt: ''
 ---
 ---
-<a href='' target="_blank">[Download Paper]</a><a href='' target="_blank">[Source Code]</a>
+<a href='https://arxiv.org/pdf/2310.11248.pdf' target="_blank">[Download Paper]</a><a href='' target="_blank">[Source Code]</a>
 
 <p align="justify">
 Code completion models have made significant progress in recent years, yet current popular evaluation datasets, such as HumanEval, MBPP, and PY150, only focus on code completion tasks within a single file. 
