@@ -6,7 +6,7 @@ date: 09/2023
 venue: 'NeurIPS Datasets and Benchmarks Track'
 paperurl: 'https://arxiv.org/abs/2310.11248'
 codeurl: 'https://github.com/amazon-science/cceval'
-excerpt: 'https://crosscodeeval.github.io'
+excerpt: ''
 webpage: 'https://crosscodeeval.github.io'
 ---
 ---
