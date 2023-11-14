@@ -5,7 +5,7 @@ Authors: 'Kuan-Hao Huang, <b>Wasi Uddin Ahmad</b>, Nanyun Peng, and Kai-Wei Chan
 date: 08/2021
 venue: 'EMNLP'
 paperurl: 'https://aclanthology.org/2021.emnlp-main.126/'
-presentationurl: ''
+presentationurl: 'https://aclanthology.org/2021.emnlp-main.126.mp4'
 codeurl: 'https://github.com/uclanlp/Robust-XLT'
 excerpt: ''
 ---
