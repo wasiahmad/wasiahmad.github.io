@@ -5,7 +5,7 @@ Authors: 'Md Rizwan Parvez, <b>Wasi Uddin Ahmad</b>, Saikat Chakraborty, Baishak
 date: 08/2021
 venue: 'Findings of the ACL: EMNLP'
 paperurl: 'https://aclanthology.org/2021.findings-emnlp.232/'
-presentationurl: ''
+presentationurl: 'https://aclanthology.org/2021.findings-emnlp.232.mp4'
 codeurl: 'https://github.com/rizwan09/REDCODER'
 excerpt: ''
 ---
