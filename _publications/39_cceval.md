@@ -5,6 +5,7 @@ Authors: 'Yangruibo Ding<sup>*</sup>, Zijian Wang<sup>*</sup>, <b>Wasi Uddin Ahm
 date: 09/2023
 venue: 'NeurIPS Datasets and Benchmarks Track'
 paperurl: 'https://arxiv.org/abs/2310.11248'
+presentationurl: 'https://www.youtube.com/watch?v=Y80j3H3HPfU'
 codeurl: 'https://github.com/amazon-science/cceval'
 excerpt: ''
 webpage: 'https://crosscodeeval.github.io'
