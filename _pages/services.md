@@ -32,7 +32,7 @@ redirect_from:
 	</li>
 	<li> Program Committee/Reviewer
 		<ul>
-			<li>2024: ICLR, LREC-COLING </li>
+			<li>2024: SIGIR, LREC-COLING, ICLR </li>
 			<li>2023: EMNLP, NeurIPS, ICML, SIGIR, ACL, IJCAI, ICLR, ARR, EACL </li>
 			<li>2022: EMNLP, NeurIPS, ICML, SIGIR, IJCAI, KDD, ARR, LREC, AAAI, WSDM, ICLR </li>
 			<li>2021: EMNLP, NeurIPS, SIGIR, ACL-IJCNLP, IJCAI, NAACL, EACL, AAAI </li>
