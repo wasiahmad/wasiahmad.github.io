@@ -31,7 +31,9 @@ redirect_from:
     		</ul>
 	</li>
 	<li> Secondary Reviewer: EMNLP 2018 </li>
-	<li> Journal Reviewer: <a href="https://dl.acm.org/journal/tois">TOIS</a>, <a href="https://cis.ieee.org/publications/t-neural-networks-and-learning-systems">TNNLS</a>, <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6687317">IEEE Transactions on Big Data</a> </li>
+	<li> Journal Reviewer: <a href="https://dl.acm.org/journal/tois">TOIS</a>, <a href="https://cis.ieee.org/publications/t-neural-networks-and-learning-systems">TNNLS</a>, 
+		<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6687317">IEEE Transactions on Big Data</a>, 
+		<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69">IEEE Transactions on Knowledge and Data Engineering</a> </li>
 </ol>
 
 <h2>Honors, Awards, and Scholarships</h2>
