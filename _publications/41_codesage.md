@@ -3,7 +3,7 @@ title: "Code Representation Learning At Scale"
 collection: publications
 Authors: 'Dejiao Zhang<sup>*</sup>, <b>Wasi Uddin Ahmad</b><sup>*</sup>, Ming Tan, Hantian Ding, Ramesh Nallapati, Dan Roth, Xiaofei Ma, and Bing Xiang.'
 date: 05/2024
-venue: '<under review at ICLR>'
+venue: 'under review at ICLR'
 paperurl: 'https://openreview.net/forum?id=vfzRRjumpX'
 codeurl: ''
 excerpt: ''
