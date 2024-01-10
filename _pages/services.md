@@ -16,7 +16,7 @@ redirect_from:
 	</li>
 	<li> Senior Program Committee/Area Chair/Action Editor
 		<ul>
-			<li>2024: AAAI </li>
+			<li>2024: AAAI, ARR </li>
 			<li>2023: AAAI, ARR </li>
     		</ul>
 	</li>
