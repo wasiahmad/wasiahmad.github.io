@@ -26,6 +26,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
   {% endfor %}
 {% endfor %}
 
+<hr>
 <h1 style="margin: 1.25em 0px -0.5em; padding: 0px; color: brown;">Preprints</h1>
 {% for post in site.publications reversed %}
   {% if post.venue == "arXiv" %}
@@ -33,6 +34,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
   {% endif %}
 {% endfor %}
 
+<hr>
 <h1 style="margin: 1.25em 0px -0.5em; padding: 0px; color: brown;">Dissertation</h1>
 {% for post in site.publications reversed %}
   {% if post.venue == "UCLA Electronic Theses and Dissertations" %}
