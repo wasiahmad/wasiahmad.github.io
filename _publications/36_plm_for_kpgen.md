@@ -1,9 +1,9 @@
 ---
-title: "Pre-trained Language Models for Keyphrase Generation: A Thorough Empirical Study"
+title: "On Leveraging Encoder-only Pre-trained Language Models for Effective Keyphrase Generation"
 collection: publications
 Authors: 'Di Wu, <b>Wasi Uddin Ahmad</b>, and Kai-Wei Chang.'
-date: 12/2022
-venue: 'arXiv'
+date: 02/2024
+venue: 'LREC-COLING'
 paperurl: 'https://arxiv.org/abs/2212.10233'
 codeurl: 'https://github.com/uclanlp/DeepKPG'
 excerpt: ''
