@@ -2,10 +2,10 @@
 title: "CoCoMIC: Code Completion By Jointly Modeling In-file and Cross-file Context"
 collection: publications
 Authors: 'Yangruibo Ding<sup>*</sup>, Zijian Wang<sup>*</sup>, <b>Wasi Uddin Ahmad</b><sup>*</sup>, Murali Krishna Ramanathan, Ramesh Nallapati, Parminder Bhatia, Dan Roth, and Bing Xiang.'
-date: 12/2022
-venue: 'arXiv'
+date: 02/2024
+venue: 'LREC-COLING'
 paperurl: 'https://arxiv.org/abs/2212.10007'
-codeurl: ''
+codeurl: 'https://github.com/amazon-science/cocomic'
 excerpt: ''
 ---
 ---
