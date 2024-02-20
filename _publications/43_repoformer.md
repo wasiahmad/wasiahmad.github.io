@@ -1,8 +1,8 @@
 ---
 title: "RepoFormer: Selective Retrieval for Repository-Level Code Completion"
-collection: under_review
+collection: publications
 Authors: 'Di Wu, <b>Wasi Uddin Ahmad</b>, Dejiao Zhang, Murali Krishna Ramanathan, and Xiaofei Ma.'
-date: 02/2024
+date: 03/2024
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/'
 codeurl: 'https://github.com/amazon_science/repoformer'
@@ -10,7 +10,7 @@ excerpt: ''
 webpage: 'https://repoformer.github.io'
 ---
 ---
-<a href='https://arxiv.org/pdf/2212.10233.pdf' target="_blank">[Download Paper]</a><a href='https://github.com/uclanlp/DeepKPG' target="_blank">[Source Code]</a>
+<a href='https://arxiv.org/pdf/' target="_blank">[Download Paper]</a><a href='https://github.com/amazon_science/repoformer' target="_blank">[Source Code]</a>
 
 <p align="justify">
 Recent advances in retrieval-augmented generation (RAG) have initiated a new era in repository-level code completion. However, the invariable use of retrieval in existing methods exposes issues in 
