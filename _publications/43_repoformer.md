@@ -1,6 +1,6 @@
 ---
 title: "RepoFormer: Selective Retrieval for Repository-Level Code Completion"
-collection: publications
+collection: 'under_review'
 Authors: 'Di Wu, <b>Wasi Uddin Ahmad</b>, Dejiao Zhang, Murali Krishna Ramanathan, and Xiaofei Ma.'
 date: 02/2024
 venue: '?'
