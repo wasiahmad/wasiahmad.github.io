@@ -1,9 +1,9 @@
 ---
-title: "On Leveraging Encoder-only Pre-trained Language Models for Effective Keyphrase Generation"
+title: "Pre-trained Language Models for Keyphrase Generation: A Thorough Empirical Study"
 collection: publications
 Authors: 'Di Wu, <b>Wasi Uddin Ahmad</b>, and Kai-Wei Chang.'
-date: 02/2024
-venue: 'LREC-COLING'
+date: 12/2022
+venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2212.10233'
 codeurl: 'https://github.com/uclanlp/DeepKPG'
 excerpt: ''
@@ -13,7 +13,7 @@ excerpt: ''
 
 <p align="justify">
 Neural models not relying on pre-training have excelled in the keyphrase generation task with large annotated datasets. Meanwhile, new approaches have 
-  incorporated pre-trained language models (PLMs) for data efficiency. However, there lacks a systematic study of how the two types of approaches compare 
+  incorporated pre-trained language models (PLMs) for data efficiency. However, there is a lack of systematic study of how the two types of approaches compare 
   and how different design choices can affect the performance of PLM-based models. We present an in-depth empirical study to fill this knowledge gap and 
   facilitate a more informed use of PLMs for keyphrase extraction and generation. We perform extensive experiments in three domains by formulating 
   keyphrase extraction as sequence labeling and keyphrase generation as sequence-to-sequence generation. After showing that PLMs have competitive 
