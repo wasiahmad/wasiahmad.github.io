@@ -4,22 +4,13 @@ collection: publications
 Authors: 'Di Wu, <b>Wasi Uddin Ahmad</b>, and Kai-Wei Chang.'
 date: 02/2024
 venue: 'LREC-COLING'
-paperurl: 'https://arxiv.org/abs/2212.10233'
+paperurl: 'https://arxiv.org/abs/?'
 codeurl: 'https://github.com/uclanlp/DeepKPG'
 excerpt: ''
 ---
 ---
-<a href='https://arxiv.org/pdf/2212.10233.pdf' target="_blank">[Download Paper]</a><a href='https://github.com/uclanlp/DeepKPG' target="_blank">[Source Code]</a>
+<a href='https://arxiv.org/pdf/?.pdf' target="_blank">[Download Paper]</a><a href='https://github.com/uclanlp/DeepKPG' target="_blank">[Source Code]</a>
 
 <p align="justify">
-Neural models not relying on pre-training have excelled in the keyphrase generation task with large annotated datasets. Meanwhile, new approaches have 
-  incorporated pre-trained language models (PLMs) for data efficiency. However, there lacks a systematic study of how the two types of approaches compare 
-  and how different design choices can affect the performance of PLM-based models. We present an in-depth empirical study to fill this knowledge gap and 
-  facilitate a more informed use of PLMs for keyphrase extraction and generation. We perform extensive experiments in three domains by formulating 
-  keyphrase extraction as sequence labeling and keyphrase generation as sequence-to-sequence generation. After showing that PLMs have competitive 
-  high-resource performance and state-of-the-art low-resource performance, we investigate important design choices, including in-domain PLMs, PLMs with 
-  different pre-training objectives, using PLMs with a parameter budget, and different formulations for present keyphrases. Further results show that 
-  (1) in-domain BERT-like PLMs can be used to build strong and data-efficient keyphrase generation models; (2) with a fixed parameter budget, prioritizing 
-  model depth over width and allocating more layers in the encoder leads to better encoder-decoder models; and (3) introducing four in-domain PLMs, we 
-  achieve a competitive performance in the news domain and the state-of-the-art performance in the scientific domain.
+This study addresses the application of encoder-only Pre-trained Language Models (PLMs) in keyphrase generation (KPG) amidst the broader availability of domain-tailored encoder-only models compared to encoder-decoder models. We investigate three core inquiries: (1) the efficacy of encoder-only PLMs in KPG, (2) optimal architectural decisions for employing encoder-only PLMs in KPG, and (3) a performance comparison between in-domain encoder-only and encoder-decoder PLMs across varied resource settings. Our findings, derived from extensive experimentation in two domains reveal that with encoder-only PLMs, although KPE with Conditional Random Fields slightly excels in identifying present keyphrases, the KPG formulation renders a broader spectrum of keyphrase predictions. Additionally, prefix-LM fine-tuning of encoder-only PLMs emerges as a strong and data-efficient strategy for KPG, outperforming general-domain seq2seq PLMs. We also identify a favorable parameter allocation towards model depth rather than width when employing encoder-decoder architectures initialized with encoder-only PLMs. The study sheds light on the potential of utilizing encoder-only PLMs for advancing KPG systems and provides a groundwork for future KPG methods.
 </p>
