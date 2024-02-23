@@ -35,7 +35,7 @@ Learning universal language representations utilizing data from heterogeneous so
 
 News and Announcements
 ======
-1. <span style="color:blue">[05.2023] </span> Two papers got accepted at LREC-COLING 2024.
+1. <span style="color:blue">[02.2024] </span> Two papers got accepted at LREC-COLING 2024.
 1. <span style="color:blue">[01.2024] </span> [CodeSage](https://arxiv.org/abs/2402.01935) got accepted at ICLR 2024.
 1. <span style="color:blue">[10.2023] </span> [Seq2Seq PLMs for KPGen](https://arxiv.org/abs/2310.06374) got accepted at EMNLP 2023.
 1. <span style="color:blue">[09.2023] </span> [CrossCodeEval](https://crosscodeeval.github.io/) got accepted at NeurIPS 2023 Datasets and Benchmarks Track.
