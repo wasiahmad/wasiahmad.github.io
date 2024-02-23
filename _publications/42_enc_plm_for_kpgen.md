@@ -4,7 +4,7 @@ collection: publications
 Authors: 'Di Wu, <b>Wasi Uddin Ahmad</b>, and Kai-Wei Chang.'
 date: 02/2024
 venue: 'LREC-COLING'
-paperurl: 'https://arxiv.org/pdf/2402.14052.pdf'
+paperurl: 'https://arxiv.org/abs/2402.14052'
 codeurl: 'https://github.com/uclanlp/DeepKPG'
 excerpt: ''
 ---
