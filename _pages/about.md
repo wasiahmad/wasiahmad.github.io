@@ -42,9 +42,9 @@ News and Announcements
 1. <span style="color:blue">[01.2024] </span> [CodeSage](https://arxiv.org/abs/2402.01935) got accepted at ICLR 2024.
 1. <span style="color:blue">[10.2023] </span> [Seq2Seq PLMs for KPGen](https://arxiv.org/abs/2310.06374) got accepted at EMNLP 2023.
 1. <span style="color:blue">[09.2023] </span> [CrossCodeEval](https://crosscodeeval.github.io/) got accepted at NeurIPS 2023 Datasets and Benchmarks Track.
-1. <span style="color:blue">[09.2023] </span> I will serve as a senior area chair for NAACL 2024.
 
 <!---
+1. <span style="color:blue">[09.2023] </span> I will serve as a senior area chair for NAACL 2024.
 1. <span style="color:blue">[05.2023] </span> Four papers got accepted at ACL 2023.
 1. <span style="color:blue">[05.2023] </span> One paper got accepted at ESEC/FSE 2023.
 1. <span style="color:blue">[01.2023] </span> [MBXP](https://arxiv.org/abs/2210.14868) got accepted at ICLR 2023.
