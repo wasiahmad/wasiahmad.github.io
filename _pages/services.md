@@ -33,11 +33,12 @@ redirect_from:
 	<li> Secondary Reviewer: EMNLP 2018 </li>
 	<li> Journal Reviewer: 
 		<ul>
+			<li><a href="https://jair.org/index.php/jair/index">Journal of Artificial Intelligence Research</a></li>
+			<li><a href="https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence">Engineering Applications of Artificial Intelligence</a> </li>
 			<li><a href="https://dl.acm.org/journal/tois">ACM Transactions on Information Systems</a></li>
 			<li><a href="https://cis.ieee.org/publications/t-neural-networks-and-learning-systems">IEEE Transactions on Neural Networks and Learning Systems</a> </li>
 			<li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6687317">IEEE Transactions on Big Data</a> </li>
 			<li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69">IEEE Transactions on Knowledge and Data Engineering</a> </li>
-			<li><a href="https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence">Engineering Applications of Artificial Intelligence</a> </li>
     		</ul>
 	</li>
 </ol>
