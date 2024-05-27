@@ -9,19 +9,16 @@ redirect_from:
 ---
 
 <p align="justify">
-I am an applied scientist at AWS AI Labs. I am part of the science team that contributes to the development of <a href="https://aws.amazon.com/q/developer/">Amazon Q Developer</a>. My work at AWS revolves around code generation, code search, and retrieval augmented generation.
+I am a senior research scientist at NVIDIA. My interests are generally in artificial intelligence, with focus on natural language processing, and machine learning. My team conducts applied deep learning research on top of large foundational models. Before joining NVIDIA, I was an applied scientist at AWS AI Labs, working on code generation, code search, and retrieval augmented generation for <a href="https://aws.amazon.com/q/developer/">Amazon Q Developer</a>.
 </p>
 
-  <!-- Previously I was a Ph.D. student at the <a href="http://www.cs.virginia.edu/">CS@UVA</a> from August 2015 to August 2017. In the fall of 2017, I moved to UCLA with my advisor <a href="http://web.cs.ucla.edu/~kwchang/">Dr. Kai-Wei Chang</a>.  -->
-  <!-- My research efforts strike to develop computational algorithms that (1) reduce the amount of labeled data required to train NLP models from scratch, and (2) adapt to new domains and languages with fewer labeled examples. -->
-  <!-- The broad objective of my research is to enhance the inclusion of technology for processing human languages by learning from limited labeled data.
-Learning universal language representations utilizing data from heterogeneous sources, designing new learning objectives to bridge the gap between different learning signals, and developing flexible model architectures to enable cross-domain and cross-language transfer is the fundamental objective of my research. My doctoral thesis is on transfer learning for low-resource natural language processing (NLP). -->
-  <!-- During my Ph.D., I got the opportunity to work as a research intern at Facebook AI (Summer 2020), Yahoo Research (Summer 2019), Microsoft Research (Summer 2018), and @WalmartLabs (Summer 2016). -->
-
 <p align="justify">
-  Before joining AWS, I completed my Ph.D. in Computer Science from the University of California Los Angeles, in September 2021. I was part of the UCLA NLP group, advised by <a href="http://web.cs.ucla.edu/~kwchang/">Dr. Kai-Wei Chang</a>. Previously, I received my Bachelor's in Computer Science and Engineering from the Bangladesh University of Engineering and Technology, in February 2013, and my Master of Computer Science from the University of Virginia, in August 2017. 
-  
-  <!-- I like to solve problems to improve my programming skills in 
+I obtained my PhD in Computer Science at <a href="https://www.cs.ucla.edu/">University of California Los Angeles</a>, supervised by <a href="http://web.cs.ucla.edu/~kwchang/">Dr. Kai-Wei Chang</a>. I was fortunate to intern at Meta AI, Yahoo Research, Microsoft Research, and WalmartLabs during my PhD.
+</p>
+
+<!-- 
+<p align="justify">
+  Before joining AWS, I completed my Ph.D. in Computer Science from the University of California Los Angeles, in September 2021. I was part of the UCLA NLP group, advised by <a href="http://web.cs.ucla.edu/~kwchang/">Dr. Kai-Wei Chang</a>. Previously, I received my Bachelor's in Computer Science and Engineering from the Bangladesh University of Engineering and Technology, in February 2013, and my Master of Computer Science from the University of Virginia, in August 2017. I like to solve problems to improve my programming skills in 
   my free time. I have answered <b><font color="blue">500+</font></b> questions on StackOverflow and earned 
   <b><font color="blue">30,000+</font></b> reputation. -->
 </p>
