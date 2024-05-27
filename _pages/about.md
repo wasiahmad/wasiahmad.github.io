@@ -20,15 +20,9 @@ I obtained my PhD in Computer Science at <a href="https://www.cs.ucla.edu/">Univ
 <p align="justify">
   Before joining AWS, I completed my Ph.D. in Computer Science from the University of California Los Angeles, in September 2021. I was part of the UCLA NLP group, advised by <a href="http://web.cs.ucla.edu/~kwchang/">Dr. Kai-Wei Chang</a>. Previously, I received my Bachelor's in Computer Science and Engineering from the Bangladesh University of Engineering and Technology, in February 2013, and my Master of Computer Science from the University of Virginia, in August 2017. I like to solve problems to improve my programming skills in 
   my free time. I have answered <b><font color="blue">500+</font></b> questions on StackOverflow and earned 
-  <b><font color="blue">30,000+</font></b> reputation. -->
-</p>
-
-<!--
-<p align="justify">
-  <b><font color="red">I am currently looking for a full-time research position in the industry.</font></b>
+  <b><font color="blue">30,000+</font></b> reputation. 
 </p>
 -->
-
 
 News and Announcements
 ======
