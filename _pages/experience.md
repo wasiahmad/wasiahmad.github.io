@@ -7,9 +7,14 @@ redirect_from:
   - /resume
 ---
 <br/>
+    <span style="color:black; font-size:17px"><b><a href="https://nv-adlr.github.io/" target="_blank"><font color="brown" size="5">Applied Deep Learning Research, NVIDIA</font></a></b></span><br/>
+    Santa Clara, California<br/>
+    Senior Research Scientist [May, 2024 - Present]<br/>
+    Manager: <a href="https://developer.nvidia.com/blog/author/bginsburg/" target="_blank">Boris Ginsburg</a><br/>
+<br/>
     <span style="color:black; font-size:17px"><b><a href="https://aws.amazon.com/ai/" target="_blank"><font color="brown" size="5">AI Labs, Amazon Web Services (AWS)</font></a></b></span><br/>
     Santa Clara, California<br/>
-    Applied Scientist II [October, 2021 - Present]<br/>
+    Applied Scientist [October, 2021 - May, 2024]<br/>
     Manager: <a href="https://www.linkedin.com/in/xiaofei-ma-b3627928" target="_blank">Xiaofei Ma</a><br/>
 <br/>
     <span style="color:black; font-size:17px"><b><a href="http://www.ucla.edu/" target="_blank"><font color="brown" size="5">University of California, Los Angeles</font></a></b></span><br/>
