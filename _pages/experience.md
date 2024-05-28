@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 <br/>
-    <span style="color:black; font-size:17px"><b><a href="https://nv-adlr.github.io/" target="_blank"><font color="brown" size="5">Applied Deep Learning Research, NVIDIA</font></a></b></span><br/>
+    <span style="color:black; font-size:17px"><b><a href="https://nv-adlr.github.io/" target="_blank"><font color="brown" size="5">Applied Research, NVIDIA</font></a></b></span><br/>
     Santa Clara, California<br/>
     Senior Research Scientist [May, 2024 - Present]<br/>
     Manager: <a href="https://developer.nvidia.com/blog/author/bginsburg/" target="_blank">Boris Ginsburg</a><br/>
