@@ -11,7 +11,7 @@ redirect_from:
 <ol>
 	<li> Senior Area Chair
 		<ul>
-			<li>2024: NAACL </li>
+			<li>2024: ARR, NAACL </li>
     		</ul>
 	</li>
 	<li> Senior Program Committee/Area Chair/Action Editor
