@@ -13,7 +13,7 @@ I am a senior research scientist at NVIDIA. My interests are generally in artifi
 </p>
 
 <p align="justify">
-I obtained my PhD in Computer Science at <a href="https://www.cs.ucla.edu/">University of California Los Angeles</a>, supervised by <a href="http://web.cs.ucla.edu/~kwchang/">Dr. Kai-Wei Chang</a>. I was fortunate to intern at Meta AI, Yahoo Research, Microsoft Research, and WalmartLabs during my PhD.
+I obtained my PhD in Computer Science at <a href="https://www.cs.ucla.edu/">University of California Los Angeles</a>, supervised by <a href="http://web.cs.ucla.edu/~kwchang/">Dr. Kai-Wei Chang</a>. I was fortunate to work as a research intern at Meta AI, Yahoo Research, Microsoft Research, and WalmartLabs during my PhD.
 </p>
 
 <!-- 
