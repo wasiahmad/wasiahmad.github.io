@@ -26,6 +26,7 @@ I obtained my PhD in Computer Science at <a href="https://www.cs.ucla.edu/">Univ
 
 News and Announcements
 ======
+1. <span style="color:blue">[05.2024] </span> I joined NVIDIA as a senior research scientist!
 1. <span style="color:blue">[05.2024] </span> [Repoformer](https://repoformer.github.io/) got accepted at ICML 2024.
 1. <span style="color:blue">[03.2024] </span> Checkout our works: [Repoformer](https://repoformer.github.io/) and [IllusionVQA](https://illusionvqa.github.io/).
 1. <span style="color:blue">[02.2024] </span> Two papers got accepted at LREC-COLING 2024.
