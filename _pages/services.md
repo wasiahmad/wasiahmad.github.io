@@ -34,6 +34,7 @@ redirect_from:
 	<li> Secondary Reviewer: EMNLP 2018 </li>
 	<li> Journal Reviewer: 
 		<ul>
+			<li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32">IEEE Transactions on Software Engineering</a></li>
 			<li><a href="https://jair.org/index.php/jair/index">Journal of Artificial Intelligence Research</a></li>
 			<li><a href="https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence">Engineering Applications of Artificial Intelligence</a> </li>
 			<li><a href="https://dl.acm.org/journal/tois">ACM Transactions on Information Systems</a></li>
