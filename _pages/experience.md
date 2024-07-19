@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 <br/>
-    <span style="color:black; font-size:17px"><b><a href="https://www.nvidia.com/en-us/solutions/ai/conversational-ai/" target="_blank"><font color="brown" size="5">Conversational AI, NVIDIA</font></a></b></span><br/>
+    <span style="color:black; font-size:17px"><b><a href="https://research.nvidia.com/labs/conv-ai/" target="_blank"><font color="brown" size="5">Conversational AI Research, NVIDIA</font></a></b></span><br/>
     Santa Clara, California<br/>
     Senior Research Scientist [May, 2024 - Present]<br/>
     Manager: <a href="https://developer.nvidia.com/blog/author/bginsburg/" target="_blank">Boris Ginsburg</a><br/>
