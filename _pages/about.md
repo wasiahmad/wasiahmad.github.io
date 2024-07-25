@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="justify">
-I am a senior research scientist at NVIDIA. We work on large language models with a focus on code generation, mathematical reasoning, long-context understanding, and model robustness. Before NVIDIA, I was at AWS AI Labs, working on code generation for <a href="https://aws.amazon.com/q/developer/">Amazon Q Developer</a>.
+I am a senior research scientist in the Applied Research on AI Applications team at NVIDIA. We work on foundation models with a focus on code generation, mathematical reasoning, long-context understanding, and model robustness. Before NVIDIA, I was at AWS AI Labs, working on code generation for <a href="https://aws.amazon.com/q/developer/">Amazon Q Developer</a>.
 </p>
 
 <p align="justify">
