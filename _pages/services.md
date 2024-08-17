@@ -14,7 +14,7 @@ redirect_from:
 			<li>2024: ARR, NAACL </li>
     		</ul>
 	</li>
-	<li> Senior Program Committee/Area Chair/Action Editor
+	<li> Senior Program Committee/Area Chair
 		<ul>
 			<li>2025: AAAI </li>
 			<li>2024: ACL, AAAI, ARR </li>
