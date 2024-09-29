@@ -29,8 +29,8 @@ You can download my [cv](../files/cv_wasi_ahmad.pdf) or [resume](../files/resume
     Period of Study: January 2008 - February 2013 <br/>
     CGPA: <b>3.81/4.00</b> scale <a href="../files/bsc_transcript.pdf">[Transcript]</a> <br/>
     Position: Ranked <b>8<sup>th</sup></b> in a class of <b>142</b> students  <br/>
-    Academic Advisor: <a href="http://cse.buet.ac.bd/faculty/facdetail.php?id=mahmudanaznin" target="_blank">Dr. Mahmuda Naznin</a> <br/>
-    Thesis Supervisor: <a href="http://cse.buet.ac.bd/faculty/facdetail.php?id=asmlatifulhoque" target="_blank">Dr. Abu Sayed Md. Latiful Hoque</a> <br/>
+    Academic Advisor: <a href="https://cse.buet.ac.bd/faculty/faculty_detail/mahmudanaznin" target="_blank">Dr. Mahmuda Naznin</a> <br/>
+    Thesis Supervisor: <a href="https://cse.buet.ac.bd/faculty/faculty_detail/asmlatifulhoque" target="_blank">Dr. Abu Sayed Md. Latiful Hoque</a> <br/>
 <br/>
     <span style="color:black; font-size:17px"><b><a href="http://dhakacollege.edu.bd/" target="_blank"><font color="brown" size="5">Dhaka College</font></a></b></span><br/>
     Higher Secondary Certificate (HSC) <a href="../files/hsc_certificate.pdf">[Certificate]</a> <br/>
