@@ -1,13 +1,15 @@
 ---
 layout: archive
-title: Miscellaneous
-permalink: /miscellaneous/
+title: Services
+permalink: /services/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
+<!---
 <h2>Professional Services</h2>
+--->
 <ol>
 	<li> Senior Area Chair
 		<ul>
@@ -46,6 +48,7 @@ redirect_from:
 	</li>
 </ol>
 
+<!---
 <h2>Honors, Awards, and Scholarships</h2>
 <ol>
 	<li> SIGIR Student Travel Grant [2016, 2019] </li>
@@ -54,5 +57,6 @@ redirect_from:
 	<li> William L Ballard Jr Endowed Graduate Fellowship, UVA [Spring, 2017] </li>
 	<li> Graduate Division Fellowships, UVA [2015-2016] </li>
 </ol>
+--->
 
 
