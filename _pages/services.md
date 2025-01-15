@@ -13,6 +13,7 @@ redirect_from:
 <ol>
 	<li> Senior Area Chair
 		<ul>
+			<li>2025: ARR </li>
 			<li>2024: ARR, NAACL </li>
     		</ul>
 	</li>
