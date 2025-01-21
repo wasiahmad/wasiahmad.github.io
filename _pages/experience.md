@@ -15,7 +15,7 @@ redirect_from:
     <span style="color:black; font-size:17px"><b><a href="https://aws.amazon.com/ai/" target="_blank"><font color="brown" size="5">AI Labs, Amazon Web Services (AWS)</font></a></b></span><br/>
     Santa Clara, California<br/>
     Applied Scientist [October, 2021 - May, 2024]<br/>
-    Manager: <a href="https://www.linkedin.com/in/xiaofei-ma-b3627928" target="_blank">Xiaofei Ma</a><br/>
+    Manager: <a href="https://www.linkedin.com/in/parminder-bhatia" target="_blank">Parminder Bhatia</a>, <a href="https://www.linkedin.com/in/xiaofei-ma-b3627928" target="_blank">Xiaofei Ma</a><br/>
 <br/>
     <span style="color:black; font-size:17px"><b><a href="http://www.ucla.edu/" target="_blank"><font color="brown" size="5">University of California, Los Angeles</font></a></b></span><br/>
     Graduate Research Assistant [August, 2017 - September, 2021]<br/>
