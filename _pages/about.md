@@ -26,6 +26,7 @@ I obtained my PhD in Computer Science at <a href="https://www.cs.ucla.edu/">Univ
 
 News and Announcements
 ======
+1. <span style="color:blue">[01.2025] </span> [LibEvolutionEval](https://lib-evolution-eval.github.io/) got accepted at NAACL 2025.
 1. <span style="color:blue">[07.2024] </span> [IllusionVQA](https://illusionvqa.github.io/) got accepted at COLM 2024.
 1. <span style="color:blue">[06.2024] </span> I joined NVIDIA as a senior research scientist!
 1. <span style="color:blue">[05.2024] </span> [Repoformer](https://repoformer.github.io/) got accepted at ICML 2024.
