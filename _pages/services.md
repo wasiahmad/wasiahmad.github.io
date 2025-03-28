@@ -13,8 +13,8 @@ redirect_from:
 <ol>
 	<li> Senior Area Chair
 		<ul>
-			<li>2025: ARR </li>
-			<li>2024: ARR, NAACL </li>
+			<li>2025: EMNLP, ARR </li>
+			<li>2024: NAACL, ARR </li>
     		</ul>
 	</li>
 	<li> Senior Program Committee/Area Chair
