@@ -27,7 +27,7 @@ I obtained my PhD in Computer Science at <a href="https://www.cs.ucla.edu/">Univ
 News and Announcements
 ======
 
-1. <span style="color:blue">[04.2025] </span> We released [OpenCodeReasoning](https://arxiv.org/abs/2504.01943).
+1. <span style="color:blue">[04.2025] </span> We released [OpenCodeInstruct](https://arxiv.org/abs/2504.04030) and [OpenCodeReasoning](https://arxiv.org/abs/2504.01943).
 1. <span style="color:blue">[03.2025] </span> I will serve as a senior area chair for EMNLP 2025.
 1. <span style="color:blue">[01.2025] </span> [LibEvolutionEval](https://lib-evolution-eval.github.io/) got accepted at NAACL 2025.
 1. <span style="color:blue">[01.2025] </span> We released [CodeSage-v2](https://code-representation-learning.github.io/codesage-v2.html) with improved performances.
