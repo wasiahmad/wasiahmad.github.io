@@ -13,8 +13,9 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 {% include base_path %}
 
+{% assign current_year = site.time | date: "%Y" %}
 <h1 style="margin: 1.25em 0px -0.5em; padding: 0px; color: brown;">Recent Preprints</h1>
-{% for post in site.publications reversed and post.date.year == 2025 %}
+{% for post in site.publications reversed and post.date.year == current_year %}
   {% if post.venue == "arXiv" %}
     {% include archive-single.html %}
   {% endif %}
