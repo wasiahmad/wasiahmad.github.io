@@ -42,8 +42,10 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 <hr>
 <h1 style="margin: 1.25em 0px -0.5em; padding: 0px; color: brown;">Older Preprints</h1>
+{% assign current_year = site.time | date: "%Y" %}
 {% for post in site.publications reversed %}
-  {% if post.venue == "arXiv" %}
+  {% assign post_year = post.date | date: "%Y" %}
+  {% if post.venue == "arXiv" and post_year < current_year %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
