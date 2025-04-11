@@ -19,7 +19,6 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 <h1 style="margin: 1.25em 0px -0.5em; padding: 0px; color: brown;">Recent Preprints</h1>
 {% for year_group in publicationsByYear reversed %}
   {% if year_group.name == current_year %}
-    <h1 style="margin: 1.5em 0px -0.5em; padding: 0px; color: brown;">{{ year_group.name }}</h1>
     {% assign current_year_publications = year_group.items %}
     {% assign arxiv_publications_current_year = current_year_publications | where: "venue", "arXiv" %}
     {% for post in arxiv_publications_current_year reversed %}
