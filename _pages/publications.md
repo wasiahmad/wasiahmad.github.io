@@ -17,13 +17,11 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 {% assign publicationsByYear = site.publications | group_by_exp:"post", "post.date | date: '%Y'" %}
 
 <h1 style="margin: 1.25em 0px -0.5em; padding: 0px; color: brown;">Recent Preprints</h1>
-{% for year_group in publicationsByYear reversed %}
-  {% if year_group.name == current_year %}
-    {% assign current_year_publications = year_group.items %}
-    {% assign arxiv_publications_current_year = current_year_publications | where: "venue", "arXiv" %}
-    {% for post in arxiv_publications_current_year reversed %}
-      {% include archive-single.html %}
-    {% endfor %}
+{% assign current_year = site.time | date: "%Y" %}
+{% for post in site.publications reversed %}
+  {% assign post_year = post.date | date: "%Y" %}
+  {% if post.venue == "arXiv" and post_year == current_year %}
+    {% include archive-single.html %}
   {% endif %}
 {% endfor %}
 
