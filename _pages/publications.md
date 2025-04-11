@@ -14,11 +14,21 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 {% include base_path %}
 
 {% assign current_year = site.time | date: "%Y" %}
-<h1 style="margin: 1.25em 0px -0.5em; padding: 0px; color: brown;">Recent Preprints</h1>
-{% for post in site.publications reversed %}
-  <p>Current Year (Inside Loop): {{ current_year }} - Post Year (String): {{ post.date | date: "%Y" }} - Venue: {{ post.venue }}</p>
-  {% if post.venue == "arXiv" and post.date | date: "%Y" == current_year %}
-    {% include archive-single.html %}
+{% assign publicationsByYear = site.publications | group_by_exp:"post", "post.date | date: '%Y'" %}
+
+{% for year_group in publicationsByYear reversed %}
+  {% if year_group.name == current_year %}
+    <h1 style="margin: 1.5em 0px -0.5em; padding: 0px; color: brown;">{{ year_group.name }}</h1>
+    {% assign current_year_publications = year_group.items %}
+    {% assign arxiv_publications_current_year = current_year_publications | where: "venue", "arXiv" %}
+
+    {% for post in arxiv_publications_current_year reversed %}
+      {% include archive-single.html %}
+    {% endfor %}
+
+    {% comment %}
+      You can add logic here to display other types of publications for the current year if needed.
+    {% endcomment %}
   {% endif %}
 {% endfor %}
 
