@@ -1,7 +1,7 @@
 ---
 title: "Nemotron-H: A Family of Accurate and Efficient Hybrid Mamba-Transformer Models"
 collection: publications
-Authors: 'NVIDIA: ... <b>Wasi Uddin Ahmad</b>, and 198 others'
+Authors: 'NVIDIA: <b>Wasi Uddin Ahmad</b>, and 198 others. (Contributed to Data)'
 date: 04/2025
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2504.03624'
