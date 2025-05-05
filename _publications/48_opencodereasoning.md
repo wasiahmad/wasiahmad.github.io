@@ -5,7 +5,7 @@ Authors: '<b>Wasi Uddin Ahmad</b><sup>*</sup>, Sean Narenthiran<sup>*</sup>, Som
 date: 04/2025
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2504.01943'
-codeurl: 'https://github.com/NVIDIA/NeMo-Skills'
+dataurl: 'https://huggingface.co/datasets/nvidia/OpenCodeReasoning'
 excerpt: ''
 ---
 ---
