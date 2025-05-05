@@ -65,7 +65,10 @@
     	&nbsp;<a href=" {{ post.codeurl }} " target="_blank" style="color: blue">[Code]</a>
     {% endif %}
     {% if post.dataurl %}
-    	&nbsp;<a href=" {{ post.dataurl }} " target="_blank" style="color: blue">[Dataset]</a>
+    	&nbsp;<a href=" {{ post.dataurl }} " target="_blank" style="color: blue">[Datasets]</a>
+    {% endif %}
+    {% if post.modelurl %}
+    	&nbsp;<a href=" {{ post.modelurl }} " target="_blank" style="color: blue">[Models]</a>
     {% endif %}
     {% if post.demourl %}
     	&nbsp;<a href=" {{ post.demourl }} " target="_blank" style="color: blue">[Demo]</a>
