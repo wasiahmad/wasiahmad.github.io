@@ -5,6 +5,7 @@ Authors: 'NVIDIA: <b>Wasi Uddin Ahmad</b> (Contributed to Data), and 198 others.
 date: 04/2025
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2504.03624'
+modelurl: 'https://huggingface.co/nvidia/Nemotron-H-56B-Base-8K'
 webpage: 'https://research.nvidia.com/labs/adlr/nemotronh/'
 excerpt: ''
 ---
