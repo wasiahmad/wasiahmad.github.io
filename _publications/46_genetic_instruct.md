@@ -2,8 +2,8 @@
 title: "Genetic Instruct: Scaling up Synthetic Generation of Coding Instructions for Large Language Models"
 collection: publications
 Authors: 'Somshubra Majumdar, Vahid Noroozi, Mehrzad Samadi, Sean Narenthiran, Aleksander Ficek, <b>Wasi Uddin Ahmad</b>, Jocelyn Huang, Jagadeesh Balam, and Boris Ginsburg.'
-date: 07/2024
-venue: 'arXiv'
+date: 05/2025
+venue: 'ACL (Industry Track)'
 paperurl: 'https://arxiv.org/abs/2407.21077'
 codeurl: ''
 excerpt: ''
