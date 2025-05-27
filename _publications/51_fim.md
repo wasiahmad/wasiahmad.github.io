@@ -8,7 +8,7 @@ paperurl: 'https://arxiv.org/abs/2505.18789'
 excerpt: ''
 ---
 ---
-<a href='https://arxiv.org/pdf/#' target="_blank">[Download Paper]</a>
+<a href='https://arxiv.org/pdf/2505.18789' target="_blank">[Download Paper]</a>
 <p align="justify">
 Post-processing is crucial for the automatic evaluation of LLMs in fill-in-the-middle (FIM) code generation due to the frequent presence of extraneous code in raw outputs. This extraneous generation suggests a lack of awareness regarding 
   output boundaries, requiring truncation for effective evaluation. However, determining an optimal truncation strategy often proves intricate, particularly when the scope includes several programming languages. This study 
