@@ -13,7 +13,7 @@ redirect_from:
 <ol>
 	<li> Senior Area Chair
 		<ul>
-			<li>2025: EMNLP, ARR </li>
+			<li>2025: EMNLP, IJCNLP-AACL, ARR </li>
 			<li>2024: NAACL, ARR </li>
     		</ul>
 	</li>
