@@ -2,8 +2,8 @@
 title: "OpenCodeReasoning: Advancing Data Distillation for Competitive Coding"
 collection: publications
 Authors: '<b>Wasi Uddin Ahmad</b><sup>*</sup>, Sean Narenthiran<sup>*</sup>, Somshubra Majumdar, Aleksander Ficek, Siddhartha Jain, Jocelyn Huang, Vahid Noroozi, and Boris Ginsburg.'
-date: 04/2025
-venue: 'arXiv'
+date: 07/2025
+venue: 'COLM'
 paperurl: 'https://arxiv.org/abs/2504.01943'
 dataurl: 'https://huggingface.co/datasets/nvidia/OpenCodeReasoning'
 excerpt: ''
