@@ -3,7 +3,7 @@ title: "Llama-Nemotron: Efficient Reasoning Models"
 collection: publications
 Authors: 'NVIDIA: <b>Wasi Uddin Ahmad</b> (Contributed to Data), and 123 others.'
 date: 05/2025
-venue: 'EXAIT@ICML 2025'
+venue: 'EXAIT@ICML'
 paperurl: 'https://arxiv.org/abs/2505.00949v1'
 dataurl: 'https://huggingface.co/datasets/nvidia/Llama-Nemotron-Post-Training-Dataset'
 modelurl: 'https://huggingface.co/nvidia/Llama-3_1-Nemotron-Ultra-253B-v1'
