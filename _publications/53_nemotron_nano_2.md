@@ -1,7 +1,7 @@
 ---
 title: "NVIDIA Nemotron Nano 2: An Accurate and Efficient Hybrid Mamba-Transformer Reasoning Model"
 collection: publications
-Authors: 'NVIDIA: <b>Wasi Uddin Ahmad</b> (Contributed to Data), and 206 others.'
+Authors: 'NVIDIA: <b>Wasi Uddin Ahmad</b> (Contributed to Data), and 213 others.'
 date: 08/2025
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2508.14444'
