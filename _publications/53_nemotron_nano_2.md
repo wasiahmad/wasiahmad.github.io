@@ -9,7 +9,7 @@ modelurl: 'https://huggingface.co/nvidia/NVIDIA-Nemotron-Nano-9B-v2'
 excerpt: ''
 ---
 ---
-<a href='https://arxiv.org/pdf/2504.03624' target="_blank">[Download Paper]</a><a href='' target="_blank">[Download Dataset]</a>
+<a href='https://arxiv.org/pdf/2508.14444' target="_blank">[Download Paper]</a><a href='https://huggingface.co/collections/nvidia/nemotron-pre-training-dataset-689d9de36f84279d83786b35' target="_blank">[Download Dataset]</a>
 <p align="justify">
 We introduce Nemotron-Nano-9B-v2, a hybrid Mamba-Transformer language model designed to increase throughput for reasoning workloads while achieving 
   state-of-the-art accuracy compared to similarly-sized models. Nemotron-Nano-9B-v2 builds on the Nemotron-H architecture, in which the majority of 
