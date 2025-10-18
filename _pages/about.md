@@ -27,7 +27,7 @@ I obtained my PhD in Computer Science at <a href="https://www.cs.ucla.edu/">Univ
 News and Announcements
 ======
 
-1. <span style="color:blue">[10.2025] </span> We introduce [GenCluster](https://arxiv.org/abs/2510.14232), a framework achieving IOI Gold with open-weight LLMs.
+1. <span style="color:blue">[10.2025] </span> We introduce [GenCluster](https://arxiv.org/abs/2510.14232), achieving IOI Gold with open-weight LLMs.
 1. <span style="color:blue">[10.2025] </span> We released [BigCodeArena](https://github.com/bigcode-project/bigcodearena?tab=readme-ov-file).
 1. <span style="color:blue">[08.2025] </span> We released [Nemotron-Nano-v2](https://huggingface.co/nvidia/NVIDIA-Nemotron-Nano-9B-v2).
 1. <span style="color:blue">[04.2025] </span> We released [OpenCodeInstruct](https://arxiv.org/abs/2504.04030) and [OpenCodeReasoning](https://arxiv.org/abs/2504.01943).
