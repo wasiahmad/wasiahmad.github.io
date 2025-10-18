@@ -1,7 +1,7 @@
 ---
 title: "Scaling Test-Time Compute to Achieve IOI Gold Medal with Open-Weight Models"
 collection: publications
-Authors: '<b>Wasi Uddin Ahmad</b>, Somshubra Majumdar, Aleksander Ficek, Sean Narenthiran, Mehrzad Samadi, Jocelyn Huang, Siddhartha Jain, Vahid Noroozi, and Boris Ginsburg.'
+Authors: 'Mehrzad Samadi, Aleksander Ficek, Sean Narenthiran, Siddhartha Jain, <b>Wasi Uddin Ahmad</b>, Somshubra Majumdar, Vahid Noroozi, and Boris Ginsburg.'
 date: 10/2025
 venue: 'NeurIPS 2025 Fourth Workshop on Deep Learning for Code'
 paperurl: 'https://arxiv.org/abs/2510.14232'
