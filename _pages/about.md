@@ -29,13 +29,13 @@ News and Announcements
 
 1. <span style="color:blue">[10.2025] </span> We introduce [GenCluster](https://arxiv.org/abs/2510.14232), a framework achieving IOI Gold with open-weight LLMs.
 1. <span style="color:blue">[10.2025] </span> We released [BigCodeArena](https://github.com/bigcode-project/bigcodearena?tab=readme-ov-file).
-1. <span style="color:blue">[08.2025] </span> We released [Nemotron-Nano-v2](https://huggingface.co/nvidia/NVIDIA-Nemotron-Nano-9B-v2)
+1. <span style="color:blue">[08.2025] </span> We released [Nemotron-Nano-v2](https://huggingface.co/nvidia/NVIDIA-Nemotron-Nano-9B-v2).
 1. <span style="color:blue">[04.2025] </span> We released [OpenCodeInstruct](https://arxiv.org/abs/2504.04030) and [OpenCodeReasoning](https://arxiv.org/abs/2504.01943).
 1. <span style="color:blue">[03.2025] </span> I will serve as a senior area chair for EMNLP 2025.
 1. <span style="color:blue">[01.2025] </span> [LibEvolutionEval](https://lib-evolution-eval.github.io/) got accepted at NAACL 2025.
-1. <span style="color:blue">[01.2025] </span> We released [CodeSage-v2](https://code-representation-learning.github.io/codesage-v2.html) with improved performances.
 
 <!---
+1. <span style="color:blue">[01.2025] </span> We released [CodeSage-v2](https://code-representation-learning.github.io/codesage-v2.html) with improved performances.
 1. <span style="color:blue">[07.2024] </span> [IllusionVQA](https://illusionvqa.github.io/) got accepted at COLM 2024.
 1. <span style="color:blue">[06.2024] </span> I joined NVIDIA as a senior research scientist!
 1. <span style="color:blue">[05.2024] </span> [Repoformer](https://repoformer.github.io/) got accepted at ICML 2024.
