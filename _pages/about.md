@@ -30,6 +30,7 @@ News and Announcements
 1. <span style="color:blue">[10.2025] </span> We introduce [GenCluster](https://arxiv.org/abs/2510.14232), achieving IOI Gold with open-weight LLMs.
 1. <span style="color:blue">[10.2025] </span> We released [BigCodeArena](https://github.com/bigcode-project/bigcodearena?tab=readme-ov-file), check this out!
 1. <span style="color:blue">[08.2025] </span> We released [Nemotron-Nano-v2](https://huggingface.co/nvidia/NVIDIA-Nemotron-Nano-9B-v2).
+1. <span style="color:blue">[04.2025] </span> We released [Nemotron-H](https://arxiv.org/abs/2504.03624), a family of Mamba-Transformer models.
 1. <span style="color:blue">[04.2025] </span> We released [OpenCodeInstruct](https://arxiv.org/abs/2504.04030) and [OpenCodeReasoning](https://arxiv.org/abs/2504.01943).
 1. <span style="color:blue">[03.2025] </span> I will serve as a senior area chair for [EMNLP](https://2025.emnlp.org/organization/program/) and [IJCNLP-AACL](https://2025.aaclnet.org/organization/program/) 2025.
 1. <span style="color:blue">[01.2025] </span> [LibEvolutionEval](https://lib-evolution-eval.github.io/) got accepted at NAACL 2025.
