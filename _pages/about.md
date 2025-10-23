@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="justify">
-I am a senior research scientist in the Applied Research on AI Applications team at NVIDIA. We work on foundation models with a focus on code generation, mathematical reasoning, long-context understanding, and model robustness. Before NVIDIA, I was at AWS AI Labs, working on code generation for <a href="https://aws.amazon.com/q/developer/">Amazon Q Developer</a>.
+I’m a Senior Research Scientist on the Post-Training Applied Research team at NVIDIA, where I focus on supervised fine-tuning of large language models (LLMs), with an emphasis on synthetic data generation. Before NVIDIA, I worked at AWS AI Labs, where I focused on code generation for <a href="https://aws.amazon.com/q/developer/">Amazon Q Developer</a>.
 </p>
 
 <p align="justify">
