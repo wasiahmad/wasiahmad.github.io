@@ -1,10 +1,10 @@
 ---
 title: "Nemotron 3 Nano: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Model for Agentic Reasoning"
 collection: publications
-Authors: 'NVIDIA: <b>Wasi Uddin Ahmad</b> (Contributed to Pretraining Data and Posttraining), and others.'
+Authors: 'NVIDIA'
 date: 12/2025
-venue: ''
-paperurl: 'https://research.nvidia.com/labs/nemotron/files/NVIDIA-Nemotron-3-Nano-Technical-Report.pdf'
+venue: 'NVIDIA Research Blog'
+paperurl: 'https://research.nvidia.com/labs/nemotron/Nemotron-3'
 modelurl: 'https://huggingface.co/collections/nvidia/nvidia-nemotron-v3'
 excerpt: ''
 ---
