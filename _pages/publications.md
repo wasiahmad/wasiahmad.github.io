@@ -16,11 +16,28 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 {% assign current_year = site.time | date: "%Y" %}
 {% assign publicationsByYear = site.publications | group_by_exp:"post", "post.date | date: '%Y'" %}
 
-<h1 style="margin: 1.25em 0px -0.5em; padding: 0px; color: brown;">Recent Preprints</h1>
+<!-- <h1 style="margin: 1.25em 0px -0.5em; padding: 0px; color: brown;">Recent Preprints</h1>
 {% assign current_year = site.time | date: "%Y" %}
 {% for post in site.publications reversed %}
   {% assign post_year = post.date | date: "%Y" %}
   {% if post.venue == "arXiv" and post_year == current_year %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %} -->
+
+<h1 style="margin: 1.25em 0px -0.5em; padding: 0px; color: brown;">Recent Preprints</h1>
+
+{% comment %} Convert current time to Unix timestamp (seconds) and integer {% endcomment %}
+{% assign now_seconds = site.time | date: "%s" | plus: 0 %}
+{% assign one_year_seconds = 31536000 %}
+{% assign threshold_seconds = now_seconds | minus: one_year_seconds %}
+
+{% for post in site.publications reversed %}
+  {% comment %} Convert post date to Unix timestamp {% endcomment %}
+  {% assign post_seconds = post.date | date: "%s" | plus: 0 %}
+  
+  {% comment %} Check if arXiv AND post date is greater (newer) than the threshold {% endcomment %}
+  {% if post.venue == "arXiv" and post_seconds > threshold_seconds %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
