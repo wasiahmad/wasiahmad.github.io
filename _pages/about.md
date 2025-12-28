@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="justify">
-I’m a Senior Research Scientist on the Post-Training Applied Research team at NVIDIA, where I focus on supervised fine-tuning of large language models (LLMs), with an emphasis on synthetic data generation. Before NVIDIA, I worked at AWS AI Labs, where I focused on code generation for <a href="https://aws.amazon.com/q/developer/">Amazon Q Developer</a>.
+I’m a Senior Research Scientist at NVIDIA, working on post-training applied research — teaching large language models to write better code by fine-tuning them where it matters most. Before NVIDIA, I worked at AWS AI Labs, where I focused on code generation for <a href="https://aws.amazon.com/q/developer/">Amazon Q Developer</a>.
 </p>
 
 <p align="justify">
