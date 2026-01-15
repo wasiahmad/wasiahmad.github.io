@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="justify">
-I’m a Senior Research Scientist on NVIDIA’s Post-Training Applied Research team, where I push the boundaries of code generation by fine-tuning large language models. Before NVIDIA, I worked at AWS AI Labs, where I focused on code generation for <a href="https://aws.amazon.com/q/developer/">Amazon Q Developer</a>.
+I’m a Senior Research Scientist on the <a href="https://www.nvidia.com/en-us/ai-data-science/foundation-models/nemotron/">Nvidia Nemotron Research</a> team, focused on pushing the limits of code generation through fine-tuning and optimization of large language models. I was part of AWS AI Labs, where I helped build code generation capabilities for <a href="https://aws.amazon.com/q/developer/">Amazon Q Developer</a>.
 </p>
 
 <p align="justify">
