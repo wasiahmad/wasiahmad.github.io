@@ -27,6 +27,7 @@ I obtained my PhD in Computer Science at <a href="https://www.cs.ucla.edu/">Univ
 News and Announcements
 ======
 
+1. <span style="color:blue">[03.2026] </span> We released [Nemotron 3 Super: An Open and Efficient Model for Agentic Reasoning](https://blogs.nvidia.com/blog/nemotron-3-super-agentic-ai/).
 1. <span style="color:blue">[12.2025] </span> We released [Nemotron 3 Family of Models](https://research.nvidia.com/labs/nemotron/Nemotron-3/).
 1. <span style="color:blue">[11.2025] </span> Presented tutorial [“NLP+Code: Code Intelligence in Language Models”](https://code-lm.github.io/) at EMNLP 2025.
 1. <span style="color:blue">[10.2025] </span> We introduce [GenCluster](https://arxiv.org/abs/2510.14232), achieving IOI Gold with open-weight LLMs.
