@@ -20,7 +20,7 @@ redirect_from:
 	</li>
 	<li> Senior Program Committee/Area Chair
 		<ul>
-			<li>2026: AAAI </li>
+			<li>2026: NeurIPS, AAAI </li>
 			<li>2025: AAAI </li>
 			<li>2024: ACL, AAAI, ARR </li>
 			<li>2023: AAAI, ARR </li>
