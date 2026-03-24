@@ -13,12 +13,12 @@ I’m a Senior Research Scientist on the <a href="https://www.nvidia.com/en-us/a
 </p>
 
 <p align="justify">
-I obtained my PhD in Computer Science at <a href="https://www.cs.ucla.edu/">University of California Los Angeles</a>, supervised by <a href="http://web.cs.ucla.edu/~kwchang/">Dr. Kai-Wei Chang</a>. I was fortunate to work as a research intern at Meta AI, Yahoo Research, Microsoft Research, and Walmart Labs during my PhD.
+I obtained my PhD in Computer Science at <a href="https://www.cs.ucla.edu/">University of California, Los Angeles</a>, supervised by <a href="http://web.cs.ucla.edu/~kwchang/">Dr. Kai-Wei Chang</a>. I was fortunate to work as a research intern at Meta AI, Yahoo Research, Microsoft Research, and Walmart Labs during my PhD.
 </p>
 
 <!-- 
 <p align="justify">
-  Before joining AWS, I completed my Ph.D. in Computer Science from the University of California Los Angeles, in September 2021. I was part of the UCLA NLP group, advised by <a href="http://web.cs.ucla.edu/~kwchang/">Dr. Kai-Wei Chang</a>. Previously, I received my Bachelor's in Computer Science and Engineering from the Bangladesh University of Engineering and Technology, in February 2013, and my Master of Computer Science from the University of Virginia, in August 2017. I like to solve problems to improve my programming skills in 
+  Before joining AWS, I completed my Ph.D. in Computer Science from the University of California, Los Angeles, in September 2021. I was part of the UCLA NLP group, advised by <a href="http://web.cs.ucla.edu/~kwchang/">Dr. Kai-Wei Chang</a>. Previously, I received my Bachelor's in Computer Science and Engineering from the Bangladesh University of Engineering and Technology in February 2013, and my Master of Computer Science from the University of Virginia in August 2017. I like to solve problems to improve my programming skills in 
   my free time. I have answered <b><font color="blue">500+</font></b> questions on StackOverflow and earned 
   <b><font color="blue">30,000+</font></b> reputation. 
 </p>
@@ -27,6 +27,7 @@ I obtained my PhD in Computer Science at <a href="https://www.cs.ucla.edu/">Univ
 News and Announcements
 ======
 
+1. <span style="color:blue">[03.2026] </span> I will serve as an area chair for NeurIPS 2026.
 1. <span style="color:blue">[03.2026] </span> I will serve as a senior area chair for EMNLP 2026.
 1. <span style="color:blue">[03.2026] </span> We released [Nemotron 3 Super for Agentic Reasoning](https://blogs.nvidia.com/blog/nemotron-3-super-agentic-ai/).
 1. <span style="color:blue">[12.2025] </span> We released [Nemotron 3 Family of Models](https://research.nvidia.com/labs/nemotron/Nemotron-3/).
