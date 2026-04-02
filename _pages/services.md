@@ -20,7 +20,7 @@ redirect_from:
 	</li>
 	<li> Senior Program Committee/Area Chair
 		<ul>
-			<li>2026: NeurIPS, AAAI </li>
+			<li>2026: COLM, NeurIPS, AAAI </li>
 			<li>2025: AAAI </li>
 			<li>2024: ACL, AAAI, ARR </li>
 			<li>2023: AAAI, ARR </li>
@@ -28,7 +28,7 @@ redirect_from:
 	</li>
 	<li> Program Committee/Reviewer
 		<ul>
-			<li>2026: COLM, ICML, TheWebConf, ICLR </li>
+			<li>2026: ICML, TheWebConf, ICLR </li>
 			<li>2025: NeurIPS, COLM, ICML, AISTATS, ICLR </li>
 			<li>2024: NeurIPS, CIKM, COLM, ICML, IJCAI, SIGIR, LREC-COLING, ICLR </li>
 			<li>2023: EMNLP, NeurIPS, ICML, SIGIR, ACL, IJCAI, ICLR, ARR, EACL </li>
