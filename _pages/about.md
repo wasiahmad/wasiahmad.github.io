@@ -27,6 +27,7 @@ I obtained my PhD in Computer Science at <a href="https://www.cs.ucla.edu/">Univ
 News and Announcements
 ======
 
+1. <span style="color:blue">[10.2025] </span> [GenCluster](https://arxiv.org/abs/2510.14232) accepted to ACL 2026 (main conference).
 1. <span style="color:blue">[03.2026] </span> I will serve as an area chair for NeurIPS 2026 and COLM 2026.
 1. <span style="color:blue">[03.2026] </span> I will serve as a senior area chair for EMNLP 2026.
 1. <span style="color:blue">[03.2026] </span> We released [Nemotron 3 Super for Agentic Reasoning](https://blogs.nvidia.com/blog/nemotron-3-super-agentic-ai/).
