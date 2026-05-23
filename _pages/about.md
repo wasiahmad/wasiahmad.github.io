@@ -15,7 +15,7 @@ I'm a Senior Research Scientist on the <a href="https://www.nvidia.com/en-us/ai-
   Previously, I built code LLMs at AWS AI Labs (<a href="https://aws.amazon.com/q/developer/">Amazon Q Developer</a>) and studied at UCLA in the <a href="https://nlp.ucla.edu/">UCLA NLP Group</a> 
   (w/ <a href="https://web.cs.ucla.edu/~kwchang/">Kai-Wei Chang</a>), the <a href="https://engineering.virginia.edu/department/computer-science">University of Virginia</a>, and <a href="https://cse.buet.ac.bd/">Bangladesh University of Engineering and Technology</a>.
 
-  Deeply committed to the research community, I regularly serve in roles at major NLP and ML venues, including as a Senior Area Chair, Area Chair, workshop co-organizer, and as a tutorial presenter at major venues.
+  Deeply committed to the research community, I regularly serve as a (Senior) Area Chair, reviewer, workshop co-organizer, and tutorial presenter at premier NLP and ML venues.
 
 </p>
 
