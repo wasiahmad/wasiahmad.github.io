@@ -9,12 +9,13 @@ redirect_from:
 ---
 
 <p align="justify">
-I'm a Senior Research Scientist on the <a href="https://www.nvidia.com/en-us/ai-data-science/foundation-models/nemotron/">Nvidia Nemotron Research</a> team. We push the limits of code generation through fine-tuning and optimization of Nemotron.
+I'm a Senior Research Scientist on the <a href="https://www.nvidia.com/en-us/ai-data-science/foundation-models/nemotron/">Nvidia Nemotron Research</a> team, where I work on post-training, alignment, 
+  and test-time scaling strategies to push the boundaries of LLM reasoning and code generation.
 
   Previously, I built code LLMs at AWS AI Labs (<a href="https://aws.amazon.com/q/developer/">Amazon Q Developer</a>) and studied at UCLA in the <a href="https://nlp.ucla.edu/">UCLA NLP Group</a> 
   (w/ <a href="https://web.cs.ucla.edu/~kwchang/">Kai-Wei Chang</a>), the <a href="https://engineering.virginia.edu/department/computer-science">University of Virginia</a>, and <a href="https://cse.buet.ac.bd/">Bangladesh University of Engineering and Technology</a>.
 
-  I value contributing to the research community. I serve as area chair and reviewer, workshop co-organizer, and tutorial presenter at major venues.
+  Deeply committed to the research community, I regularly serve in roles at major NLP and ML venues, including as a Senior Area Chair, Area Chair, workshop co-organizer, and as a tutorial presenter at major venues.
 
 </p>
 
