@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="justify">
-I’m a Senior Research Scientist on the <a href="https://www.nvidia.com/en-us/ai-data-science/foundation-models/nemotron/">Nvidia Nemotron Research</a> team, focused on pushing the limits of code generation through fine-tuning and optimization of large language models. I was part of AWS AI Labs, where I helped build code generation capabilities for <a href="https://aws.amazon.com/q/developer/">Amazon Q Developer</a>.
+I'm a Senior Research Scientist on the <a href="https://www.nvidia.com/en-us/ai-data-science/foundation-models/nemotron/">Nvidia Nemotron Research</a> team. We push the limits of code generation through fine-tuning and optimization of Nemotron.
 
   Previously, I built code LLMs at AWS AI Labs (<a href="https://aws.amazon.com/q/developer/">Amazon Q Developer</a>) and studied at UCLA in the <a href="https://nlp.ucla.edu/">UCLA NLP Group</a> 
   (w/ <a href="https://web.cs.ucla.edu/~kwchang/">Kai-Wei Chang</a>), the <a href="https://engineering.virginia.edu/department/computer-science">University of Virginia</a>, and <a href="https://cse.buet.ac.bd/">Bangladesh University of Engineering and Technology</a>.
