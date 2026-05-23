@@ -10,13 +10,21 @@ redirect_from:
 
 <p align="justify">
 I’m a Senior Research Scientist on the <a href="https://www.nvidia.com/en-us/ai-data-science/foundation-models/nemotron/">Nvidia Nemotron Research</a> team, focused on pushing the limits of code generation through fine-tuning and optimization of large language models. I was part of AWS AI Labs, where I helped build code generation capabilities for <a href="https://aws.amazon.com/q/developer/">Amazon Q Developer</a>.
+
+  Previously, I built code LLMs at AWS AI Labs (<a href="https://aws.amazon.com/q/developer/">Amazon Q Developer</a>) and studied at UCLA in the <a href="https://nlp.ucla.edu/">UCLA NLP Group</a> 
+  (w/ <a href="https://web.cs.ucla.edu/~kwchang/">Kai-Wei Chang</a>), the <a href="https://engineering.virginia.edu/department/computer-science">University of Virginia</a>, and <a href="https://cse.buet.ac.bd/">Bangladesh University of Engineering and Technology</a>.
+
+  I value contributing to the research community. I serve as area chair and reviewer, workshop co-organizer, and tutorial presenter at major venues.
+
 </p>
 
+
+
+<!-- 
 <p align="justify">
 I obtained my PhD in Computer Science at <a href="https://www.cs.ucla.edu/">University of California, Los Angeles</a>, supervised by <a href="http://web.cs.ucla.edu/~kwchang/">Dr. Kai-Wei Chang</a>. I was fortunate to work as a research intern at Meta AI, Yahoo Research, Microsoft Research, and Walmart Labs during my PhD.
 </p>
 
-<!-- 
 <p align="justify">
   Before joining AWS, I completed my Ph.D. in Computer Science from the University of California, Los Angeles, in September 2021. I was part of the UCLA NLP group, advised by <a href="http://web.cs.ucla.edu/~kwchang/">Dr. Kai-Wei Chang</a>. Previously, I received my Bachelor's in Computer Science and Engineering from the Bangladesh University of Engineering and Technology in February 2013, and my Master of Computer Science from the University of Virginia in August 2017. I like to solve problems to improve my programming skills in 
   my free time. I have answered <b><font color="blue">500+</font></b> questions on StackOverflow and earned 
