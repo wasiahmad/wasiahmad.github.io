@@ -9,8 +9,7 @@ redirect_from:
 ---
 
 <p align="justify">
-I'm a Senior Research Scientist on the <a href="https://www.nvidia.com/en-us/ai-data-science/foundation-models/nemotron/">Nvidia Nemotron Research</a> team, where I work on post-training, alignment, 
-  and test-time scaling strategies to push the boundaries of LLM reasoning and code generation.
+I'm a Senior Research Scientist on the <a href="https://www.nvidia.com/en-us/ai-data-science/foundation-models/nemotron/">Nvidia Nemotron Research</a> team. I work at the intersection of post-training, alignment, and test-time scaling. My goal is to move beyond static chat to build LLMs with robust reasoning and autonomous code-generation capabilities.
 </p>
 
 <p align="justify">
