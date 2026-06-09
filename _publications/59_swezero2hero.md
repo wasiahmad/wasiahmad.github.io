@@ -5,10 +5,11 @@ Authors: 'Nikolai Ludwig<sup>*</sup>, <b>Wasi Uddin Ahmad</b><sup>*</sup>, Somsh
 date: 04/2026
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2604.01496'
+dataurl: 'https://huggingface.co/collections/nvidia/swe-zero-to-swe-hero'
 excerpt: ''
 ---
 ---
-<a href='https://arxiv.org/pdf/2604.01496' target="_blank">[Download Paper]</a>
+<a href='https://arxiv.org/pdf/2604.01496' target="_blank">[Download Paper]</a><a href='https://huggingface.co/collections/nvidia/swe-zero-to-swe-hero' target="_blank">[Models and Datasets]</a>
 <p align="justify">
 We introduce SWE-ZERO to SWE-HERO, a two-stage SFT recipe that achieves state-of-the-art results on SWE-bench by distilling open-weight frontier 
   LLMs. Our pipeline replaces resource-heavy dependencies with an evolutionary refinement strategy: (1) SWE-ZERO utilizes large-scale, execution-free 
