@@ -40,13 +40,13 @@ News and Announcements
 1. <span style="color:blue">[03.2026] </span> I will serve as an area chair for NeurIPS 2026 and COLM 2026.
 1. <span style="color:blue">[03.2026] </span> I will serve as a senior area chair for EMNLP 2026.
 1. <span style="color:blue">[03.2026] </span> We released [Nemotron 3 Super for Agentic Reasoning](https://blogs.nvidia.com/blog/nemotron-3-super-agentic-ai/).
+
+
+<!---
 1. <span style="color:blue">[12.2025] </span> We released [Nemotron 3 Family of Models](https://research.nvidia.com/labs/nemotron/Nemotron-3/).
 1. <span style="color:blue">[11.2025] </span> Presented tutorial [“Code Intelligence in Language Models”](https://code-lm.github.io/) at EMNLP 2025.
 1. <span style="color:blue">[10.2025] </span> We introduce [GenCluster](https://arxiv.org/abs/2510.14232), achieving IOI Gold with open-weight LLMs.
 1. <span style="color:blue">[10.2025] </span> We released [BigCodeArena](https://github.com/bigcode-project/bigcodearena?tab=readme-ov-file), check this out!
-
-
-<!---
 1. <span style="color:blue">[08.2025] </span> We released [Nemotron-Nano-v2](https://huggingface.co/nvidia/NVIDIA-Nemotron-Nano-9B-v2).
 1. <span style="color:blue">[06.2025] </span> Co-organizing [Deep Learning for Code](https://dl4c.github.io/) workshop at NeurIPS 2025.
 1. <span style="color:blue">[04.2025] </span> We released [Nemotron-H](https://arxiv.org/abs/2504.03624), a family of Mamba-Transformer models.
