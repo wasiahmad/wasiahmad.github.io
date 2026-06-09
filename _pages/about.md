@@ -35,7 +35,7 @@ News and Announcements
 ======
 
 1. <span style="color:blue">[06.2026] </span> We released [Nemotron 3 Ultra for Agentic Reasoning](https://research.nvidia.com/labs/nemotron/Nemotron-3-Ultra/).
-1. <span style="color:blue">[05.2026] </span> We released [SWE-Zero to SWE-Hero](https://arxiv.org/pdf/2604.01496) framework!
+1. <span style="color:blue">[05.2026] </span> We introduce [SWE-Zero to SWE-Hero](https://arxiv.org/pdf/2604.01496) framework!
 1. <span style="color:blue">[04.2026] </span> [GenCluster](https://arxiv.org/abs/2510.14232) accepted to ACL 2026 (main conference).
 1. <span style="color:blue">[03.2026] </span> I will serve as an area chair for NeurIPS 2026 and COLM 2026.
 1. <span style="color:blue">[03.2026] </span> I will serve as a senior area chair for EMNLP 2026.
