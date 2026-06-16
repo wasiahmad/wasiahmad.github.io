@@ -4,12 +4,12 @@ collection: publications
 Authors: '<b>Wasi Uddin Ahmad</b>, Nikolai Ludwig, Somshubra Majumdar, and Boris Ginsburg.'
 date: 06/2026
 venue: 'arXiv'
-paperurl: 'https://arxiv.org/abs/?'
+paperurl: 'https://arxiv.org/abs/2606.16038'
 dataurl: 'https://huggingface.co/datasets/nvidia/Open-SWE-Traces'
 excerpt: ''
 ---
 ---
-<a href='https://arxiv.org/pdf/?' target="_blank">[Download Paper]</a><a href='https://huggingface.co/collections/nvidia/open-swe-traces' target="_blank">[Models and Datasets]</a>
+<a href='https://arxiv.org/pdf/2606.16038' target="_blank">[Download Paper]</a><a href='https://huggingface.co/collections/nvidia/open-swe-traces' target="_blank">[Models and Datasets]</a>
 <p align="justify">
 The path toward autonomous software engineering is currently bottlenecked by a severe deficit of diverse, large-scale trajectory data. We address this by introducing OPEN-SWETRACES, an expansive dataset of 207,489 agentic trajectories 
   spanning nine programming languages (Python, Go, TS, JS, Rust, Java, PHP, C, C++). Sourced from 20,000 real-world PRs via OpenHands and SWE-agent harnesses, the dataset utilizes a hybrid-reasoning synthesis: Minimax-M2.5 generates 
