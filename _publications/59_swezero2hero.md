@@ -2,8 +2,8 @@
 title: "From SWE-ZERO to SWE-HERO: Execution-free to Execution-based Fine-tuning for Software Engineering Agents"
 collection: publications
 Authors: 'Nikolai Ludwig<sup>*</sup>, <b>Wasi Uddin Ahmad</b><sup>*</sup>, Somshubra Majumdar, and Boris Ginsburg.'
-date: 04/2026
-venue: 'arXiv'
+date: 07/2026
+venue: 'COLM'
 paperurl: 'https://arxiv.org/abs/2604.01496'
 dataurl: 'https://huggingface.co/collections/nvidia/swe-zero-to-swe-hero'
 excerpt: ''
