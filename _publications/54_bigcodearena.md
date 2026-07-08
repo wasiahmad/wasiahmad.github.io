@@ -2,8 +2,8 @@
 title: "BigCodeArena: Unveiling More Reliable Human Preferences in Code Generation via Execution"
 collection: publications
 Authors: 'Terry Yue Zhuo, Xiaolong Jin, Hange Liu, Juyong Jiang, Tianyang Liu, Chen GONG, Bhupesh Bishnoi, Vaisakhi Mishra, Marek Suppa, Noah Ziems, Saiteja Utpala, Ming Xu, Guangyu Song, Kaixin Li, Yuhan Cao, Bo Liu, Zheng Liu, Sabina Abdurakhmanova, Wenhao Yu, Mengzhao Jia, Jihan Yao, Kenneth Hamilton, Kumar Shridhar, Vu Minh Chien, Dingmin Wang, Jiawei Liu, Zijian Wang, Qian Liu, Binyuan Hui, Meg Risdal, Ahsen Khaliq, Atin Sood, Zhenchang Xing, <b>Wasi Uddin Ahmad</b>, John C. Grundy, David Lo, Banghua Zhu, Xiaoning Du, Torsten Scholak, Leandro Von Werra.'
-date: 10/2025
-venue: 'arXiv'
+date: 07/2026
+venue: 'COLM'
 paperurl: 'https://arxiv.org/abs/2510.08697'
 codeurl: 'https://github.com/bigcode-project/bigcodearena'
 dataurl: 'https://huggingface.co/collections/bigcode/bigcodearena-68cd3a196e5147cc45f8ea3d'
