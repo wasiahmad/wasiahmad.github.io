@@ -20,7 +20,8 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 {% comment %} Convert current time to Unix timestamp (seconds) and integer {% endcomment %}
 {% assign now_seconds = site.time | date: "%s" | plus: 0 %}
 {% assign one_year_seconds = 31536000 %}
-{% assign threshold_seconds = now_seconds | minus: one_year_seconds %}
+{% assign six_months_seconds = 15768000 %}
+{% assign threshold_seconds = now_seconds | minus: six_months_seconds %}
 
 {% for post in site.publications reversed %}
   {% if post.venue == "arXiv" or post.venue == "NVIDIA Research Blog" %}
