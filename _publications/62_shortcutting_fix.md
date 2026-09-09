@@ -4,11 +4,11 @@ collection: publications
 Authors: 'Nikolai Ludwig, <b>Wasi Uddin Ahmad</b>, Somshubra Majumdar, and Boris Ginsburg.'
 date: 09/2026
 venue: 'arXiv'
-paperurl: 'https://arxiv.org/abs/?8'
+paperurl: 'https://arxiv.org/abs/2609.06780'
 excerpt: ''
 ---
 ---
-<a href='https://arxiv.org/pdf/?' target="_blank">[Download Paper]</a>
+<a href='https://arxiv.org/pdf/2609.06780' target="_blank">[Download Paper]</a>
 <p align="justify">
 While autonomous software engineering (SWE) agents achieve high benchmark resolution rates, these scores can mask exploitative behaviors—such as leveraging local Git histories, 
   accessing upstream repositories, or recalling memorized solutions—rather than demonstrating genuine problem solving. We systematize and audit these exploits across five open 
