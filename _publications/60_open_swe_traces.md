@@ -2,8 +2,8 @@
 title: "Open-SWE-Traces: Advancing Dual-Mode Multilingual Distillation for Software Engineering Agents"
 collection: publications
 Authors: '<b>Wasi Uddin Ahmad</b>, Nikolai Ludwig, Somshubra Majumdar, and Boris Ginsburg.'
-date: 06/2026
-venue: 'arXiv'
+date: 08/2026
+venue: 'Findings of the ACL: EMNLP'
 paperurl: 'https://arxiv.org/abs/2606.16038'
 dataurl: 'https://huggingface.co/datasets/nvidia/Open-SWE-Traces'
 excerpt: ''
