@@ -39,7 +39,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
   {% assign publicationsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
   {% for month in publicationsByMonth reversed %}
     {% for post in month.items reversed %}
-      {% if post.venue != "arXiv" and post.venue != "UCLA Electronic Theses and Dissertations" %}
+      {% if post.venue != "arXiv" and post.venue != "NVIDIA Research Blog" and post.venue != "UCLA Electronic Theses and Dissertations" %}
         {% include archive-single.html %}
       {% endif %}
     {% endfor %}
