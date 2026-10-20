@@ -32,6 +32,7 @@ I obtained my PhD in Computer Science at <a href="https://www.cs.ucla.edu/">Univ
 News and Announcements
 ======
 
+1. <span style="color:blue">[10.2026] </span> We released [Nemotron 3.5 Super and Lightning](https://research.nvidia.com/labs/nemotron/Nemotron-3.5-Super-and-Lightning/).
 1. <span style="color:blue">[08.2026] </span> [Open-SWE-Traces](https://huggingface.co/datasets/nvidia/open-swe-traces) accepted to EMNLP 2026 (Findings).
 1. <span style="color:blue">[07.2026] </span> Two papers got accepted at COLM 2026.
 1. <span style="color:blue">[06.2026] </span> We released [Open-SWE-Traces](https://huggingface.co/datasets/nvidia/open-swe-traces) to advance distillation of SWE agents.
