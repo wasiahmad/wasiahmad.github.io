@@ -3,13 +3,13 @@ title: "Nemotron 3.5 Super and Lightning: Open, Efficient Mixture-of-Experts Hyb
 collection: publications
 Authors: 'NVIDIA'
 date: 10/2026
-venue: 'NVIDIA Research Blog'
-paperurl: 'https://research.nvidia.com/labs/nemotron/files/NVIDIA-Nemotron-3.5-Super-and-Lightning-Technical-Report.pdf'
+venue: 'arXiv'
+paperurl: 'https://arxiv.org/abs/2610.38095'
 modelurl: 'https://huggingface.co/collections/nvidia/nvidia-nemotron-v3'
 excerpt: ''
 ---
 ---
-<a href='https://research.nvidia.com/labs/nemotron/files/NVIDIA-Nemotron-3.5-Super-and-Lightning-Technical-Report.pdf' target="_blank">[Download Paper]</a><a href='https://huggingface.co/collections/nvidia/nvidia-nemotron-v3' target="_blank">[Download Models]</a>
+<a href='https://arxiv.org/pdf/2610.38095' target="_blank">[Download Paper]</a><a href='https://huggingface.co/collections/nvidia/nvidia-nemotron-v3' target="_blank">[Download Models]</a>
 <p align="justify">
 We introduce Nemotron 3.5 Super and Nemotron 3.5 Lightning, open and efficient Mixture-of-Experts Hybrid Mamba-Transformer models designed for reasoning, long-context 
   understanding, and agentic workloads. Super is a 120B-parameter, 12B-active multimodal model, while Lightning is a smaller 30B-parameter, 3B-active text model; both designed 
