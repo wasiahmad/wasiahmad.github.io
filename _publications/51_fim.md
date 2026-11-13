@@ -2,8 +2,8 @@
 title: "From Output to Evaluation: Does Raw Instruction-Tuned Code LLMs Output Suffice for Fill-in-the-Middle Code Generation?"
 collection: publications
 Authors: '<b>Wasi Uddin Ahmad</b>, Somshubra Majumdar, and Boris Ginsburg.'
-date: 05/2025
-venue: 'arXiv'
+date: 11/2026
+venue: 'Findings of the ACL: EACL'
 paperurl: 'https://arxiv.org/abs/2505.18789'
 excerpt: ''
 ---
