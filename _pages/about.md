@@ -13,7 +13,7 @@ I'm a Senior Research Scientist on <a href="https://www.nvidia.com/en-us/ai-data
 </p>
 
 <p align="justify">
-Previously, I built code intelligence models for <a href="https://aws.amazon.com/q/developer/">Amazon Q Developer</a> at AWS AI Labs. I received my Ph.D. from UCLA (where I researched in the <a href="https://nlp.ucla.edu/">UCLA NLP Group</a> with <a href="https://web.cs.ucla.edu/~kwchang/">Kai-Wei Chang</a>), <a href="https://engineering.virginia.edu/department/computer-science">UVA</a>, and <a href="https://cse.buet.ac.bd/">BUET</a>. Active in the research community, I regularly serve as a (Senior) Area Chair, organizer, and reviewer for premier NLP and AI venues.
+Previously, I built code intelligence models for <a href="https://aws.amazon.com/q/developer/">Amazon Q Developer</a> at AWS AI Labs. I received my Ph.D. from UCLA (where I researched in the <a href="https://nlp.ucla.edu/">UCLA NLP Group</a> with <a href="https://web.cs.ucla.edu/~kwchang/">Kai-Wei Chang</a>), and hold prior degrees from <a href="https://engineering.virginia.edu/department/computer-science">UVA</a>, and <a href="https://cse.buet.ac.bd/">BUET</a>. Active in the research community, I regularly serve as a (Senior) Area Chair, organizer, and reviewer for premier NLP and AI venues.
 </p>
 
 
